@@ -4,123 +4,259 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>SAM.gov TLDR</title>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
-  :root {
-    --bg: #0b0d12; --panel: #12161f; --border: #232937; --text: #e8ebf1;
-    --muted: #93a0b4; --accent: #5b8cff; --fun: #f2a13d;
+  html, body, h1, h2, h3, h4, h5, h6 { font-family: "Roboto", sans-serif; }
+  body { font-size: 20px; line-height: 1.55; }
+  canvas#pattern { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; }
+  .topnav { background-color: #4994ec; overflow: hidden; }
+  .topnav a {
+    float: left; color: #f2f2f2; text-align: center; padding: 14px 18px;
+    text-decoration: none; font-size: 18px;
   }
-  @media (prefers-color-scheme: light) {
-    :root { --bg:#f6f7fb; --panel:#ffffff; --border:#e2e5ec; --text:#1a1d24; --muted:#5b6472; --accent:#3660d6; --fun:#b5670f; }
+  .topnav a.active { background-color: #0449aa; color: white; }
+  .topnav a:hover { background-color: #ddd; color: black; }
+
+  /* Explicit fallback colors (not just w3-white/w3-text-grey) so cards stay
+     readable even if the w3.css CDN is slow/blocked. */
+  .card-box {
+    background-color: #ffffff !important; color: #333333;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.35); border-radius: 2px;
   }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0; padding: 2rem 1rem 4rem; background: var(--bg); color: var(--text);
-    font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  .card-box h2 {
+    color: #757575; padding: 1rem 1.5rem 0.5rem; font-size: 1.7rem; margin: 0;
   }
-  .wrap { max-width: 860px; margin: 0 auto; }
-  h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
-  .meta { color: var(--muted); font-size: 0.9rem; margin-bottom: 1.5rem; }
-  .tldr {
-    background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
-    padding: 1rem 1.25rem; margin-bottom: 2rem; line-height: 1.5;
+  .card-box h2 i { color: #4994ec; }
+  .entry { padding: 0 1.5rem 1.25rem; }
+  .entry h4 { color: #333333; font-size: 1.4rem; margin: 0 0 0.4rem; }
+  .entry .meta-line {
+    color: #333333; font-size: 1.05rem; margin: 0.3rem 0; font-style: normal;
   }
-  .card {
-    background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
-    padding: 1rem 1.25rem; margin-bottom: 1rem;
+  .entry .meta-line i { color: #4994ec; }
+  .entry .tldr-body { font-size: 1.2rem; line-height: 1.55; margin: 0.75rem 0; color: #333333; }
+  .entry .why {
+    font-size: 1.05rem; line-height: 1.5; border-left: 4px solid #4994ec;
+    padding-left: 1rem; margin: 0.9rem 0; color: #555555;
   }
-  .card.fun { border-color: var(--fun); }
-  .card h3 { margin: 0 0 0.35rem; font-size: 1.05rem; }
-  .card .tags { color: var(--muted); font-size: 0.8rem; margin-bottom: 0.5rem; }
-  .card p { margin: 0.35rem 0; line-height: 1.45; }
-  .card .why { color: var(--muted); font-size: 0.9rem; }
-  .card a { color: var(--accent); text-decoration: none; font-size: 0.9rem; }
-  .card a:hover { text-decoration: underline; }
-  .section-label {
-    text-transform: uppercase; letter-spacing: 0.06em; font-size: 0.75rem;
-    color: var(--muted); margin: 1.75rem 0 0.75rem;
-  }
-  .empty { color: var(--muted); font-style: italic; }
+  .entry.fun .why { border-left-color: #f2a13d; }
+  .entry .tag { background-color: #4994ec !important; color: #fff !important; }
+  .entry a.w3-button { background-color: #4994ec !important; color: #ffffff !important; }
+  .sidebar p { font-size: 1.05rem; }
+  .sidebar p i { color: #4994ec; }
+  .section-hr { border: none; border-top: 1px solid #ddd; margin: 0 1.5rem; }
+  .empty { font-style: italic; font-size: 1.1rem; color: #333333; padding: 0 1.5rem 1.5rem; }
 </style>
 </head>
 <body>
-<div class="wrap">
-  <h1>SAM.gov TLDR</h1>
-  <div class="meta">Generated 2026-08-26 00:43 UTC &middot; Radiance / NASIC M&amp;S profile</div>
-  <div class="tldr">Today&#x27;s batch includes a variety of job opportunities related to defense contracting, particularly in modeling, simulation, and technology development for the DoD. The selected positions focus on areas that align with the profile&#x27;s expertise in simulation and training, as well as interests in software and electrical work.</div>
-  <div class="section-label">Top picks</div>
-  <div class="card">
-  <h3>Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) Development, Support and Integration</h3>
-  <div class="tags">DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY &middot; NAICS 541715 &middot; Small Business Set Aside - Total &middot; posted 2026-08-24 &middot; due &mdash;</div>
-  <p>This opportunity involves developing and integrating systems for C4ISR, which is crucial for military operations.</p>
-  <p class="why">The focus on communications and intelligence aligns with the profile&#x27;s work in simulation and training for the DoD.</p>
-  <a href="https://sam.gov/workspace/contract/opp/d276effbb9a64e888609e482cf938471/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>STAR-FISH CALL 017 - Secure By Design</h3>
-  <div class="tags">DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK &middot; NAICS 541715 &middot; No Set aside used &middot; posted 2026-08-24 &middot; due 2026-10-12T16:00:00-06:00</div>
-  <p>This project focuses on enhancing security measures in design processes for military applications.</p>
-  <p class="why">The emphasis on secure design processes is pertinent to simulation environments used in military training.</p>
-  <a href="https://sam.gov/workspace/contract/opp/39cd65627a4d4e95aa0d0ed46de22bdf/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>Space Power and Reactor Capabilities (SPARC) - Sources Sought Notice</h3>
-  <div class="tags">NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER &middot; NAICS 541715 &middot; &mdash; &middot; posted 2026-08-25 &middot; due 2026-08-17T17:00:00-04:00</div>
-  <p>This notice seeks information on capabilities related to space power and reactor technologies.</p>
-  <p class="why">The connection to aerospace technologies aligns with the profile&#x27;s work at NASIC and interest in simulation.</p>
-  <a href="https://sam.gov/workspace/contract/opp/4af70746c15f4352bece9ad95b2b9d30/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>Missile Defense Agency - Nimble Options for Buying Layered Effects (NOBLE) Announcement</h3>
-  <div class="tags">DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA) &middot; NAICS 541715 &middot; &mdash; &middot; posted 2026-08-24 &middot; due 2030-03-27T00:00:00-04:00</div>
-  <p>This announcement focuses on innovative approaches for missile defense systems.</p>
-  <p class="why">The technological development aspect is relevant to simulation and modeling in defense.</p>
-  <a href="https://sam.gov/workspace/contract/opp/a96dc33b4bb6444e9a8c34f65cadbb94/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>Cooperative Driving Automation (CDA) Small-Scale Industry Prototype</h3>
-  <div class="tags">TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT &middot; NAICS 541715 &middot; No Set aside used &middot; posted 2026-08-24 &middot; due 2026-09-28T15:00:00-04:00</div>
-  <p>This project involves developing prototypes for automated driving systems.</p>
-  <p class="why">The intersection of software development and automation aligns with the profile&#x27;s interests.</p>
-  <a href="https://sam.gov/workspace/contract/opp/1fc88d61a4174205b8ca064a63fea79e/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>High Assurance Computer Systems Security</h3>
-  <div class="tags">DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY &middot; NAICS 541715 &middot; No Set aside used &middot; posted 2026-08-24 &middot; due 2026-09-02T15:00:00-04:00</div>
-  <p>This opportunity focuses on ensuring the security of computer systems used in defense applications.</p>
-  <p class="why">The emphasis on security in systems is crucial for simulation environments.</p>
-  <a href="https://sam.gov/workspace/contract/opp/1ab71732b91e487794f8347e1dd721a7/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>B--Critical Management Investigation of Texas Cores C</h3>
-  <div class="tags">INTERIOR, DEPARTMENT OF THE.BUREAU OF OCEAN ENERGY MANAGEMENT.ACQUISITION MANAGEMENT DIVISION &middot; NAICS 541715 &middot; &mdash; &middot; posted 2026-08-24 &middot; due 2026-08-31T10:00:00-04:00</div>
-  <p>This project involves a critical management investigation related to ocean energy management.</p>
-  <p class="why">The analytical aspect of this work may appeal to someone involved in modeling and simulation.</p>
-  <a href="https://sam.gov/workspace/contract/opp/e7ccb50c52214b8e9b891208f6ee6fcc/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>Enterprise Wide Contract for the Center for Nuclear Waste Regulatory Analyses Work-For-Others Technical Assistance and Research Support of Activities under the Responsibility of the Nuclear Regulatory Commission&#x27;s (NRC) Program Offices</h3>
-  <div class="tags">NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION &middot; NAICS 541715 &middot; &mdash; &middot; posted 2026-08-24 &middot; due &mdash;</div>
-  <p>This contract involves providing technical assistance and research support for nuclear waste regulatory activities.</p>
-  <p class="why">The technical research aspect may resonate with the profile&#x27;s engineering background.</p>
-  <a href="https://sam.gov/workspace/contract/opp/c4ec04eda15f48daa52d8c282e40a1b6/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
-</div>
-<div class="card">
-  <h3>A--Support to Satellite Environmental Monitoring Prog</h3>
-  <div class="tags">COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA &middot; NAICS 541715 &middot; &mdash; &middot; posted 2026-08-25 &middot; due &mdash;</div>
-  <p>This opportunity involves supporting satellite programs focused on environmental monitoring.</p>
-  <p class="why">The environmental aspect ties into simulation and modeling for training purposes.</p>
-  <a href="https://sam.gov/workspace/contract/opp/4a4c9cf15ea4448cb7f8dcf64bc5c390/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
+
+<canvas id="pattern"></canvas>
+<script>
+  var canvas = document.getElementById('pattern');
+  var ctx = canvas.getContext('2d');
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+  ctx.fillStyle = '#333333';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+  ctx.strokeStyle = '#ffffff';
+  for (var i = 0; i < canvas.width; i += 50) {
+    for (var j = 0; j < canvas.height; j += 50) {
+      if (Math.random() < 0.5) {
+        ctx.beginPath();
+        ctx.moveTo(i, j);
+        ctx.lineTo(i + 25, j + 25);
+        ctx.stroke();
+      }
+    }
+  }
+</script>
+
+<div class="topnav">
+  <a href="https://pcarroll9500.github.io/">Home</a>
+  <a class="active" href="#">SAM.gov TLDR</a>
 </div>
 
-  <div class="section-label">For funzies</div>
-  <div class="card fun">
-  <h3>Inventory Management Software</h3>
-  <div class="tags">DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG NATICK &middot; NAICS 541511 &middot; &mdash; &middot; posted 2026-08-25 &middot; due 2026-08-26T15:30:00-04:00</div>
-  <p>This opportunity involves developing software for managing inventory, which can be a fun challenge for someone interested in software projects.</p>
-  <p class="why">The software development aspect aligns with the profile&#x27;s hobby interests in software projects.</p>
-  <a href="https://sam.gov/workspace/contract/opp/d76d575b2ec84c29a06cd06b52f0bee5/view" target="_blank" rel="noopener">View on SAM.gov &rarr;</a>
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+  <div class="w3-row-padding">
+
+    <!-- Left column -->
+    <div class="w3-third">
+      <div class="card-box sidebar">
+        <div class="w3-container" style="padding: 1.5rem;">
+          <h2 style="padding:0 0 0.75rem;"><i class="fa fa-flash fa-fw w3-margin-right"></i>SAM.gov TLDR</h2>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large"></i>Radiance Technologies &middot; NASIC M&amp;S</p>
+          <p><i class="fa fa-map-marker fa-fw w3-margin-right w3-large"></i>Dayton, OH</p>
+          <p><i class="fa fa-refresh fa-fw w3-margin-right w3-large"></i>Updated 2026-08-26 02:01 UTC</p>
+          <p><i class="fa fa-bullseye fa-fw w3-margin-right w3-large"></i>9 job picks &middot; 1 for funzies</p>
+        </div>
+      </div>
+      <br>
+    </div>
+    <!-- End left column -->
+
+    <!-- Right column -->
+    <div class="w3-twothird">
+
+      <div class="card-box w3-margin-bottom">
+        <h2><i class="fa fa-file-text-o fa-fw w3-margin-right"></i>Today's TLDR</h2>
+        <div class="entry" style="padding-top:0.5rem;">
+          <p class="tldr-body" style="font-size:1.3rem;">Today&#x27;s batch includes a variety of job opportunities related to defense contracting, particularly in modeling, simulation, and technology development for the DoD. The selected positions focus on areas that align with the profile&#x27;s expertise in simulation and training, as well as interests in software and electrical work.</p>
+        </div>
+      </div>
+
+      <div class="card-box w3-margin-bottom">
+        <h2><i class="fa fa-star fa-fw w3-margin-right"></i>Top Picks</h2>
+        <hr class="section-hr">
+        <div class="entry">
+  <h4><b>Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) Development, Support and Integration</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; Small Business Set Aside - Total &middot; posted 2026-08-24
+    <span class="w3-tag tag w3-round">due &mdash;</span>
+  </p>
+  <p class="tldr-body">This opportunity involves developing and integrating systems for C4ISR, which is crucial for military operations.</p>
+  <p class="why"><i>The focus on communications and intelligence aligns with the profile&#x27;s work in simulation and training for the DoD.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/d276effbb9a64e888609e482cf938471/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>STAR-FISH CALL 017 - Secure By Design</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; No Set aside used &middot; posted 2026-08-24
+    <span class="w3-tag tag w3-round">due 2026-10-12T16:00:00-06:00</span>
+  </p>
+  <p class="tldr-body">This project focuses on enhancing security measures in design processes for military applications.</p>
+  <p class="why"><i>The emphasis on secure design processes is pertinent to simulation environments used in military training.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/39cd65627a4d4e95aa0d0ed46de22bdf/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>Space Power and Reactor Capabilities (SPARC) - Sources Sought Notice</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; &mdash; &middot; posted 2026-08-25
+    <span class="w3-tag tag w3-round">due 2026-08-17T17:00:00-04:00</span>
+  </p>
+  <p class="tldr-body">This notice seeks information on capabilities related to space power and reactor technologies.</p>
+  <p class="why"><i>The connection to aerospace technologies aligns with the profile&#x27;s work at NASIC and interest in simulation.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/4af70746c15f4352bece9ad95b2b9d30/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>Missile Defense Agency - Nimble Options for Buying Layered Effects (NOBLE) Announcement</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; &mdash; &middot; posted 2026-08-24
+    <span class="w3-tag tag w3-round">due 2030-03-27T00:00:00-04:00</span>
+  </p>
+  <p class="tldr-body">This announcement focuses on innovative approaches for missile defense systems.</p>
+  <p class="why"><i>The technological development aspect is relevant to simulation and modeling in defense.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/a96dc33b4bb6444e9a8c34f65cadbb94/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>Cooperative Driving Automation (CDA) Small-Scale Industry Prototype</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; No Set aside used &middot; posted 2026-08-24
+    <span class="w3-tag tag w3-round">due 2026-09-28T15:00:00-04:00</span>
+  </p>
+  <p class="tldr-body">This project involves developing prototypes for automated driving systems.</p>
+  <p class="why"><i>The intersection of software development and automation aligns with the profile&#x27;s interests.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/1fc88d61a4174205b8ca064a63fea79e/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>High Assurance Computer Systems Security</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; No Set aside used &middot; posted 2026-08-24
+    <span class="w3-tag tag w3-round">due 2026-09-02T15:00:00-04:00</span>
+  </p>
+  <p class="tldr-body">This opportunity focuses on ensuring the security of computer systems used in defense applications.</p>
+  <p class="why"><i>The emphasis on security in systems is crucial for simulation environments.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/1ab71732b91e487794f8347e1dd721a7/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>B--Critical Management Investigation of Texas Cores C</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>INTERIOR, DEPARTMENT OF THE.BUREAU OF OCEAN ENERGY MANAGEMENT.ACQUISITION MANAGEMENT DIVISION</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; &mdash; &middot; posted 2026-08-24
+    <span class="w3-tag tag w3-round">due 2026-08-31T10:00:00-04:00</span>
+  </p>
+  <p class="tldr-body">This project involves a critical management investigation related to ocean energy management.</p>
+  <p class="why"><i>The analytical aspect of this work may appeal to someone involved in modeling and simulation.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/e7ccb50c52214b8e9b891208f6ee6fcc/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>Enterprise Wide Contract for the Center for Nuclear Waste Regulatory Analyses Work-For-Others Technical Assistance and Research Support of Activities under the Responsibility of the Nuclear Regulatory Commission&#x27;s (NRC) Program Offices</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; &mdash; &middot; posted 2026-08-24
+    <span class="w3-tag tag w3-round">due &mdash;</span>
+  </p>
+  <p class="tldr-body">This contract involves providing technical assistance and research support for nuclear waste regulatory activities.</p>
+  <p class="why"><i>The technical research aspect may resonate with the profile&#x27;s engineering background.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/c4ec04eda15f48daa52d8c282e40a1b6/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+<div class="entry">
+  <h4><b>A--Support to Satellite Environmental Monitoring Prog</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541715 &middot; &mdash; &middot; posted 2026-08-25
+    <span class="w3-tag tag w3-round">due &mdash;</span>
+  </p>
+  <p class="tldr-body">This opportunity involves supporting satellite programs focused on environmental monitoring.</p>
+  <p class="why"><i>The environmental aspect ties into simulation and modeling for training purposes.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/4a4c9cf15ea4448cb7f8dcf64bc5c390/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+
+      </div>
+
+      <div class="card-box w3-margin-bottom">
+        <h2><i class="fa fa-smile-o fa-fw w3-margin-right" style="color:#f2a13d;"></i>For Funzies</h2>
+        <hr class="section-hr">
+        <div class="entry fun">
+  <h4><b>Inventory Management Software</b></h4>
+  <p class="meta-line"><i class="fa fa-building fa-fw w3-margin-right"></i>DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG NATICK</p>
+  <p class="meta-line"><i class="fa fa-calendar fa-fw w3-margin-right"></i>NAICS 541511 &middot; &mdash; &middot; posted 2026-08-25
+    <span class="w3-tag tag w3-round">due 2026-08-26T15:30:00-04:00</span>
+  </p>
+  <p class="tldr-body">This opportunity involves developing software for managing inventory, which can be a fun challenge for someone interested in software projects.</p>
+  <p class="why"><i>The software development aspect aligns with the profile&#x27;s hobby interests in software projects.</i></p>
+  <a href="https://sam.gov/workspace/contract/opp/d76d575b2ec84c29a06cd06b52f0bee5/view" class="w3-button w3-round" target="_blank" rel="noopener">
+    <i class="fa fa-external-link fa-fw"></i> View on SAM.gov
+  </a>
+</div>
+<hr class="section-hr">
+
+      </div>
+
+    </div>
+    <!-- End right column -->
+
+  </div>
 </div>
 
-</div>
+<footer class="w3-container w3-blue w3-center w3-margin-top w3-padding-32">
+  <p>Part of <a href="https://pcarroll9500.github.io/" style="color:white; text-decoration:underline;">pcarroll9500.github.io</a></p>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank" style="color:white;">w3.css</a></p>
+</footer>
+
 </body>
 </html>
