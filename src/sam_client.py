@@ -20,6 +20,7 @@ DESCRIPTION_TIMEOUT = 15
 SEARCH_TIMEOUT = 30
 RETRY_ATTEMPTS = 3
 RETRY_BACKOFF_SECONDS = 5
+INTER_QUERY_DELAY_SECONDS = 2  # pace back-to-back search calls to avoid 429s
 
 
 def _get_with_retry(url: str, params: dict, timeout: int) -> requests.Response:
@@ -125,6 +126,7 @@ def collect_pool(
             )
         except Exception as exc:
             print(f"[sam_client] NAICS query {naics} failed: {exc}")
+        time.sleep(INTER_QUERY_DELAY_SECONDS)
 
     for keyword in keywords:
         try:
@@ -139,5 +141,6 @@ def collect_pool(
             )
         except Exception as exc:
             print(f"[sam_client] keyword query '{keyword}' failed: {exc}")
+        time.sleep(INTER_QUERY_DELAY_SECONDS)
 
     return list(by_notice_id.values())
