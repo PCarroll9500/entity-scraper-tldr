@@ -1,0 +1,125 @@
+{
+  "overall_tldr": "Today's batch includes a variety of job opportunities related to defense contracting, particularly in modeling, simulation, and technology development for the DoD. The selected positions focus on areas that align with the profile's expertise in simulation and training, as well as interests in software and electrical work.",
+  "job_recommendations": [
+    {
+      "notice_id": "d276effbb9a64e888609e482cf938471",
+      "title": "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) Development, Support and Integration",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-08-24",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/d276effbb9a64e888609e482cf938471/view",
+      "tldr": "This opportunity involves developing and integrating systems for C4ISR, which is crucial for military operations.",
+      "why_relevant": "The focus on communications and intelligence aligns with the profile's work in simulation and training for the DoD."
+    },
+    {
+      "notice_id": "39cd65627a4d4e95aa0d0ed46de22bdf",
+      "title": "STAR-FISH CALL 017 - Secure By Design",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-24",
+      "response_deadline": "2026-10-12T16:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/39cd65627a4d4e95aa0d0ed46de22bdf/view",
+      "tldr": "This project focuses on enhancing security measures in design processes for military applications.",
+      "why_relevant": "The emphasis on secure design processes is pertinent to simulation environments used in military training."
+    },
+    {
+      "notice_id": "4af70746c15f4352bece9ad95b2b9d30",
+      "title": "Space Power and Reactor Capabilities (SPARC) - Sources Sought Notice",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-25",
+      "response_deadline": "2026-08-17T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/4af70746c15f4352bece9ad95b2b9d30/view",
+      "tldr": "This notice seeks information on capabilities related to space power and reactor technologies.",
+      "why_relevant": "The connection to aerospace technologies aligns with the profile's work at NASIC and interest in simulation."
+    },
+    {
+      "notice_id": "a96dc33b4bb6444e9a8c34f65cadbb94",
+      "title": "Missile Defense Agency - Nimble Options for Buying Layered Effects (NOBLE) Announcement",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-24",
+      "response_deadline": "2030-03-27T00:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/a96dc33b4bb6444e9a8c34f65cadbb94/view",
+      "tldr": "This announcement focuses on innovative approaches for missile defense systems.",
+      "why_relevant": "The technological development aspect is relevant to simulation and modeling in defense."
+    },
+    {
+      "notice_id": "1fc88d61a4174205b8ca064a63fea79e",
+      "title": "Cooperative Driving Automation (CDA) Small-Scale Industry Prototype",
+      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-24",
+      "response_deadline": "2026-09-28T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/1fc88d61a4174205b8ca064a63fea79e/view",
+      "tldr": "This project involves developing prototypes for automated driving systems.",
+      "why_relevant": "The intersection of software development and automation aligns with the profile's interests."
+    },
+    {
+      "notice_id": "1ab71732b91e487794f8347e1dd721a7",
+      "title": "High Assurance Computer Systems Security",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-24",
+      "response_deadline": "2026-09-02T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/1ab71732b91e487794f8347e1dd721a7/view",
+      "tldr": "This opportunity focuses on ensuring the security of computer systems used in defense applications.",
+      "why_relevant": "The emphasis on security in systems is crucial for simulation environments."
+    },
+    {
+      "notice_id": "e7ccb50c52214b8e9b891208f6ee6fcc",
+      "title": "B--Critical Management Investigation of Texas Cores C",
+      "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF OCEAN ENERGY MANAGEMENT.ACQUISITION MANAGEMENT DIVISION",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-24",
+      "response_deadline": "2026-08-31T10:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/e7ccb50c52214b8e9b891208f6ee6fcc/view",
+      "tldr": "This project involves a critical management investigation related to ocean energy management.",
+      "why_relevant": "The analytical aspect of this work may appeal to someone involved in modeling and simulation."
+    },
+    {
+      "notice_id": "c4ec04eda15f48daa52d8c282e40a1b6",
+      "title": "Enterprise Wide Contract for the Center for Nuclear Waste Regulatory Analyses Work-For-Others Technical Assistance and Research Support of Activities under the Responsibility of the Nuclear Regulatory Commission's (NRC) Program Offices",
+      "agency": "NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-24",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/c4ec04eda15f48daa52d8c282e40a1b6/view",
+      "tldr": "This contract involves providing technical assistance and research support for nuclear waste regulatory activities.",
+      "why_relevant": "The technical research aspect may resonate with the profile's engineering background."
+    },
+    {
+      "notice_id": "4a4c9cf15ea4448cb7f8dcf64bc5c390",
+      "title": "A--Support to Satellite Environmental Monitoring Prog",
+      "agency": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-25",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/4a4c9cf15ea4448cb7f8dcf64bc5c390/view",
+      "tldr": "This opportunity involves supporting satellite programs focused on environmental monitoring.",
+      "why_relevant": "The environmental aspect ties into simulation and modeling for training purposes."
+    }
+  ],
+  "fun_recommendation": {
+    "notice_id": "d76d575b2ec84c29a06cd06b52f0bee5",
+    "title": "Inventory Management Software",
+    "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG NATICK",
+    "naics": "541511",
+    "set_aside": null,
+    "posted_date": "2026-08-25",
+    "response_deadline": "2026-08-26T15:30:00-04:00",
+    "link": "https://sam.gov/workspace/contract/opp/d76d575b2ec84c29a06cd06b52f0bee5/view",
+    "tldr": "This opportunity involves developing software for managing inventory, which can be a fun challenge for someone interested in software projects.",
+    "why_relevant": "The software development aspect aligns with the profile's hobby interests in software projects."
+  }
+}
