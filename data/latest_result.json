@@ -1,5 +1,113 @@
 {
-  "overall_tldr": "Today's batch did not include any job or hobby opportunities that match the profile's interests in modeling, simulation, and related fields.",
-  "job_recommendations": [],
-  "fun_recommendation": {}
+  "overall_tldr": "Today's batch includes a variety of job opportunities that align closely with modeling, simulation, and defense-related work. The focus is on roles that involve technical support, research, and development in areas relevant to the Air Force and DoD. There are no hobby opportunities available in this batch.",
+  "job_recommendations": [
+    {
+      "notice_id": "d276effbb9a64e888609e482cf938471",
+      "title": "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) Development, Support and Integration",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-08-24",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/d276effbb9a64e888609e482cf938471/view",
+      "tldr": "This opportunity involves developing and integrating C4ISR systems, which are crucial for modern military operations.",
+      "why_relevant": "C4ISR is a key area in defense that overlaps with your work in modeling and simulation at NASIC."
+    },
+    {
+      "notice_id": "39cd65627a4d4e95aa0d0ed46de22bdf",
+      "title": "STAR-FISH CALL 017 - Secure By Design",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-24",
+      "response_deadline": "2026-10-12T16:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/39cd65627a4d4e95aa0d0ed46de22bdf/view",
+      "tldr": "This project focuses on secure design principles for military applications, enhancing cybersecurity measures.",
+      "why_relevant": "Cybersecurity is increasingly important in modeling and simulation environments, especially for defense applications."
+    },
+    {
+      "notice_id": "110fc608a4d24738b47fedeca06274ac",
+      "title": "Combat System of the Future (CSoF)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NUWC DIV NEWPORT",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-26",
+      "response_deadline": "2026-09-10T14:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/110fc608a4d24738b47fedeca06274ac/view",
+      "tldr": "This opportunity involves developing advanced combat systems for future naval operations.",
+      "why_relevant": "Your expertise in modeling and simulation can contribute significantly to the development of next-generation combat systems."
+    },
+    {
+      "notice_id": "72b7f66ea4b740769e47d68827929e84",
+      "title": "Space and Spacecraft Systems Design",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-26",
+      "response_deadline": "2026-09-10T16:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/72b7f66ea4b740769e47d68827929e84/view",
+      "tldr": "This project focuses on the design of spacecraft systems, which includes modeling and simulation aspects.",
+      "why_relevant": "Your background in modeling and simulation aligns well with the requirements for designing complex space systems."
+    },
+    {
+      "notice_id": "da41587148ba41d3afd77c2ea06b0a41",
+      "title": "Synthetic Data Generation for Property and Passenger Screening",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF.OFFICE OF PROCUREMENT OPERATIONS.SCI  TECH ACQ DIV",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-26",
+      "response_deadline": "2026-09-07T10:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/da41587148ba41d3afd77c2ea06b0a41/view",
+      "tldr": "This opportunity involves generating synthetic data to improve screening processes for security purposes.",
+      "why_relevant": "The use of synthetic data is a growing area in modeling and simulation, particularly in security applications."
+    },
+    {
+      "notice_id": "4d90db3cbfbb4891888e60120c2a3747",
+      "title": "Evaluation and Conduct of Computational and Alternative Toxicological Methods for the National Institute of Environmental Health Sciences",
+      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTE OF  HEALTH NIEHS",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-08-27",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/4d90db3cbfbb4891888e60120c2a3747/view",
+      "tldr": "This project focuses on evaluating computational methods for toxicological assessments.",
+      "why_relevant": "Your skills in modeling can be applied to computational evaluations in various scientific fields, including health sciences."
+    },
+    {
+      "notice_id": "b35b26528a0043509edd291d23f8bfb0",
+      "title": "Notice of Intent to Sole Source - Custom Commercial Aptamer Procurement",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-25",
+      "response_deadline": "2026-09-01T12:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/b35b26528a0043509edd291d23f8bfb0/view",
+      "tldr": "This opportunity involves the procurement of custom commercial aptamers for defense applications.",
+      "why_relevant": "The intersection of biology and technology could provide interesting modeling challenges relevant to your work."
+    },
+    {
+      "notice_id": "1fc88d61a4174205b8ca064a63fea79e",
+      "title": "Cooperative Driving Automation (CDA) Small-Scale Industry Prototype",
+      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-24",
+      "response_deadline": "2026-09-28T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/1fc88d61a4174205b8ca064a63fea79e/view",
+      "tldr": "This project focuses on developing prototypes for cooperative driving automation technologies.",
+      "why_relevant": "Your interest in software and technology could align well with advancements in automated driving systems."
+    },
+    {
+      "notice_id": "e7ccb50c52214b8e9b891208f6ee6fcc",
+      "title": "B--Critical Management Investigation of Texas Cores C",
+      "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF OCEAN ENERGY MANAGEMENT.ACQUISITION MANAGEMENT DIVISION",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-24",
+      "response_deadline": "2026-08-31T10:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/e7ccb50c52214b8e9b891208f6ee6fcc/view",
+      "tldr": "This opportunity involves conducting investigations related to critical management in environmental contexts.",
+      "why_relevant": "Investigative work often requires analytical skills that can be beneficial in modeling and simulation."
+    }
+  ]
 }
