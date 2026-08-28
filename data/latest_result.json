@@ -1,6 +1,18 @@
 {
-  "overall_tldr": "Today's batch includes a variety of job opportunities that align closely with modeling, simulation, and defense-related work. The focus is on roles that involve technical support, research, and development in areas relevant to the Air Force and DoD. There are no hobby opportunities available in this batch.",
+  "overall_tldr": "Today's batch includes a variety of job opportunities primarily focused on modeling, simulation, and defense-related software projects, which align well with the profile's expertise in M&S and digital engineering. The selected contracts emphasize areas such as synthetic training environments and C4ISR development, making them highly relevant for someone working with NASIC. There are no hobby-related opportunities available in this batch.",
   "job_recommendations": [
+    {
+      "notice_id": "6229ddf1581a419196e97e427d117ab6",
+      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-28",
+      "response_deadline": "2026-09-21T10:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/6229ddf1581a419196e97e427d117ab6/view",
+      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for modern military training simulations.",
+      "why_relevant": "It directly relates to the profile's interest in simulation and training work for the Air Force and DoD."
+    },
     {
       "notice_id": "d276effbb9a64e888609e482cf938471",
       "title": "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) Development, Support and Integration",
@@ -10,20 +22,32 @@
       "posted_date": "2026-08-24",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/d276effbb9a64e888609e482cf938471/view",
-      "tldr": "This opportunity involves developing and integrating C4ISR systems, which are crucial for modern military operations.",
-      "why_relevant": "C4ISR is a key area in defense that overlaps with your work in modeling and simulation at NASIC."
+      "tldr": "This contract focuses on the development and integration of C4ISR systems, which are essential for modern military operations.",
+      "why_relevant": "C4ISR is a key area of interest for the profile, aligning with their work in defense contracting."
     },
     {
-      "notice_id": "39cd65627a4d4e95aa0d0ed46de22bdf",
-      "title": "STAR-FISH CALL 017 - Secure By Design",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
+      "notice_id": "3fc74819705a4a81b205327ba4537973",
+      "title": "QBI Topic Independent Verification and Validation (IV&V)",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
       "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-08-24",
-      "response_deadline": "2026-10-12T16:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/39cd65627a4d4e95aa0d0ed46de22bdf/view",
-      "tldr": "This project focuses on secure design principles for military applications, enhancing cybersecurity measures.",
-      "why_relevant": "Cybersecurity is increasingly important in modeling and simulation environments, especially for defense applications."
+      "set_aside": null,
+      "posted_date": "2026-08-28",
+      "response_deadline": "2026-12-30T16:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/3fc74819705a4a81b205327ba4537973/view",
+      "tldr": "This opportunity involves independent verification and validation for DARPA's QBI topics, ensuring the quality and effectiveness of advanced technologies.",
+      "why_relevant": "It ties into the profile's focus on modeling and simulation, particularly in a defense context."
+    },
+    {
+      "notice_id": "b77f1caefb244d1193ded7f6187ede52",
+      "title": "Defense Sciences Office (DSO) Office-wide BAA",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-28",
+      "response_deadline": "2027-08-27T16:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/b77f1caefb244d1193ded7f6187ede52/view",
+      "tldr": "This Broad Agency Announcement (BAA) invites proposals for innovative research in defense sciences, covering a wide range of topics.",
+      "why_relevant": "It provides an opportunity to engage in cutting-edge research relevant to defense and simulation technologies."
     },
     {
       "notice_id": "110fc608a4d24738b47fedeca06274ac",
@@ -34,8 +58,8 @@
       "posted_date": "2026-08-26",
       "response_deadline": "2026-09-10T14:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/110fc608a4d24738b47fedeca06274ac/view",
-      "tldr": "This opportunity involves developing advanced combat systems for future naval operations.",
-      "why_relevant": "Your expertise in modeling and simulation can contribute significantly to the development of next-generation combat systems."
+      "tldr": "This contract focuses on developing future combat systems, integrating advanced technologies for military applications.",
+      "why_relevant": "It aligns with the profile's interest in innovative defense technologies and modeling."
     },
     {
       "notice_id": "72b7f66ea4b740769e47d68827929e84",
@@ -46,68 +70,44 @@
       "posted_date": "2026-08-26",
       "response_deadline": "2026-09-10T16:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/72b7f66ea4b740769e47d68827929e84/view",
-      "tldr": "This project focuses on the design of spacecraft systems, which includes modeling and simulation aspects.",
-      "why_relevant": "Your background in modeling and simulation aligns well with the requirements for designing complex space systems."
+      "tldr": "This opportunity involves designing systems for space and spacecraft, contributing to advancements in aerospace technology.",
+      "why_relevant": "It connects to the profile's work with the Air Force and interest in aerospace systems."
     },
     {
-      "notice_id": "da41587148ba41d3afd77c2ea06b0a41",
-      "title": "Synthetic Data Generation for Property and Passenger Screening",
-      "agency": "HOMELAND SECURITY, DEPARTMENT OF.OFFICE OF PROCUREMENT OPERATIONS.SCI  TECH ACQ DIV",
+      "notice_id": "6ce8dd9cf9ba4897a2c774a8f1988777",
+      "title": "Justification and Approval for Sole Source Report Requirement",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-08-26",
-      "response_deadline": "2026-09-07T10:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/da41587148ba41d3afd77c2ea06b0a41/view",
-      "tldr": "This opportunity involves generating synthetic data to improve screening processes for security purposes.",
-      "why_relevant": "The use of synthetic data is a growing area in modeling and simulation, particularly in security applications."
-    },
-    {
-      "notice_id": "4d90db3cbfbb4891888e60120c2a3747",
-      "title": "Evaluation and Conduct of Computational and Alternative Toxicological Methods for the National Institute of Environmental Health Sciences",
-      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTE OF  HEALTH NIEHS",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-08-27",
+      "posted_date": "2026-08-28",
       "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/4d90db3cbfbb4891888e60120c2a3747/view",
-      "tldr": "This project focuses on evaluating computational methods for toxicological assessments.",
-      "why_relevant": "Your skills in modeling can be applied to computational evaluations in various scientific fields, including health sciences."
+      "link": "https://sam.gov/workspace/contract/opp/6ce8dd9cf9ba4897a2c774a8f1988777/view",
+      "tldr": "This contract involves preparing a justification and approval report for a sole source requirement in defense contracting.",
+      "why_relevant": "It relates to the profile's work in defense contracting and understanding procurement processes."
     },
     {
-      "notice_id": "b35b26528a0043509edd291d23f8bfb0",
-      "title": "Notice of Intent to Sole Source - Custom Commercial Aptamer Procurement",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-08-25",
-      "response_deadline": "2026-09-01T12:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/b35b26528a0043509edd291d23f8bfb0/view",
-      "tldr": "This opportunity involves the procurement of custom commercial aptamers for defense applications.",
-      "why_relevant": "The intersection of biology and technology could provide interesting modeling challenges relevant to your work."
-    },
-    {
-      "notice_id": "1fc88d61a4174205b8ca064a63fea79e",
-      "title": "Cooperative Driving Automation (CDA) Small-Scale Industry Prototype",
-      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-08-24",
-      "response_deadline": "2026-09-28T15:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/1fc88d61a4174205b8ca064a63fea79e/view",
-      "tldr": "This project focuses on developing prototypes for cooperative driving automation technologies.",
-      "why_relevant": "Your interest in software and technology could align well with advancements in automated driving systems."
-    },
-    {
-      "notice_id": "e7ccb50c52214b8e9b891208f6ee6fcc",
-      "title": "B--Critical Management Investigation of Texas Cores C",
-      "agency": "INTERIOR, DEPARTMENT OF THE.BUREAU OF OCEAN ENERGY MANAGEMENT.ACQUISITION MANAGEMENT DIVISION",
+      "notice_id": "3af820c87a834a1099955365bc2576e0",
+      "title": "\u201cPerformance Monitoring of Field-Deployed DARPA REEFENSE Solutions for Coastal Resilience\u201d",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-08-24",
-      "response_deadline": "2026-08-31T10:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/e7ccb50c52214b8e9b891208f6ee6fcc/view",
-      "tldr": "This opportunity involves conducting investigations related to critical management in environmental contexts.",
-      "why_relevant": "Investigative work often requires analytical skills that can be beneficial in modeling and simulation."
+      "posted_date": "2026-08-28",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/3af820c87a834a1099955365bc2576e0/view",
+      "tldr": "This opportunity focuses on monitoring the performance of DARPA's coastal resilience solutions, emphasizing environmental and defense applications.",
+      "why_relevant": "It connects to the profile's interest in defense technologies and environmental considerations."
+    },
+    {
+      "notice_id": "ef5a62bedd744a6a875462c4b2ac8ccc",
+      "title": "Flexible Chromium-Free Primer Coasting for Aircraft",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-28",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/ef5a62bedd744a6a875462c4b2ac8ccc/view",
+      "tldr": "This contract involves developing a flexible chromium-free primer coating for aircraft, focusing on environmental compliance and performance.",
+      "why_relevant": "It relates to aerospace applications and defense contracting, relevant to the profile's work."
     }
   ]
 }
