@@ -3,6 +3,94 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-10-13",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "AR15",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e11e300dbee845d195c583ff87afa81a",
+      "fullParentPathCode": "080.8000.80GRC0",
+      "fullParentPathName": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e11e300dbee845d195c583ff87afa81a&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "e11e300dbee845d195c583ff87afa81a",
+      "officeAddress": {
+        "zipcode": "44135",
+        "city": "CLEVELAND",
+        "countryCode": "USA",
+        "state": "OH"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "16000",
+          "name": "Cleveland"
+        },
+        "state": {
+          "code": "OH",
+          "name": "Ohio"
+        },
+        "zip": "44135",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "noah.s.garrison@nasa.gov",
+          "phone": "",
+          "fullName": "Noah Garrison"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "loretta.jameshemphill@nasa.gov",
+          "phone": "",
+          "fullName": "Loretta James Hemphill"
+        }
+      ],
+      "postedDate": "2026-08-30",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/02295ef54b754bd4bb4dfecd91e9a94b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/33ba3a39f8bf40b7b253bacf4d244eca/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/34e2113c10dc431989fd34278daf2866/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/59d109da121a4020b3e38a73f2c479fa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6b7a87cb523a4764983348e3aec348d5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6d114173c4f1476e912d9590e26676de/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/74d4b7680dcd46949303e39036213dcb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7a63584022164c66ad88997325892a2a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/921c95da8e744abc8d5c8bbdd56792d3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9ccd11a3827f45a192585ad95537c282/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a22283a6c3f7415194376d4e8657c686/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a7b274ef017b4045bbf0baf08ada37b5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c06cff2422594efeb631ab7a48127553/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c17d9018d84143c982c1c11f6d6eea7c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ca74f818d1f14390a42aaa12d272eee6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f5d56c0169c94a78ba8faa0fbd108328/download"
+      ],
+      "responseDeadLine": "2026-09-28T17:00:00-04:00",
+      "solicitationNumber": "80GRC026R0009",
+      "title": "Space Power and Reactor Capabilities (SPARC) - Draft Request for Proposals (DRFP)",
+      "type": "Presolicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/e11e300dbee845d195c583ff87afa81a/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-09-12",
       "archiveType": "auto15",
       "award": {
@@ -1685,8 +1773,7 @@
       "type": "Special Notice",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/110fc608a4d24738b47fedeca06274ac/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/110fc608a4d24738b47fedeca06274ac/view"
     },
     {
       "active": "Yes",
@@ -5467,6 +5554,74 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-09-28",
+      "archiveType": "auto30",
+      "award": {
+        "date": "2026-08-28",
+        "number": "47QTCC26DV008"
+      },
+      "baseType": "Justification",
+      "classificationCode": "DA01",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=190d6ce6186241e5ad7f6f1806c54980",
+      "fullParentPathCode": "070.7014.70B03C",
+      "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US CUSTOMS AND BORDER PROTECTION.BORDER ENFORCEMENT CONTRACTING DIVISION",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=190d6ce6186241e5ad7f6f1806c54980&limit=1"
+        }
+      ],
+      "naicsCode": "541512",
+      "naicsCodes": [
+        "541512"
+      ],
+      "noticeId": "190d6ce6186241e5ad7f6f1806c54980",
+      "officeAddress": {
+        "zipcode": "20229",
+        "city": "WASHINGTON",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "50000",
+          "name": "Washington"
+        },
+        "state": {
+          "code": "DC",
+          "name": "District of Columbia"
+        },
+        "zip": "20229",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "amanda.r.freeman@cbp.dhs.gov",
+          "phone": "",
+          "fullName": "Amanda Freeman"
+        }
+      ],
+      "postedDate": "2026-08-29",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/abe7cb66e35f4f7c9a430cce0d632ee1/download"
+      ],
+      "responseDeadLine": null,
+      "solicitationNumber": "20157863",
+      "title": "ACE Business Analyst Support",
+      "type": "Justification",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/190d6ce6186241e5ad7f6f1806c54980/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-09-23",
       "archiveType": "auto15",
       "award": null,
@@ -8384,6 +8539,59 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/0d21a924c3f94438ac10f3fe2e56b371/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-09-24",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=297469e8b4d44e66b561fa3cc484dfab",
+      "fullParentPathCode": "013.1330.1333MF",
+      "fullParentPathName": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=297469e8b4d44e66b561fa3cc484dfab&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "297469e8b4d44e66b561fa3cc484dfab",
+      "officeAddress": {
+        "zipcode": "64106",
+        "city": "KANSAS CITY",
+        "countryCode": "USA",
+        "state": "MO"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {},
+        "state": {},
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "RAYNIER.CAMERINO@NOAA.GOV",
+          "fullName": "CAMERINO, RAYNIER"
+        }
+      ],
+      "postedDate": "2026-08-29",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f050f350526f42aaa96efd20f41dbf96/download"
+      ],
+      "responseDeadLine": "2026-09-09T17:00:00-04:00",
+      "solicitationNumber": "1333MF26Q0102",
+      "title": "NOAA Galveston, TX Campus Arc Flash Serv & Cert",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/297469e8b4d44e66b561fa3cc484dfab/view"
     },
     {
       "active": "Yes",
@@ -13780,8 +13988,8 @@
       "baseType": "Sources Sought",
       "classificationCode": "R425",
       "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bfd338063c6049f4968d8286ccbf60d7",
-      "fullParentPathCode": "057.5700.AFMC.AFLCMC.PEO-C3BM.FA2226",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL, COMMUNICATIONS & BATTLE MANAGEMENT.FA2226 DAF PEO C3BM ASE CON",
+      "fullParentPathCode": "057.5700.AFMC.AFLCMC.HANSCOM AFLCMC.PAE C3BM-HANSCOM.FA2226",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.HANSCOM AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL AND COMMUNICATION BATTLE MANAGEMENT - HANSCOM AIR FORCE B.FA2226 DAF PEO C3BM ASE CON",
       "links": [
         {
           "rel": "self",
@@ -14225,8 +14433,8 @@
       "baseType": "Sources Sought",
       "classificationCode": "R425",
       "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=608d0deddf434eef975912a232ec6c0c",
-      "fullParentPathCode": "057.5700.AFMC.AFLCMC.PEO-C3BM.FA2226",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL, COMMUNICATIONS & BATTLE MANAGEMENT.FA2226 DAF PEO C3BM ASE CON",
+      "fullParentPathCode": "057.5700.AFMC.AFLCMC.HANSCOM AFLCMC.PAE C3BM-HANSCOM.FA2226",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.HANSCOM AIR FORCE LIFE CYCLE MANAGEMENT CENTER.COMMAND, CONTROL AND COMMUNICATION BATTLE MANAGEMENT - HANSCOM AIR FORCE B.FA2226 DAF PEO C3BM ASE CON",
       "links": [
         {
           "rel": "self",
