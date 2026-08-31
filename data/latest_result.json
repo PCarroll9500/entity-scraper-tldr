@@ -1,18 +1,6 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and defense-related projects, particularly relevant to the Air Force and DoD. Many listings align with the profile's interests in synthetic environments, digital engineering, and C4ISR analysis.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling and simulation, digital engineering, and defense-related projects, particularly relevant to the National Air and Space Intelligence Center (NASIC) work. The opportunities range from software validation to training services for special operations forces, aligning well with the profile's interests and expertise.",
   "job_recommendations": [
-    {
-      "notice_id": "d276effbb9a64e888609e482cf938471",
-      "title": "Command, Control, Communications, Computers, Intelligence, Surveillance and Reconnaissance (C4ISR) Development, Support and Integration",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-08-24",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/d276effbb9a64e888609e482cf938471/view",
-      "tldr": "This opportunity involves developing and integrating C4ISR systems, crucial for modern military operations.",
-      "why_relevant": "Directly relates to the profile's focus on C4ISR analysis and support."
-    },
     {
       "notice_id": "6229ddf1581a419196e97e427d117ab6",
       "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
@@ -22,8 +10,56 @@
       "posted_date": "2026-08-28",
       "response_deadline": "2026-09-21T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/6229ddf1581a419196e97e427d117ab6/view",
-      "tldr": "This contract focuses on developing virtual software for training environments, enhancing military readiness.",
-      "why_relevant": "Aligns perfectly with interests in simulation and training technologies."
+      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for modern military training.",
+      "why_relevant": "Directly aligns with interests in simulation and training work for the Air Force."
+    },
+    {
+      "notice_id": "3d123ab7cde94e4084e85c0ecdfe5158",
+      "title": "Special Operations Forces - Training, Testing, and Transition Services (SOF-T Serve)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-31",
+      "response_deadline": "2026-07-24T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/3d123ab7cde94e4084e85c0ecdfe5158/view",
+      "tldr": "This contract focuses on providing training and testing services for Special Operations Forces, enhancing their operational capabilities.",
+      "why_relevant": "Relevant to simulation and training, particularly in a military context."
+    },
+    {
+      "notice_id": "1cdf84336bcc461fbbfb5834d26ed9d7",
+      "title": "Perrseus",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-31",
+      "response_deadline": "2026-09-23T13:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/1cdf84336bcc461fbbfb5834d26ed9d7/view",
+      "tldr": "This DARPA project focuses on advanced research and development, likely involving innovative technologies.",
+      "why_relevant": "Aligns with interests in cutting-edge technology and digital engineering."
+    },
+    {
+      "notice_id": "4bafe32bf3e14551b8164db3e8a4b990",
+      "title": "TTO Office-Wide Solicitation 2026",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-08-31",
+      "response_deadline": "2027-06-17T16:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/4bafe32bf3e14551b8164db3e8a4b990/view",
+      "tldr": "This solicitation is for a wide range of advanced research projects under DARPA's Technology Transfer Office.",
+      "why_relevant": "Involves advanced modeling and simulation technologies, relevant to the profile's work."
+    },
+    {
+      "notice_id": "e11e300dbee845d195c583ff87afa81a",
+      "title": "Space Power and Reactor Capabilities (SPARC) - Draft Request for Proposals (DRFP)",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-08-30",
+      "response_deadline": "2026-09-28T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/e11e300dbee845d195c583ff87afa81a/view",
+      "tldr": "This opportunity involves proposals for developing space power and reactor technologies.",
+      "why_relevant": "Relevant to interests in space domain awareness and advanced engineering."
     },
     {
       "notice_id": "3fc74819705a4a81b205327ba4537973",
@@ -34,20 +70,20 @@
       "posted_date": "2026-08-28",
       "response_deadline": "2026-12-30T16:00:00",
       "link": "https://sam.gov/workspace/contract/opp/3fc74819705a4a81b205327ba4537973/view",
-      "tldr": "This opportunity involves independent verification and validation processes for advanced research projects.",
-      "why_relevant": "Relevant due to the focus on validation processes in defense technologies."
+      "tldr": "This contract focuses on independent verification and validation of advanced technologies.",
+      "why_relevant": "Involves quality assurance in modeling and simulation projects, relevant to the profile's expertise."
     },
     {
-      "notice_id": "b77f1caefb244d1193ded7f6187ede52",
-      "title": "Defense Sciences Office (DSO) Office-wide BAA",
-      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "notice_id": "ac00c45b05dc4b079d0e5d04f45ad7a3",
+      "title": "AIR COMBAT COMMAND HEADQUARTERS (ACC HQ) ACQUISITION MANAGEMENT INTEGRATION CENTER (AMIC) COMMERCIAL SOLUTIONS OPENING (CSO)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.AMIC.FA4890  HQ ACC AMIC",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-08-28",
-      "response_deadline": "2027-08-27T16:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/b77f1caefb244d1193ded7f6187ede52/view",
-      "tldr": "This broad agency announcement invites proposals for innovative defense science projects.",
-      "why_relevant": "Encourages innovative solutions in defense, aligning with the profile's work at NASIC."
+      "posted_date": "2026-08-31",
+      "response_deadline": "2027-03-31T16:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/ac00c45b05dc4b079d0e5d04f45ad7a3/view",
+      "tldr": "This opportunity involves acquisition management and integration for the Air Combat Command.",
+      "why_relevant": "Directly relates to the Air Force and defense contracting work."
     },
     {
       "notice_id": "110fc608a4d24738b47fedeca06274ac",
@@ -59,55 +95,19 @@
       "response_deadline": "2026-09-10T14:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/110fc608a4d24738b47fedeca06274ac/view",
       "tldr": "This project focuses on developing future combat systems for naval operations.",
-      "why_relevant": "Relevant to defense technology development and simulation applications."
+      "why_relevant": "Involves advanced systems engineering, relevant to the profile's work."
     },
     {
-      "notice_id": "ef5a62bedd744a6a875462c4b2ac8ccc",
-      "title": "Flexible Chromium-Free Primer Coasting for Aircraft",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-08-27",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/ef5a62bedd744a6a875462c4b2ac8ccc/view",
-      "tldr": "This opportunity involves developing environmentally friendly coatings for military aircraft.",
-      "why_relevant": "Connects to defense engineering and technology advancements."
-    },
-    {
-      "notice_id": "39f37de6852742ffa8300a115aaa4007",
-      "title": "A--Cybersecurity of Novel Technology Implementations",
-      "agency": "NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION.NUCLEAR REGULATORY COMMISSION",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-08-27",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/29f37de6852742ffa8300a115aaa4007/view",
-      "tldr": "This contract focuses on ensuring cybersecurity measures for new technology implementations.",
-      "why_relevant": "Relevant to the profile's interest in technology and security in defense applications."
-    },
-    {
-      "notice_id": "72b7f66ea4b740769e47d68827929e84",
-      "title": "Space and Spacecraft Systems Design",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "notice_id": "e3dc993f8bda4e26935c7b81c163dac8",
+      "title": "Distributed Aperture Resilient Terminal System (DARTS)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-08-26",
-      "response_deadline": "2026-09-10T16:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/72b7f66ea4b740769e47d68827929e84/view",
-      "tldr": "This opportunity involves designing systems for space and spacecraft applications.",
-      "why_relevant": "Connects to aerospace interests and simulation technologies."
-    },
-    {
-      "notice_id": "0050335e305c45eebb940982eba4ce6a",
-      "title": "Marine Corps Installations West Regional Defense Operation Center Support Services",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCORP I&L.MARINE CORPS INSTALLATIONS COMMAND.MCIWEST.COMMANDING GENERAL",
-      "naics": "541715",
-      "set_aside": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
-      "posted_date": "2026-08-26",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/0050335e305c45eebb940982eba4ce6a/view",
-      "tldr": "This contract supports operations at Marine Corps installations, focusing on defense logistics.",
-      "why_relevant": "Relevant to defense operations and logistics, which may involve simulation aspects."
+      "posted_date": "2026-08-31",
+      "response_deadline": "2026-09-30T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/e3dc993f8bda4e26935c7b81c163dac8/view",
+      "tldr": "This opportunity involves developing a resilient terminal system for distributed apertures.",
+      "why_relevant": "Relevant to RF signature production and analysis, key areas of the profile's work."
     }
   ]
 }
