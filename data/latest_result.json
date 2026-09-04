@@ -1,6 +1,66 @@
 {
-  "overall_tldr": "Today's batch includes a variety of job opportunities primarily focused on modeling, simulation, and defense-related projects, particularly in areas relevant to the Air Force and DoD. The listings emphasize advanced technologies and research initiatives that align with the engineer's expertise and interests.",
+  "overall_tldr": "Today's batch includes several contract opportunities primarily focused on defense and technology, particularly in modeling and simulation, which aligns well with the profile's expertise. The selected job opportunities emphasize work with the Department of Defense and advanced research, making them highly relevant for the engineer's current role.",
   "job_recommendations": [
+    {
+      "notice_id": "cb3c3ea5b2984efd9ef460983175bd2e",
+      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-03",
+      "response_deadline": "2026-09-21T10:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/cb3c3ea5b2984efd9ef460983175bd2e/view",
+      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
+      "why_relevant": "It directly relates to the engineer's interest in modeling and simulation for military applications."
+    },
+    {
+      "notice_id": "c69ccd1a65764b088e032827877ece24",
+      "title": "REQUEST FOR INFORMATION - OPERATIONAL TEST AND TRAINING READINESS DIVISION - DevSecOps",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-03",
+      "response_deadline": "2026-09-11T12:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/c69ccd1a65764b088e032827877ece24/view",
+      "tldr": "This request for information focuses on DevSecOps practices for operational test and training readiness in the Air Force.",
+      "why_relevant": "It aligns with the engineer's work in simulation and training for the Air Force."
+    },
+    {
+      "notice_id": "bcec3727cd924792972bfcd06df13479",
+      "title": "Spaceport and Launch Assessment & Strategic Help (SPLASH)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.FA2521  45 CONS PK",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-09-03",
+      "response_deadline": "2026-09-18T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/bcec3727cd924792972bfcd06df13479/view",
+      "tldr": "This opportunity involves providing assessments and strategic help for spaceport and launch operations.",
+      "why_relevant": "It connects to the engineer's interest in space domain awareness and related technologies."
+    },
+    {
+      "notice_id": "f0e3e0d303254053922d9b2c7a67e878",
+      "title": "Resilient",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-04",
+      "response_deadline": "2026-10-19T16:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/f0e3e0d303254053922d9b2c7a67e878/view",
+      "tldr": "This DARPA project focuses on developing resilient systems for defense applications.",
+      "why_relevant": "It is relevant due to the engineer's connection to defense contracting and advanced research."
+    },
+    {
+      "notice_id": "73bf1a21382e480b9f09f3cb66c50792",
+      "title": "Perrseus",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-04",
+      "response_deadline": "2026-09-23T13:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/73bf1a21382e480b9f09f3cb66c50792/view",
+      "tldr": "This opportunity involves a DARPA project that likely focuses on advanced technology development.",
+      "why_relevant": "It aligns with the engineer's interests in cutting-edge defense technologies."
+    },
     {
       "notice_id": "e1f76488693d48f192fd8e4a529ed50b",
       "title": "Presolicitation Notice - Advanced Field Modeling and Systems Optimization Feasibility Study",
@@ -10,32 +70,20 @@
       "posted_date": "2026-09-02",
       "response_deadline": "2026-09-15T23:59:00-06:00",
       "link": "https://sam.gov/workspace/contract/opp/e1f76488693d48f192fd8e4a529ed50b/view",
-      "tldr": "This opportunity involves a feasibility study for advanced modeling and systems optimization, likely relevant to defense applications.",
-      "why_relevant": "It directly relates to modeling and simulation, which is a core aspect of the engineer's current work."
+      "tldr": "This presolicitation notice is for a feasibility study on advanced field modeling and systems optimization.",
+      "why_relevant": "It connects to the engineer's expertise in modeling and simulation."
     },
     {
-      "notice_id": "bb6194bdf9a74da5a5705b5f31779be5",
-      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "notice_id": "c32f74c7d7574a7796f3c23e7a8cee4a",
+      "title": "Amendment #10: Common Very Low Frequency Receiver (VLF) Increment 2 (CVRi2) Modernization",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE NUCLEAR WEAPON CENTER.NUCLEAR COMMAND, CONTROL & COMMUNICATION WEAPON.FA8735 NUCLEAR NTW DIV AFNWC PZHN",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-02",
-      "response_deadline": "2026-09-21T10:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/bb6194bdf9a74da5a5705b5f31779be5/view",
-      "tldr": "This contract focuses on developing virtual software for synthetic training environments, enhancing military training capabilities.",
-      "why_relevant": "It aligns with the engineer's interest in simulation and training work for the Air Force."
-    },
-    {
-      "notice_id": "b3d9476e3c554ce189ec7fdc4d86b1a7",
-      "title": "Broad Agency Announcement (BAA): Cost Estimating Modeling Data, Analytics Research (CEMDAR)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE DISTRICT OF WASHINGTON.FA7014  AFDW PK",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-09-02",
-      "response_deadline": "2026-09-17T13:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/b3d9476e3c554ce189ec7fdc4d86b1a7/view",
-      "tldr": "This BAA seeks innovative proposals for cost estimating modeling and analytics research, relevant for defense projects.",
-      "why_relevant": "It involves modeling and analytics, which are crucial for the engineer's work in defense contracting."
+      "posted_date": "2026-09-03",
+      "response_deadline": "2026-10-19T12:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/c32f74c7d7574a7796f3c23e7a8cee4a/view",
+      "tldr": "This amendment focuses on modernizing a common very low frequency receiver system.",
+      "why_relevant": "It relates to the engineer's work with RF signature production and analysis."
     },
     {
       "notice_id": "deab807a905c40968581de707fc821a1",
@@ -46,68 +94,20 @@
       "posted_date": "2026-09-02",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/deab807a905c40968581de707fc821a1/view",
-      "tldr": "This opportunity involves developing systems for missile warning and tracking in low Earth orbit, enhancing space domain awareness.",
-      "why_relevant": "It connects to the engineer's work in counterspace and space domain awareness."
+      "tldr": "This presolicitation notice is for developing resilient missile warning and tracking systems for low Earth orbit.",
+      "why_relevant": "It is relevant due to the engineer's interest in counterspace and space domain awareness."
     },
     {
-      "notice_id": "9b5ad3bd78014b608b34cda274bcd1c4",
-      "title": "REQUEST FOR INFORMATION - OPERATIONAL TEST AND TRAINING READINESS DIVISION - DevSecOps",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
+      "notice_id": "f4bb1332a7d4444b93c25cdadb65b719",
+      "title": "HADES (Hybrid Architecture and Development for Experimental Systems) Request for Proposal",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.FA8809 SDA AND CMBT PWR SSC/SZK-IK",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-02",
-      "response_deadline": "2026-09-11T12:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/9b5ad3bd78014b608b34cda274bcd1c4/view",
-      "tldr": "This RFI seeks input on DevSecOps practices for operational test and training readiness in the Air Force.",
-      "why_relevant": "It relates to training and operational readiness, which are important in defense simulation work."
-    },
-    {
-      "notice_id": "3ac25ac710fb438e8d25d99783cee845",
-      "title": "Selective Harnessing of Intrinsic Neuroplasticity Engineering (SHINE)",
-      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-03",
-      "response_deadline": "2026-10-09T16:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/3ac25ac710fb438e8d25d99783cee845/view",
-      "tldr": "This DARPA initiative focuses on engineering neuroplasticity for advanced applications, potentially relevant to defense technologies.",
-      "why_relevant": "It showcases innovative engineering approaches that could intersect with defense simulation technologies."
-    },
-    {
-      "notice_id": "c50ea40c12ce4dbcb32cdb820313cb47",
-      "title": "Department of War (DoW) Small Business Innovation Research (SBIR)/ Small Business Technology Transfer (STTR) Program Solicitations (Amendment 03))",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.W27P USA ACQ SPT CTR",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-09-02",
-      "response_deadline": "2026-04-22T11:59:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/c50ea40c12ce4dbcb32cdb820313cb47/view",
-      "tldr": "This SBIR/STTR program seeks innovative solutions for defense-related projects, encouraging small business participation.",
-      "why_relevant": "It supports innovation in defense, which aligns with the engineer's work at Radiance."
-    },
-    {
-      "notice_id": "afd39cd6fa664344a80aa80c9f9c98b6",
-      "title": "Next Generation Hypersonic Cruise Missile Industry Day",
-      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-02",
-      "response_deadline": "2026-09-16T17:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/afd39cd6fa664344a80aa80c9f9c98b6/view",
-      "tldr": "This industry day focuses on the development of next-generation hypersonic cruise missiles, a key area in defense technology.",
-      "why_relevant": "It highlights cutting-edge defense technology, relevant to the engineer's work in modeling and simulation."
-    },
-    {
-      "notice_id": "6bdb84d5beed4eb0986ba53e91f4979c",
-      "title": "Modification to Flight Test Vehicle Concept Study for Making Advancements in Commercial Hypersonics (MACH)",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA ARMSTRONG FLIGHT RESEARCH CNTR",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-02",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/6bdb84d5beed4eb0986ba53e91f4979c/view",
-      "tldr": "This opportunity involves a study on flight test vehicles for advancements in commercial hypersonics, potentially applicable to defense.",
-      "why_relevant": "It connects to aerospace and defense technologies, relevant to the engineer's interests."
+      "posted_date": "2026-09-01",
+      "response_deadline": "2026-09-17T13:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/f4bb1332a7d4444b93c25cdadb65b719/view",
+      "tldr": "This request for proposal focuses on hybrid architecture and development for experimental systems.",
+      "why_relevant": "It ties into the engineer's interest in digital engineering and advanced technology."
     }
   ]
 }
