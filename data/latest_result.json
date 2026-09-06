@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch features various job opportunities primarily focused on defense and aerospace sectors, particularly in modeling, simulation, and advanced research. Many listings are relevant to the profile's work with the National Air and Space Intelligence Center and related fields.",
+  "overall_tldr": "Today's batch includes a variety of job opportunities primarily focused on defense and aerospace sectors, particularly in modeling and simulation, which align closely with the profile's expertise. The opportunities range from software development for synthetic training environments to missile defense support, all relevant to the engineer's work at NASIC.",
   "job_recommendations": [
     {
       "notice_id": "8874b9b0fbb24479865a3f17d04452dd",
@@ -10,44 +10,8 @@
       "posted_date": "2026-09-04",
       "response_deadline": "2026-09-28T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/8874b9b0fbb24479865a3f17d04452dd/view",
-      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "Directly aligns with interests in modeling and simulation for military training."
-    },
-    {
-      "notice_id": "3a11b18aa3b64e72813eb398e12cbc59",
-      "title": "ADAPTIVE FUSION, & REASONING OF MULTI-SOURCE DATA (AFAR)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-04",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/3a11b18aa3b64e72813eb398e12cbc59/view",
-      "tldr": "This project focuses on the adaptive fusion and reasoning of multi-source data, which is vital for enhancing situational awareness in defense applications.",
-      "why_relevant": "Relevant to the profile's work in data analysis and simulation for defense."
-    },
-    {
-      "notice_id": "14dae461cfc646468e1b3b3bca8b03b9",
-      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Partial",
-      "posted_date": "2026-09-04",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/14dae461cfc646468e1b3b3bca8b03b9/view",
-      "tldr": "This opportunity involves a multi-award contract for the development of advanced battle network solutions for the Air Force.",
-      "why_relevant": "Connects with interests in C4ISR and advanced military systems."
-    },
-    {
-      "notice_id": "c69ccd1a65764b088e032827877ece24",
-      "title": "REQUEST FOR INFORMATION - OPERATIONAL TEST AND TRAINING READINESS DIVISION - DevSecOps",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-03",
-      "response_deadline": "2026-09-11T12:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/c69ccd1a65764b088e032827877ece24/view",
-      "tldr": "This RFI seeks information on DevSecOps practices to enhance operational test and training readiness.",
-      "why_relevant": "Relevant to simulation and training processes in defense."
+      "tldr": "This opportunity involves developing software for the Synthetic Training Environment, which is crucial for modern military training simulations.",
+      "why_relevant": "This aligns directly with the profile's interest in modeling and simulation for Air Force training."
     },
     {
       "notice_id": "8e8f81085b1d4a49ada89618f951f1bf",
@@ -58,8 +22,44 @@
       "posted_date": "2026-09-04",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/8e8f81085b1d4a49ada89618f951f1bf/view",
-      "tldr": "This opportunity involves providing support for flight tests of missile systems, focusing on legacy systems.",
-      "why_relevant": "Involves simulation and testing relevant to defense technologies."
+      "tldr": "This contract involves providing support for flight tests of missile systems, which is critical for defense capabilities.",
+      "why_relevant": "It relates to the defense sector and involves simulation aspects in missile testing."
+    },
+    {
+      "notice_id": "3a11b18aa3b64e72813eb398e12cbc59",
+      "title": "ADAPTIVE FUSION, & REASONING OF MULTI-SOURCE DATA (AFAR)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-04",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/3a11b18aa3b64e72813eb398e12cbc59/view",
+      "tldr": "This opportunity focuses on developing adaptive fusion techniques for multi-source data, enhancing decision-making capabilities.",
+      "why_relevant": "It connects to the profile's work in data analysis and simulation for defense applications."
+    },
+    {
+      "notice_id": "14dae461cfc646468e1b3b3bca8b03b9",
+      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Partial",
+      "posted_date": "2026-09-04",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/14dae461cfc646468e1b3b3bca8b03b9/view",
+      "tldr": "This contract involves the management and support of the Air Force's battle network systems.",
+      "why_relevant": "It ties into the profile's focus on C4ISR analysis and systems management."
+    },
+    {
+      "notice_id": "c69ccd1a65764b088e032827877ece24",
+      "title": "REQUEST FOR INFORMATION - OPERATIONAL TEST AND TRAINING READINESS DIVISION - DevSecOps",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-03",
+      "response_deadline": "2026-09-11T12:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/c69ccd1a65764b088e032827877ece24/view",
+      "tldr": "This RFI seeks information on DevSecOps practices for operational test and training readiness.",
+      "why_relevant": "It relates to the profile's interest in simulation and training readiness for defense operations."
     },
     {
       "notice_id": "f0e3e0d303254053922d9b2c7a67e878",
@@ -70,56 +70,44 @@
       "posted_date": "2026-09-04",
       "response_deadline": "2026-10-19T16:00:00",
       "link": "https://sam.gov/workspace/contract/opp/f0e3e0d303254053922d9b2c7a67e878/view",
-      "tldr": "This DARPA project focuses on developing resilient systems for defense applications.",
-      "why_relevant": "Aligns with interests in advanced research and defense systems."
+      "tldr": "This opportunity involves research and development for resilient systems in defense applications.",
+      "why_relevant": "It connects to the profile's work in advanced technologies and simulations."
     },
     {
-      "notice_id": "bcec3727cd924792972bfcd06df13479",
-      "title": "Spaceport and Launch Assessment & Strategic Help (SPLASH)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.FA2521  45 CONS PK",
+      "notice_id": "deab807a905c40968581de707fc821a1",
+      "title": "Presolicitation Notice - Resilient Missile Warning and Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-02",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/deab807a905c40968581de707fc821a1/view",
+      "tldr": "This presolicitation focuses on developing resilient systems for missile warning and tracking in low earth orbit.",
+      "why_relevant": "It aligns with the profile's focus on counterspace and space domain awareness."
+    },
+    {
+      "notice_id": "b3d9476e3c554ce189ec7fdc4d86b1a7",
+      "title": "Broad Agency Announcement (BAA): Cost Estimating Modeling Data, Analytics Research (CEMDAR)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE DISTRICT OF WASHINGTON.FA7014  AFDW PK",
       "naics": "541715",
       "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-09-02",
+      "response_deadline": "2026-09-17T13:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/b3d9476e3c554ce189ec7fdc4d86b1a7/view",
+      "tldr": "This BAA seeks research proposals for cost estimating modeling and analytics in defense projects.",
+      "why_relevant": "It relates to modeling and simulation, which is a key interest for the profile."
+    },
+    {
+      "notice_id": "c32f74c7d7574a7796f3c23e7a8cee4a",
+      "title": "Amendment #10: Common Very Low Frequency Receiver (VLF) Increment 2 (CVRi2) Modernization",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE NUCLEAR WEAPON CENTER.NUCLEAR COMMAND, CONTROL & COMMUNICATION WEAPON.FA8735 NUCLEAR NTW DIV AFNWC PZHN",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
       "posted_date": "2026-09-03",
-      "response_deadline": "2026-09-18T15:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/bcec3727cd924792972bfcd06df13479/view",
-      "tldr": "This opportunity involves providing strategic support for spaceport and launch operations.",
-      "why_relevant": "Relevant to interests in space domain awareness and defense."
-    },
-    {
-      "notice_id": "d1eae073950b47478cb52c814d3dd216",
-      "title": "Notice of Intent to Sole Source: Grape Genome Sequencing Services (Req 1174046)",
-      "agency": "AGRICULTURE, DEPARTMENT OF.FOREST SERVICE.USDA-FS, CSA EAST 6",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-04",
-      "response_deadline": "2026-09-09T08:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/d1eae073950b47478cb52c814d3dd216/view",
-      "tldr": "This opportunity is for grape genome sequencing services, which is unrelated to defense but interesting in a scientific context.",
-      "why_relevant": "Though not directly related, it showcases the diversity of research opportunities available."
-    },
-    {
-      "notice_id": "9fac6a86bf4f4561bd8bd464284d6297",
-      "title": "FTA Broad Agency Announcement (FY26) -- \u201cResearch Initiatives in Support of Safety, Accessibility, and Mobility in Public Transportation",
-      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL TRANSIT ADMINISTRATION.693195 OFFICE OF ACQUISITION MGT",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-04",
-      "response_deadline": "2026-10-19T23:59:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/9fac6a86bf4f4561bd8bd464284d6297/view",
-      "tldr": "This announcement seeks research initiatives to enhance safety and accessibility in public transportation systems.",
-      "why_relevant": "While focused on transportation, it highlights the importance of research and development in various sectors."
-    },
-    {
-      "notice_id": "65230e253fcc43a1a5ba9253b9467fbc",
-      "title": "A--Uncrewed Aircraft Systems (UAS) Services ",
-      "agency": "COMMERCE, DEPARTMENT OF.NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION.DEPT OF COMMERCE NOAA",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-09-04",
-      "response_deadline": "2026-09-25T14:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/65230e253fcc43a1a5ba9253b9467fbc/view",
-      "tldr": "This opportunity involves providing services related to uncrewed aircraft systems for various applications.",
-      "why_relevant": "Connects with interests in aerospace and technology applications."
+      "response_deadline": "2026-10-19T12:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/c32f74c7d7574a7796f3c23e7a8cee4a/view",
+      "tldr": "This amendment focuses on modernizing VLF receiver systems for nuclear command and control.",
+      "why_relevant": "It ties into the profile's work with advanced systems and digital engineering."
     }
   ]
 }
