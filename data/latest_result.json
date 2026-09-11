@@ -1,17 +1,29 @@
 {
-  "overall_tldr": "Today's batch includes several contract opportunities focused on modeling, simulation, and defense-related projects, particularly relevant to the Air Force and DoD. The opportunities range from synthetic training environments to advanced research in RF signature analysis, making them suitable for someone in the defense contracting field. Additionally, there are opportunities related to software development and engineering support that align well with the profile's interests.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and related technologies, particularly relevant to defense and aerospace sectors. The opportunities range from synthetic training environments to advanced capability concepts, aligning well with the profile's expertise at NASIC.",
   "job_recommendations": [
     {
-      "notice_id": "10a10bf1401c4a0484e969f860ce3a77",
+      "notice_id": "c0962e4a7da3411f84b80885ef8b182b",
       "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
       "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-10",
+      "posted_date": "2026-09-11",
       "response_deadline": "2026-09-28T10:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/10a10bf1401c4a0484e969f860ce3a77/view",
+      "link": "https://sam.gov/workspace/contract/opp/c0962e4a7da3411f84b80885ef8b182b/view",
       "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "This aligns directly with the profile's interest in modeling and simulation for Air Force training."
+      "why_relevant": "Directly aligns with the profile's interest in modeling and simulation, particularly in a military context."
+    },
+    {
+      "notice_id": "8c31ca335dd24e2dbfcff830526159f7",
+      "title": "Missile Defense Agency - Advanced Capability Concepts",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-11",
+      "response_deadline": "2030-05-08T12:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/8c31ca335dd24e2dbfcff830526159f7/view",
+      "tldr": "This contract focuses on advanced capability concepts for missile defense, involving innovative technologies and systems.",
+      "why_relevant": "Relevant due to its focus on defense technologies, which complements the engineer's work at NASIC."
     },
     {
       "notice_id": "e73fc8d76e48475d935c719bc472151d",
@@ -22,8 +34,8 @@
       "posted_date": "2026-09-10",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/e73fc8d76e48475d935c719bc472151d/view",
-      "tldr": "This project focuses on creating a hybrid synthetic testbed for software development related to detection and classification.",
-      "why_relevant": "It involves modeling and simulation work that is relevant to the profile's expertise."
+      "tldr": "This opportunity involves creating a synthetic testbed for software development focused on detection and classification.",
+      "why_relevant": "Aligns with the profile's interest in synthetic environments and software development for military applications."
     },
     {
       "notice_id": "e290bca14e7547fb95c08057b57870c8",
@@ -34,44 +46,20 @@
       "posted_date": "2026-09-10",
       "response_deadline": "2026-09-24T12:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/e290bca14e7547fb95c08057b57870c8/view",
-      "tldr": "This opportunity involves technical and testing support for the QuickSink system, which is related to military ordnance.",
-      "why_relevant": "It connects to defense contracting and technical support, relevant to the profile's work."
+      "tldr": "This contract involves technical support and testing for the QuickSink weapon system, focusing on its development.",
+      "why_relevant": "Relevant due to its connection to Air Force weapon systems and the engineer's background in defense contracting."
     },
     {
-      "notice_id": "945fd139e2744bb29ee5295aa0e077d1",
-      "title": "Modernization and Engineering Support - III (MES III)",
-      "agency": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA FAS AAS REGION 4",
+      "notice_id": "b5a8609087a14078b64a03457a9b07b5",
+      "title": "Intelligence Exploitation and Targeting Systems (IETS)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC WD.NAVAL AIR WARFARE CENTER",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-09-10",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/945fd139e2744bb29ee5295aa0e077d1/view",
-      "tldr": "This contract involves modernization and engineering support services, likely for various defense-related projects.",
-      "why_relevant": "It aligns with the profile's engineering background and interest in modernization efforts."
-    },
-    {
-      "notice_id": "830eb6fae7dc412bbceca6a7fe21f563",
-      "title": "Automated Processes for Knowledge Discovery and Information Retrieval",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-09",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/830eb6fae7dc412bbceca6a7fe21f563/view",
-      "tldr": "This opportunity focuses on developing automated processes for knowledge discovery and information retrieval, which is essential for data analysis in defense.",
-      "why_relevant": "It relates to software development and data analysis, aligning with the profile's interests."
-    },
-    {
-      "notice_id": "55996f1fdb6b4c818abd0f8a2840f836",
-      "title": "Neutron Strategic Technology Advanced Research (Neutron-STAR) Advanced Research Announcement (ARA)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-09",
-      "response_deadline": "2027-10-01T00:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/55996f1fdb6b4c818abd0f8a2840f836/view",
-      "tldr": "This is an advanced research announcement for strategic technology related to neutron applications.",
-      "why_relevant": "It connects to advanced research and technology, relevant to the profile's work in defense."
+      "response_deadline": "2026-10-08T13:00:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/b5a8609087a14078b64a03457a9b07b5/view",
+      "tldr": "This opportunity focuses on systems for intelligence exploitation and targeting, critical for military operations.",
+      "why_relevant": "Directly ties into the engineer's work with intelligence and defense systems."
     },
     {
       "notice_id": "1b60ad5b3ca4409793ef59d5a771d896",
@@ -82,32 +70,44 @@
       "posted_date": "2026-09-08",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/1b60ad5b3ca4409793ef59d5a771d896/view",
-      "tldr": "This opportunity focuses on developing AI solutions for distributed command and control systems in the military.",
-      "why_relevant": "It aligns with interests in advanced technology and defense systems."
+      "tldr": "This contract focuses on AI and next-gen command and control systems for military applications.",
+      "why_relevant": "Relevant due to the emphasis on advanced technologies in defense, which aligns with the engineer's interests."
     },
     {
-      "notice_id": "c69ccd1a65764b088e032827877ece24",
-      "title": "REQUEST FOR INFORMATION - OPERATIONAL TEST AND TRAINING READINESS DIVISION - DevSecOps",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-03",
-      "response_deadline": "2026-09-11T12:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/c69ccd1a65764b088e032827877ece24/view",
-      "tldr": "This is a request for information related to operational testing and training readiness, focusing on DevSecOps practices.",
-      "why_relevant": "It relates to software development and operational readiness, which are key interests of the profile."
-    },
-    {
-      "notice_id": "4e5b4c0035de448daa58a679ee70e852",
-      "title": "Air Force Research Laboratory (AFRL) Enterprise Commercial Solutions Opening (CSO)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY",
+      "notice_id": "a23fbbc5aed741d5a4f1ad6b62e6f1c7",
+      "title": "Base Notice: Space Systems Command (SSC) Overhead Persistent Infrared (OPIR) Research and Development (R&D) Effort.",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO SPACE SENSING.FA8810  SPACE SENSING SSC/SNK",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-09-08",
-      "response_deadline": "2030-04-30T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/4e5b4c0035de448daa58a679ee70e852/view",
-      "tldr": "This opportunity involves commercial solutions for the Air Force Research Laboratory, focusing on innovative technologies.",
-      "why_relevant": "It connects to the profile's interests in advanced technologies and defense contracting."
+      "posted_date": "2026-09-10",
+      "response_deadline": "2026-09-25T15:45:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/a23fbbc5aed741d5a4f1ad6b62e6f1c7/view",
+      "tldr": "This opportunity involves R&D for overhead persistent infrared systems, essential for surveillance and reconnaissance.",
+      "why_relevant": "Aligns with the engineer's work in defense and aerospace technologies."
+    },
+    {
+      "notice_id": "4daf237dda484aa2a90242bb0aa5e809",
+      "title": "Physiological and cognitive test data collection for 12 participants",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-10",
+      "response_deadline": "2026-09-15T13:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/4daf237dda484aa2a90242bb0aa5e809/view",
+      "tldr": "This contract involves collecting physiological and cognitive test data, likely for research purposes.",
+      "why_relevant": "While not directly defense-related, it involves data collection and analysis, which may interest the engineer."
+    },
+    {
+      "notice_id": "55996f1fdb6b4c818abd0f8a2840f836",
+      "title": "Neutron Strategic Technology Advanced Research (Neutron-STAR) Advanced Research Announcement (ARA)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-09",
+      "response_deadline": "2027-10-01T00:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/55996f1fdb6b4c818abd0f8a2840f836/view",
+      "tldr": "This opportunity is focused on advanced research in neutron technologies, which could have various applications.",
+      "why_relevant": "Relevant due to its advanced research nature, appealing to the engineer's technical interests."
     }
   ]
 }
