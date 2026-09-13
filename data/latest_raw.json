@@ -2799,6 +2799,69 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-10-01",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Special Notice",
+      "classificationCode": null,
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=36be272129c54cdd9a5c2c200b81b2d3",
+      "fullParentPathCode": "075.7523.75D301",
+      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.CENTERS FOR DISEASE CONTROL AND PREVENTION.CDC OFFICE OF ACQUISITION SERVICES",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=36be272129c54cdd9a5c2c200b81b2d3&limit=1"
+        }
+      ],
+      "naicsCode": "541511",
+      "naicsCodes": [
+        "541511"
+      ],
+      "noticeId": "36be272129c54cdd9a5c2c200b81b2d3",
+      "officeAddress": {
+        "zipcode": "30333",
+        "city": "ATLANTA",
+        "countryCode": "USA",
+        "state": "GA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "2946",
+          "name": "2946"
+        },
+        "state": {
+          "code": "GA",
+          "name": "Georgia"
+        },
+        "zip": "30345",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "jpowell5@cdc.gov",
+          "phone": "4044983363",
+          "fullName": "Jasmine Powell"
+        }
+      ],
+      "postedDate": "2026-09-12",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-09-16T12:00:00-04:00",
+      "solicitationNumber": "000HCKCH-2026-97035",
+      "title": "GL Mobile App",
+      "type": "Special Notice",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/36be272129c54cdd9a5c2c200b81b2d3/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-10-03",
       "archiveType": "auto15",
       "award": null,
@@ -2864,69 +2927,6 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/e6edb41495b6441e95a00c0b16ea98af/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-10-01",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": null,
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e54059f8ba714ac7805c86a5708db032",
-      "fullParentPathCode": "075.7523.75D301",
-      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.CENTERS FOR DISEASE CONTROL AND PREVENTION.CDC OFFICE OF ACQUISITION SERVICES",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e54059f8ba714ac7805c86a5708db032&limit=1"
-        }
-      ],
-      "naicsCode": "541511",
-      "naicsCodes": [
-        "541511"
-      ],
-      "noticeId": "e54059f8ba714ac7805c86a5708db032",
-      "officeAddress": {
-        "zipcode": "30333",
-        "city": "ATLANTA",
-        "countryCode": "USA",
-        "state": "GA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "2946",
-          "name": "2946"
-        },
-        "state": {
-          "code": "GA",
-          "name": "Georgia"
-        },
-        "zip": "30345",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "jpowell5@cdc.gov",
-          "phone": "4044983363",
-          "fullName": "Jasmine Powell"
-        }
-      ],
-      "postedDate": "2026-09-11",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-09-16T12:00:00-04:00",
-      "solicitationNumber": "000HCKCH-2026-97035",
-      "title": "GL Mobile App",
-      "type": "Special Notice",
-      "typeOfSetAside": "NONE",
-      "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/e54059f8ba714ac7805c86a5708db032/view"
     },
     {
       "active": "Yes",
@@ -6298,132 +6298,54 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2026-10-06",
-      "archiveType": "auto30",
-      "award": {
-        "date": "2026-08-21",
-        "number": "75S20326F80003"
-      },
-      "baseType": "Justification",
-      "classificationCode": "DJ01",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=cf86f7253efa42bfa093ce5d0642c20f",
-      "fullParentPathCode": "075.7526.75R602",
-      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.HEALTH RESOURCES AND SERVICES ADMINISTRATION.HRSA HEADQUARTERS",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=cf86f7253efa42bfa093ce5d0642c20f&limit=1"
-        }
-      ],
-      "naicsCode": "541512",
-      "naicsCodes": [
-        "541512"
-      ],
-      "noticeId": "cf86f7253efa42bfa093ce5d0642c20f",
-      "officeAddress": {
-        "zipcode": "20852",
-        "city": "ROCKVILLE",
-        "countryCode": "USA",
-        "state": "MD"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "68464",
-          "name": "68464"
-        },
-        "state": {
-          "code": "MD",
-          "name": "Maryland"
-        },
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "rburdette@hrsa.gov",
-          "phone": "",
-          "fullName": "Robert Burdette"
-        }
-      ],
-      "postedDate": "2026-09-05",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8a29d4c730784473a2a884783c848234/download"
-      ],
-      "responseDeadLine": null,
-      "solicitationNumber": "75S20326F80003",
-      "title": "SAMHSA IT Security Support",
-      "type": "Justification",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/cf86f7253efa42bfa093ce5d0642c20f/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-09-15",
+      "archiveDate": "2026-09-28",
       "archiveType": "autocustom",
       "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": "7G21",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8508708c150c43e4abf714b0a7a37f70",
-      "fullParentPathCode": "075.7527.75H710",
-      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.INDIAN HEALTH SERVICE.NAVAJO AREA INDIAN HEALTH SVC",
+      "baseType": "Solicitation",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8e1250dc5e72435f88feb1bcde7c936b",
+      "fullParentPathCode": "017.1700.NAVFAC.NAVFAC PACIFIC CMD.N62742",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
       "links": [
         {
           "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8508708c150c43e4abf714b0a7a37f70&limit=1"
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8e1250dc5e72435f88feb1bcde7c936b&limit=1"
         }
       ],
-      "naicsCode": "541512",
+      "naicsCode": "541330",
       "naicsCodes": [
-        "541512"
+        "541330"
       ],
-      "noticeId": "8508708c150c43e4abf714b0a7a37f70",
+      "noticeId": "8e1250dc5e72435f88feb1bcde7c936b",
       "officeAddress": {
-        "zipcode": "86515",
-        "city": "WINDOW ROCK",
+        "zipcode": "96860-3134",
+        "city": "JBPHH",
         "countryCode": "USA",
-        "state": "AZ"
+        "state": "HI"
       },
       "organizationType": "OFFICE",
       "placeOfPerformance": {
-        "city": {
-          "code": "74470",
-          "name": "Tonalea"
-        },
-        "state": {
-          "code": "AZ",
-          "name": "Arizona"
-        },
-        "zip": "86044",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
+        "streetAddress": "",
+        "zip": ""
       },
       "pointOfContact": [
         {
           "fax": "",
           "type": "primary",
-          "email": "jerlyn.begay@ihs.gov",
-          "phone": "(928)405-6024",
-          "fullName": "Jerlyn Begay"
+          "email": "NAVFAC_PAC_ACQ21_Box1@us.navy.mil",
+          "phone": "",
+          "fullName": "Shelly Torres"
         }
       ],
-      "postedDate": "2026-09-05",
+      "postedDate": "2026-09-12",
       "resourceLinks": null,
-      "responseDeadLine": "2026-09-14T08:00:00-04:00",
-      "solicitationNumber": "IHS1523170",
-      "title": "IHHC - Implementation of a network wireless system",
-      "type": "Special Notice",
+      "responseDeadLine": "2026-09-28T14:00:00-10:00",
+      "solicitationNumber": "N6274226R3601",
+      "title": "RFP N62742-26-R-3601 Enterprise Construction Management Support Multiple Award Contract (ECMS MAC)",
+      "type": "Solicitation",
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/8508708c150c43e4abf714b0a7a37f70/view"
+      "uiLink": "https://sam.gov/workspace/contract/opp/8e1250dc5e72435f88feb1bcde7c936b/view"
     },
     {
       "active": "Yes",
