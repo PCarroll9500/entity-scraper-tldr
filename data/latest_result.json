@@ -1,17 +1,17 @@
 {
-  "overall_tldr": "Today's batch includes several contract opportunities that align closely with modeling, simulation, and defense-related work, particularly in areas relevant to the Air Force and DoD. There are also opportunities focused on synthetic environments and digital engineering, which are of particular interest to the engineer's current role. Overall, these listings represent a strong match for the engineer's expertise and interests.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on defense and advanced research, particularly in areas relevant to modeling, simulation, and technology development for military applications. Many of these opportunities align well with the profile's expertise in RF signature analysis, digital engineering, and synthetic environments.",
   "job_recommendations": [
     {
-      "notice_id": "73121291c5d14faa958099b1f610a002",
+      "notice_id": "3cd0f55a5a484d9c9e9b4a451e0b347d",
       "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
       "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
       "naics": "541715",
       "set_aside": "No Set aside used",
       "posted_date": "2026-09-16",
       "response_deadline": "2026-09-29T13:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/73121291c5d14faa958099b1f610a002/view",
+      "link": "https://sam.gov/workspace/contract/opp/3cd0f55a5a484d9c9e9b4a451e0b347d/view",
       "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "This aligns directly with the engineer's focus on modeling and simulation, particularly in a military context."
+      "why_relevant": "It directly relates to the profile's interest in simulation and training work for the DoD."
     },
     {
       "notice_id": "a71495f6ce5e4e2fb45ceed1162606ad",
@@ -22,92 +22,92 @@
       "posted_date": "2026-09-16",
       "response_deadline": "2026-10-15T14:00:00-06:00",
       "link": "https://sam.gov/workspace/contract/opp/a71495f6ce5e4e2fb45ceed1162606ad/view",
-      "tldr": "This contract focuses on enhancing satellite communication systems for the Space Force, which is vital for modern military operations.",
-      "why_relevant": "The engineer's work with the Air Force and interest in advanced technologies makes this opportunity particularly relevant."
+      "tldr": "This contract focuses on enhancing satellite communication capabilities for the Space Force, which is vital for modern military operations.",
+      "why_relevant": "It ties into the profile's work with the Air Force and interest in advanced communication technologies."
     },
     {
-      "notice_id": "95a79314b838428eabc74dc8a9507e3d",
-      "title": "U.S. National Science Foundation (NSF) X-Labs Initiative",
-      "agency": "NATIONAL SCIENCE FOUNDATION.NATIONAL SCIENCE FOUNDATION.DIRECTORATE FOR TECHNOLOGY, INNOVATION, & PARTNERSHIPS",
+      "notice_id": "c2ebbce8dba84dd7ae298df39ee5eb07",
+      "title": "HADES (Hybrid Architecture and Development for Experimental Systems) Request for Proposal",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.FA8809 SDA AND CMBT PWR SSC/SZK-IK",
       "naics": "541715",
       "set_aside": "No Set aside used",
       "posted_date": "2026-09-16",
-      "response_deadline": "2028-05-14T15:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/95a79314b838428eabc74dc8a9507e3d/view",
-      "tldr": "This initiative aims to foster innovation in technology and partnerships, potentially impacting various fields including defense.",
-      "why_relevant": "The focus on technology innovation aligns with the engineer's interests in digital engineering and simulation."
+      "response_deadline": "2026-09-17T13:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/c2ebbce8dba84dd7ae298df39ee5eb07/view",
+      "tldr": "This RFP is for developing hybrid architectures for experimental systems, which could involve simulation elements.",
+      "why_relevant": "It aligns with the profile's focus on digital engineering and experimental systems."
     },
     {
-      "notice_id": "4e209132c1cd4720856b490f43ec19e4",
-      "title": "NSF X-Labs Initiative \u2013 AI for Physical Systems Topic Announcement",
-      "agency": "NATIONAL SCIENCE FOUNDATION.NATIONAL SCIENCE FOUNDATION.DIRECTORATE FOR TECHNOLOGY, INNOVATION, & PARTNERSHIPS",
+      "notice_id": "fa27a83bb8df49a19362b55ce6df6b41",
+      "title": "NGA - Boosting Innovative GEOINT - Science & Technology Broad Agency Announcement (BIG-ST BAA)",
+      "agency": "DEPT OF DEFENSE.NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA).ATTN: MS S84 - OCS",
       "naics": "541715",
-      "set_aside": "No Set aside used",
+      "set_aside": null,
       "posted_date": "2026-09-16",
-      "response_deadline": "2027-01-07T17:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/4e209132c1cd4720856b490f43ec19e4/view",
-      "tldr": "This opportunity focuses on applying AI to physical systems, which could enhance modeling and simulation capabilities.",
-      "why_relevant": "The intersection of AI and physical systems is highly relevant to the engineer's work in modeling and simulation."
-    },
-    {
-      "notice_id": "cc44e89328884b3884f098288ae596df",
-      "title": "Relentless Wolfpack CALL Amendment",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8651 AFRL RAZ",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-14",
-      "response_deadline": "2026-10-02T12:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/cc44e89328884b3884f098288ae596df/view",
-      "tldr": "This amendment relates to the Air Force's ongoing research and development efforts, likely involving advanced technologies.",
-      "why_relevant": "As the engineer supports the Air Force, this opportunity is directly aligned with their work."
-    },
-    {
-      "notice_id": "b5a8609087a14078b64a03457a9b07b5",
-      "title": "Intelligence Exploitation and Targeting Systems (IETS)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC WD.NAVAL AIR WARFARE CENTER",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-10",
-      "response_deadline": "2026-10-08T13:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/b5a8609087a14078b64a03457a9b07b5/view",
-      "tldr": "This contract focuses on developing systems for intelligence exploitation and targeting, crucial for military operations.",
-      "why_relevant": "The engineer's background in defense contracting makes this opportunity particularly relevant."
-    },
-    {
-      "notice_id": "8c31ca335dd24e2dbfcff830526159f7",
-      "title": "Missile Defense Agency - Advanced Capability Concepts",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-11",
-      "response_deadline": "2030-05-08T12:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/8c31ca335dd24e2dbfcff830526159f7/view",
-      "tldr": "This opportunity involves exploring advanced concepts for missile defense capabilities.",
-      "why_relevant": "The focus on advanced military technologies aligns with the engineer's work in defense."
-    },
-    {
-      "notice_id": "e73fc8d76e48475d935c719bc472151d",
-      "title": "Hybrid Synthetic Testbed Site to Support Development and Testing of Detection, Classification and Localization Software",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-10",
       "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/e73fc8d76e48475d935c719bc472151d/view",
-      "tldr": "This contract focuses on creating a synthetic testbed for software development related to detection and classification.",
-      "why_relevant": "This aligns with the engineer's interests in modeling and simulation, particularly in a military context."
+      "link": "https://sam.gov/workspace/contract/opp/fa27a83bb8df49a19362b55ce6df6b41/view",
+      "tldr": "This announcement seeks innovative proposals in geospatial intelligence, focusing on science and technology advancements.",
+      "why_relevant": "It connects with the profile's work in intelligence and analysis."
     },
     {
-      "notice_id": "e290bca14e7547fb95c08057b57870c8",
-      "title": "QuickSink Development, Technical, and Testing Support  BLU-141/B",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8681  AFLCMC EBD",
+      "notice_id": "d700fbf2eb594baaa57929b5f17020e5",
+      "title": "SOURCES SOUGHT: ERDC Fellowship Program Administration and Research Support",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER RESEARCH AND DEVELOPMENT CENTER.W2R2 USA ENGR R & D CTR",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-16",
+      "response_deadline": "2026-10-01T14:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/d700fbf2eb594baaa57929b5f17020e5/view",
+      "tldr": "This opportunity involves providing administrative and research support for the ERDC Fellowship Program, focusing on engineering and development.",
+      "why_relevant": "It relates to the profile's engineering background and interest in research."
+    },
+    {
+      "notice_id": "678440d86d544f61911266d1ad234a33",
+      "title": "Optoelectronics, Power Electronics and Radiation Effects",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-10",
-      "response_deadline": "2026-09-24T12:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/e290bca14e7547fb95c08057b57870c8/view",
-      "tldr": "This opportunity involves development and testing support for a specific Air Force weapon system.",
-      "why_relevant": "The engineer's work with the Air Force makes this opportunity particularly relevant."
+      "posted_date": "2026-09-16",
+      "response_deadline": "2026-10-16T18:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/678440d86d544f61911266d1ad234a33/view",
+      "tldr": "This contract focuses on research related to optoelectronics and power electronics, including their effects under radiation.",
+      "why_relevant": "It ties into the profile's electrical work and interest in technology development."
+    },
+    {
+      "notice_id": "b102122f51db4ec49ebe678ef4c7ae42",
+      "title": "ITS4US Deployment Accelerator Pilot",
+      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-17",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/b102122f51db4ec49ebe678ef4c7ae42/view",
+      "tldr": "This pilot program aims to accelerate the deployment of innovative transportation solutions.",
+      "why_relevant": "It connects with the profile's interest in technology and engineering."
+    },
+    {
+      "notice_id": "bafd3caf995c454692e864795143a545",
+      "title": "Request for Information (RFI): Identifying the Next Generation of NSF X-Labs Topics",
+      "agency": "NATIONAL SCIENCE FOUNDATION.NATIONAL SCIENCE FOUNDATION.DIRECTORATE FOR TECHNOLOGY, INNOVATION, & PARTNERSHIPS",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-16",
+      "response_deadline": "2026-10-30T23:59:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/bafd3caf995c454692e864795143a545/view",
+      "tldr": "This RFI seeks input on future topics for NSF X-Labs, focusing on innovation and technology.",
+      "why_relevant": "It aligns with the profile's interest in innovation and technology development."
+    },
+    {
+      "notice_id": "c33e1ed6a23942049b37c24d1f4f78ba",
+      "title": "BEAMERS Industry Day Announcement",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-14",
+      "response_deadline": "2026-09-23T17:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/c33e1ed6a23942049b37c24d1f4f78ba/view",
+      "tldr": "This announcement is for an industry day focused on advanced research projects related to defense.",
+      "why_relevant": "It connects with the profile's work in advanced technologies and defense."
     }
   ]
 }
