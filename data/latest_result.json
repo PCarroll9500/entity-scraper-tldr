@@ -1,6 +1,30 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on defense and advanced research, particularly in areas relevant to modeling, simulation, and technology development for military applications. Many of these opportunities align well with the profile's expertise in RF signature analysis, digital engineering, and synthetic environments.",
+  "overall_tldr": "Today's batch includes a variety of defense-related contract opportunities focused on modeling, simulation, and technology development, particularly in areas relevant to the Air Force and DoD. The selected job opportunities emphasize RF analysis, AI applications, and synthetic environments, aligning well with the profile's expertise and interests.",
   "job_recommendations": [
+    {
+      "notice_id": "d44d0904b2894646aebfd9aebd2b5807",
+      "title": "Broad Agency Announcement (BAA): Cost Estimating Modeling Data, Analytics Research (CEMDAR)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE DISTRICT OF WASHINGTON.FA7014  AFDW PK",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-09-18",
+      "response_deadline": "2026-10-19T13:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/d44d0904b2894646aebfd9aebd2b5807/view",
+      "tldr": "This opportunity involves research and analytics related to cost estimating modeling for defense projects.",
+      "why_relevant": "The focus on modeling and analytics aligns with the profile's work in modeling and simulation."
+    },
+    {
+      "notice_id": "45ca548df3aa4458b9eb0ea8ea91a95b",
+      "title": "Project ARIA - AI Virtual BAS Operator for Enhanced DoD Building Performance",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-18",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/45ca548df3aa4458b9eb0ea8ea91a95b/view",
+      "tldr": "This project focuses on using AI to enhance building performance for DoD facilities.",
+      "why_relevant": "The integration of AI in operational environments connects with the profile's interest in advanced technologies."
+    },
     {
       "notice_id": "3cd0f55a5a484d9c9e9b4a451e0b347d",
       "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
@@ -10,20 +34,8 @@
       "posted_date": "2026-09-16",
       "response_deadline": "2026-09-29T13:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/3cd0f55a5a484d9c9e9b4a451e0b347d/view",
-      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "It directly relates to the profile's interest in simulation and training work for the DoD."
-    },
-    {
-      "notice_id": "a71495f6ce5e4e2fb45ceed1162606ad",
-      "title": "United States Space Force (USSF) Battle Management, Command, Control, Communication and Space Intelligence (BMC3I) Satellite Communication Augmentation Resource (SCAR) Program Office (PMO) Commercial Solutions Opening (CSO) Two Phase Closed Variant",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-16",
-      "response_deadline": "2026-10-15T14:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/a71495f6ce5e4e2fb45ceed1162606ad/view",
-      "tldr": "This contract focuses on enhancing satellite communication capabilities for the Space Force, which is vital for modern military operations.",
-      "why_relevant": "It ties into the profile's work with the Air Force and interest in advanced communication technologies."
+      "tldr": "This opportunity involves developing software for a synthetic training environment for military applications.",
+      "why_relevant": "Directly relates to the profile's interest in simulation and training technologies."
     },
     {
       "notice_id": "c2ebbce8dba84dd7ae298df39ee5eb07",
@@ -34,8 +46,8 @@
       "posted_date": "2026-09-16",
       "response_deadline": "2026-09-17T13:00:00-06:00",
       "link": "https://sam.gov/workspace/contract/opp/c2ebbce8dba84dd7ae298df39ee5eb07/view",
-      "tldr": "This RFP is for developing hybrid architectures for experimental systems, which could involve simulation elements.",
-      "why_relevant": "It aligns with the profile's focus on digital engineering and experimental systems."
+      "tldr": "This RFP seeks proposals for hybrid architecture and development for experimental systems.",
+      "why_relevant": "The focus on experimental systems aligns with the profile's work in modeling and simulation."
     },
     {
       "notice_id": "fa27a83bb8df49a19362b55ce6df6b41",
@@ -46,8 +58,8 @@
       "posted_date": "2026-09-16",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/fa27a83bb8df49a19362b55ce6df6b41/view",
-      "tldr": "This announcement seeks innovative proposals in geospatial intelligence, focusing on science and technology advancements.",
-      "why_relevant": "It connects with the profile's work in intelligence and analysis."
+      "tldr": "This BAA focuses on innovative science and technology solutions for geospatial intelligence.",
+      "why_relevant": "Relevant to the profile's work in analysis and technology development for defense applications."
     },
     {
       "notice_id": "d700fbf2eb594baaa57929b5f17020e5",
@@ -58,56 +70,44 @@
       "posted_date": "2026-09-16",
       "response_deadline": "2026-10-01T14:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/d700fbf2eb594baaa57929b5f17020e5/view",
-      "tldr": "This opportunity involves providing administrative and research support for the ERDC Fellowship Program, focusing on engineering and development.",
-      "why_relevant": "It relates to the profile's engineering background and interest in research."
+      "tldr": "This sources sought notice is for research support related to the ERDC Fellowship Program.",
+      "why_relevant": "Research support aligns with the profile's focus on modeling and simulation."
     },
     {
-      "notice_id": "678440d86d544f61911266d1ad234a33",
-      "title": "Optoelectronics, Power Electronics and Radiation Effects",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "notice_id": "a71495f6ce5e4e2fb45ceed1162606ad",
+      "title": "United States Space Force (USSF) Battle Management, Command, Control, Communication and Space Intelligence (BMC3I) Satellite Communication Augmentation Resource (SCAR) Program Office (PMO) Commercial Solutions Opening (CSO) Two Phase Closed Variant",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
       "naics": "541715",
       "set_aside": "No Set aside used",
       "posted_date": "2026-09-16",
-      "response_deadline": "2026-10-16T18:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/678440d86d544f61911266d1ad234a33/view",
-      "tldr": "This contract focuses on research related to optoelectronics and power electronics, including their effects under radiation.",
-      "why_relevant": "It ties into the profile's electrical work and interest in technology development."
+      "response_deadline": "2026-10-15T14:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/a71495f6ce5e4e2fb45ceed1162606ad/view",
+      "tldr": "This opportunity involves satellite communication solutions for the Space Force's command and control operations.",
+      "why_relevant": "Relevant to the profile's work in defense systems and technology."
     },
     {
-      "notice_id": "b102122f51db4ec49ebe678ef4c7ae42",
-      "title": "ITS4US Deployment Accelerator Pilot",
-      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-17",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/b102122f51db4ec49ebe678ef4c7ae42/view",
-      "tldr": "This pilot program aims to accelerate the deployment of innovative transportation solutions.",
-      "why_relevant": "It connects with the profile's interest in technology and engineering."
-    },
-    {
-      "notice_id": "bafd3caf995c454692e864795143a545",
-      "title": "Request for Information (RFI): Identifying the Next Generation of NSF X-Labs Topics",
-      "agency": "NATIONAL SCIENCE FOUNDATION.NATIONAL SCIENCE FOUNDATION.DIRECTORATE FOR TECHNOLOGY, INNOVATION, & PARTNERSHIPS",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-16",
-      "response_deadline": "2026-10-30T23:59:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/bafd3caf995c454692e864795143a545/view",
-      "tldr": "This RFI seeks input on future topics for NSF X-Labs, focusing on innovation and technology.",
-      "why_relevant": "It aligns with the profile's interest in innovation and technology development."
-    },
-    {
-      "notice_id": "c33e1ed6a23942049b37c24d1f4f78ba",
-      "title": "BEAMERS Industry Day Announcement",
-      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "notice_id": "c4f2e30b4f444008abe3fb8f771f71a4",
+      "title": "Dual Purpose Weather Forecasting Solution",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-09-14",
-      "response_deadline": "2026-09-23T17:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/c33e1ed6a23942049b37c24d1f4f78ba/view",
-      "tldr": "This announcement is for an industry day focused on advanced research projects related to defense.",
-      "why_relevant": "It connects with the profile's work in advanced technologies and defense."
+      "posted_date": "2026-09-17",
+      "response_deadline": "2026-09-24T23:59:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/c4f2e30b4f444008abe3fb8f771f71a4/view",
+      "tldr": "This project seeks a solution for weather forecasting that serves dual purposes.",
+      "why_relevant": "Weather forecasting is crucial for effective modeling and simulation in defense contexts."
+    },
+    {
+      "notice_id": "d2bb23d781124b8690158100ce7d5f1e",
+      "title": "ManTech special Broad Agency Announcement (sBAA): Accelerating Maritime Modernization: Innovation in Naval Manufacturing, Sustainment, and Industrial Base Capability",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR HQS.OFFICE OF NAVAL RESEARCH",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-17",
+      "response_deadline": "2027-07-16T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/d2bb23d781124b8690158100ce7d5f1e/view",
+      "tldr": "This BAA focuses on innovations in naval manufacturing and sustainment.",
+      "why_relevant": "Relevant to the profile's interest in advanced technologies and defense applications."
     }
   ]
 }
