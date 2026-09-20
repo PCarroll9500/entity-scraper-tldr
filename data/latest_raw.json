@@ -5797,69 +5797,6 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2026-10-01",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": null,
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=36be272129c54cdd9a5c2c200b81b2d3",
-      "fullParentPathCode": "075.7523.75D301",
-      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.CENTERS FOR DISEASE CONTROL AND PREVENTION.CDC OFFICE OF ACQUISITION SERVICES",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=36be272129c54cdd9a5c2c200b81b2d3&limit=1"
-        }
-      ],
-      "naicsCode": "541511",
-      "naicsCodes": [
-        "541511"
-      ],
-      "noticeId": "36be272129c54cdd9a5c2c200b81b2d3",
-      "officeAddress": {
-        "zipcode": "30333",
-        "city": "ATLANTA",
-        "countryCode": "USA",
-        "state": "GA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "2946",
-          "name": "2946"
-        },
-        "state": {
-          "code": "GA",
-          "name": "Georgia"
-        },
-        "zip": "30345",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "jpowell5@cdc.gov",
-          "phone": "4044983363",
-          "fullName": "Jasmine Powell"
-        }
-      ],
-      "postedDate": "2026-09-12",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-09-16T12:00:00-04:00",
-      "solicitationNumber": "000HCKCH-2026-97035",
-      "title": "GL Mobile App",
-      "type": "Special Notice",
-      "typeOfSetAside": "NONE",
-      "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/36be272129c54cdd9a5c2c200b81b2d3/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
       "archiveDate": "2026-10-17",
       "archiveType": "auto15",
       "award": null,
@@ -7202,6 +7139,72 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/00f4df4e491e44328147405a9df1e276/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-10-17",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "C222",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=50f33599ceea4a469164f74bf889d36f",
+      "fullParentPathCode": "089.8900.899032",
+      "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.BERKELEY NATL LAB - DOE CONTRACTOR",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=50f33599ceea4a469164f74bf889d36f&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "50f33599ceea4a469164f74bf889d36f",
+      "officeAddress": {
+        "zipcode": "94720",
+        "city": "Berkeley",
+        "countryCode": "USA",
+        "state": "CA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "6000",
+          "name": "Berkeley"
+        },
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "aanoop@lbl.gov",
+          "fullName": "Arielle Anoop"
+        }
+      ],
+      "postedDate": "2026-09-20",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/116820930fba4b0ab62bdadccf3b03b8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11ad5286421e451faa58581731b2aeea/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/12fcf9da30ae48ce8922cfd00d2408ee/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1fa292c2426b464db8f417edc980c74d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e615dbbed0745f8a68c96e555465fb5/download"
+      ],
+      "responseDeadLine": "2026-10-02T17:00:00-07:00",
+      "solicitationNumber": "AA-2027-01",
+      "title": "SR Power Supplies Rack Detailed Design for ALS-U",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/50f33599ceea4a469164f74bf889d36f/view"
     },
     {
       "active": "Yes",
@@ -13461,58 +13464,6 @@
       "typeOfSetAside": "SBA",
       "typeOfSetAsideDescription": "Small Business Set Aside - Total",
       "uiLink": "https://sam.gov/workspace/contract/opp/0b4bca2640b741f1859dcf9c22851986/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-09-28",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Solicitation",
-      "classificationCode": "R425",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8e1250dc5e72435f88feb1bcde7c936b",
-      "fullParentPathCode": "017.1700.NAVFAC.NAVFAC PACIFIC CMD.N62742",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8e1250dc5e72435f88feb1bcde7c936b&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "8e1250dc5e72435f88feb1bcde7c936b",
-      "officeAddress": {
-        "zipcode": "96860-3134",
-        "city": "JBPHH",
-        "countryCode": "USA",
-        "state": "HI"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "",
-        "zip": ""
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "NAVFAC_PAC_ACQ21_Box1@us.navy.mil",
-          "phone": "",
-          "fullName": "Shelly Torres"
-        }
-      ],
-      "postedDate": "2026-09-12",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-09-28T14:00:00-10:00",
-      "solicitationNumber": "N6274226R3601",
-      "title": "RFP N62742-26-R-3601 Enterprise Construction Management Support Multiple Award Contract (ECMS MAC)",
-      "type": "Solicitation",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/8e1250dc5e72435f88feb1bcde7c936b/view"
     },
     {
       "active": "Yes",
