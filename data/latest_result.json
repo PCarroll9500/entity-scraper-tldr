@@ -1,18 +1,6 @@
 {
-  "overall_tldr": "Today's batch includes a variety of job opportunities focused on modeling, simulation, and defense technologies, particularly relevant to the Air Force and DoD. The listings emphasize digital engineering, synthetic environments, and advanced research projects that align well with the profile's expertise and interests.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and defense-related projects, particularly relevant to the Air Force and DoD. The opportunities span areas like synthetic training environments, digital engineering, and advanced research initiatives, aligning well with the profile's expertise and interests.",
   "job_recommendations": [
-    {
-      "notice_id": "5b4eeb1ad52b437bb11fd4380f371ee9",
-      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-18",
-      "response_deadline": "2026-09-29T13:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/5b4eeb1ad52b437bb11fd4380f371ee9/view",
-      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "Directly aligns with interests in modeling and simulation, particularly in a military context."
-    },
     {
       "notice_id": "d44d0904b2894646aebfd9aebd2b5807",
       "title": "Broad Agency Announcement (BAA): Cost Estimating Modeling Data, Analytics Research (CEMDAR)",
@@ -22,8 +10,20 @@
       "posted_date": "2026-09-18",
       "response_deadline": "2026-10-19T13:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/d44d0904b2894646aebfd9aebd2b5807/view",
-      "tldr": "This BAA focuses on research related to cost estimating modeling and analytics, which is key for defense budgeting and planning.",
-      "why_relevant": "Relevant to the profile's work in modeling and simulation, especially in the context of defense applications."
+      "tldr": "This opportunity involves research and development in cost estimating modeling data and analytics for the Air Force.",
+      "why_relevant": "It aligns with the profile's focus on modeling and simulation, particularly in a defense context."
+    },
+    {
+      "notice_id": "5b4eeb1ad52b437bb11fd4380f371ee9",
+      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-18",
+      "response_deadline": "2026-09-29T13:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/5b4eeb1ad52b437bb11fd4380f371ee9/view",
+      "tldr": "This contract focuses on developing virtual software for the Synthetic Training Environment, enhancing training simulations for military personnel.",
+      "why_relevant": "Directly relates to the profile's interest in synthetic environments and military training."
     },
     {
       "notice_id": "62446f1684754112be95a66fff02eee3",
@@ -34,8 +34,20 @@
       "posted_date": "2026-09-18",
       "response_deadline": "2026-10-19T12:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/62446f1684754112be95a66fff02eee3/view",
-      "tldr": "This opportunity involves developing threat response capabilities for space vehicles, focusing on rendezvous and proximity operations.",
-      "why_relevant": "Connects to space domain awareness and defense technologies, which are part of the profile's interests."
+      "tldr": "This opportunity involves developing threat response capabilities for space operations, focusing on responsive launch vehicles.",
+      "why_relevant": "It connects to the profile's work in space domain awareness and defense technologies."
+    },
+    {
+      "notice_id": "7f4effce6d664039aaf5f55b240d9a35",
+      "title": "Lunar Enabling Infrastructure Accelerator (LEIA) -Broad Agency Announcement (BAA) NextSTEP-3 Appendix A - Final Solicitation",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-21",
+      "response_deadline": "2026-10-08T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/7f4effce6d664039aaf5f55b240d9a35/view",
+      "tldr": "This BAA seeks innovative proposals to develop infrastructure for lunar exploration and operations.",
+      "why_relevant": "It relates to modeling and simulation in the context of space exploration, which is relevant to the profile's interests."
     },
     {
       "notice_id": "572d40abf7f94ea4bc090d62581ef5f3",
@@ -46,56 +58,8 @@
       "posted_date": "2026-09-18",
       "response_deadline": "2026-11-02T16:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/572d40abf7f94ea4bc090d62581ef5f3/view",
-      "tldr": "This RFP seeks proposals for resilient missile warning tracking systems in low Earth orbit, enhancing national security.",
-      "why_relevant": "Relevant to the profile's focus on defense technologies and simulation in military contexts."
-    },
-    {
-      "notice_id": "a71495f6ce5e4e2fb45ceed1162606ad",
-      "title": "United States Space Force (USSF) Battle Management, Command, Control, Communication and Space Intelligence (BMC3I) Satellite Communication Augmentation Resource (SCAR) Program Office (PMO) Commercial Solutions Opening (CSO) Two Phase Closed Variant",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-16",
-      "response_deadline": "2026-10-15T14:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/a71495f6ce5e4e2fb45ceed1162606ad/view",
-      "tldr": "This opportunity focuses on enhancing satellite communication capabilities for battle management and space intelligence.",
-      "why_relevant": "Aligns with interests in space domain awareness and military communication systems."
-    },
-    {
-      "notice_id": "9a35e2e3a6ea4cbd8b63f3b05737d177",
-      "title": "MXO Office-wide Innovative Solutions Opening",
-      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-18",
-      "response_deadline": "2027-06-04T16:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/9a35e2e3a6ea4cbd8b63f3b05737d177/view",
-      "tldr": "This opportunity invites innovative solutions across various domains, potentially including modeling and simulation technologies.",
-      "why_relevant": "Encourages creativity in defense technologies, relevant to the profile's engineering background."
-    },
-    {
-      "notice_id": "d2bb23d781124b8690158100ce7d5f1e",
-      "title": "ManTech special Broad Agency Announcement (sBAA): Accelerating Maritime Modernization: Innovation in Naval Manufacturing, Sustainment, and Industrial Base Capability",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR HQS.OFFICE OF NAVAL RESEARCH",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-17",
-      "response_deadline": "2027-07-16T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/d2bb23d781124b8690158100ce7d5f1e/view",
-      "tldr": "This BAA focuses on innovations in naval manufacturing and sustainment, enhancing the industrial base for maritime operations.",
-      "why_relevant": "Connects to defense technologies and innovation, relevant to the profile's work in engineering."
-    },
-    {
-      "notice_id": "c4f2e30b4f444008abe3fb8f771f71a4",
-      "title": "Dual Purpose Weather Forecasting Solution",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-17",
-      "response_deadline": "2026-09-24T23:59:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/c4f2e30b4f444008abe3fb8f771f71a4/view",
-      "tldr": "This opportunity involves developing a weather forecasting solution that serves dual purposes, likely for military applications.",
-      "why_relevant": "Relevant to modeling and simulation in defense contexts, particularly in environmental considerations."
+      "tldr": "This RFP focuses on developing resilient tracking systems for missile warning in low Earth orbit.",
+      "why_relevant": "It ties into the profile's work with space domain awareness and defense technologies."
     },
     {
       "notice_id": "36caccb7f3784342812ab25b8d48fa5d",
@@ -106,8 +70,44 @@
       "posted_date": "2026-09-18",
       "response_deadline": "2027-01-07T17:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/36caccb7f3784342812ab25b8d48fa5d/view",
-      "tldr": "This initiative invites proposals related to AI applications in physical systems, potentially impacting various industries including defense.",
-      "why_relevant": "Aligns with interests in innovative technologies and modeling applications."
+      "tldr": "This initiative invites proposals for AI applications in physical systems, promoting innovative research.",
+      "why_relevant": "It aligns with the profile's interest in advanced modeling and simulation technologies."
+    },
+    {
+      "notice_id": "a71495f6ce5e4e2fb45ceed1162606ad",
+      "title": "United States Space Force (USSF) Battle Management, Command, Control, Communication and Space Intelligence (BMC3I) Satellite Communication Augmentation Resource (SCAR) Program Office (PMO) Commercial Solutions Opening (CSO) Two Phase Closed Variant",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-16",
+      "response_deadline": "2026-10-15T14:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/a71495f6ce5e4e2fb45ceed1162606ad/view",
+      "tldr": "This opportunity focuses on enhancing satellite communication capabilities for the Space Force's battle management systems.",
+      "why_relevant": "It connects to the profile's work in space intelligence and defense systems."
+    },
+    {
+      "notice_id": "13c98b9f92724ef694b42bae25dc82ed",
+      "title": "Drone Killer Cartridge Training Device",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-16",
+      "response_deadline": "2026-10-14T12:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/13c98b9f92724ef694b42bae25dc82ed/view",
+      "tldr": "This contract involves developing a training device for drone defense systems.",
+      "why_relevant": "It relates to the profile's interests in simulation and training technologies."
+    },
+    {
+      "notice_id": "9a35e2e3a6ea4cbd8b63f3b05737d177",
+      "title": "MXO Office-wide Innovative Solutions Opening",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-18",
+      "response_deadline": "2027-06-04T16:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/9a35e2e3a6ea4cbd8b63f3b05737d177/view",
+      "tldr": "This opportunity invites innovative solutions across various defense-related fields.",
+      "why_relevant": "It aligns with the profile's interest in cutting-edge technologies and defense applications."
     }
   ]
 }
