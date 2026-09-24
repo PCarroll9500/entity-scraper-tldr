@@ -1,41 +1,65 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense and aerospace. Many of these opportunities align closely with the engineer's work at NASIC, particularly in areas like digital engineering and space domain awareness.",
+  "overall_tldr": "Today's batch includes a variety of job opportunities primarily focused on advanced technologies and modeling related to defense and aerospace. Many of these roles align closely with the profile's expertise in modeling and simulation, particularly in the context of the Air Force and DoD.",
   "job_recommendations": [
     {
-      "notice_id": "5b4eeb1ad52b437bb11fd4380f371ee9",
+      "notice_id": "7b6ae318cb7340e392dd4517b6a53e2d",
+      "title": "ULTRA-BROADBAND TERAHERTZ RADIO DEVELOPMENT",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-24",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/7b6ae318cb7340e392dd4517b6a53e2d/view",
+      "tldr": "This project involves the development of ultra-broadband terahertz radio technologies, which could have applications in advanced communications and sensing.",
+      "why_relevant": "The focus on advanced radio technologies aligns with the profile's work in RF signature production and analysis."
+    },
+    {
+      "notice_id": "60826c8105a3452da7ad3b521157c856",
+      "title": "EXTREME COMPUTING",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-24",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/60826c8105a3452da7ad3b521157c856/view",
+      "tldr": "This opportunity focuses on extreme computing solutions that could enhance data processing capabilities for military applications.",
+      "why_relevant": "The emphasis on computing solutions is relevant to modeling and simulation efforts in defense contexts."
+    },
+    {
+      "notice_id": "76643e05356a430e8e22e0aa8fd19f18",
       "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
       "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-18",
+      "posted_date": "2026-09-23",
       "response_deadline": "2026-09-29T13:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/5b4eeb1ad52b437bb11fd4380f371ee9/view",
-      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "This aligns perfectly with the engineer's interest in modeling and simulation, particularly in the context of military training."
+      "link": "https://sam.gov/workspace/contract/opp/76643e05356a430e8e22e0aa8fd19f18/view",
+      "tldr": "This project aims to develop virtual software for a synthetic training environment, enhancing training for military personnel.",
+      "why_relevant": "It directly relates to the profile's interest in simulation and training within the Air Force."
     },
     {
-      "notice_id": "1078f517f61949bfbf340c577fc95c52",
-      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Partial",
-      "posted_date": "2026-09-21",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/1078f517f61949bfbf340c577fc95c52/view",
-      "tldr": "This contract focuses on the development and management of advanced battle network systems for the Air Force.",
-      "why_relevant": "The work is relevant to the engineer's background in C4ISR analysis and digital engineering."
-    },
-    {
-      "notice_id": "62446f1684754112be95a66fff02eee3",
+      "notice_id": "63cbb165d7ef42bab58aeea4a850378f",
       "title": "Rendezvous, Proximity Operations (RPO) Threat Response (RTR) VICTUS Responsive Launch Space Vehicle (SV)",
       "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO SPACE DOMAIN AWARENESS ANDCOMBAT POWER.FA8819 SDA AND COMBAT POWER SZK-LA",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-18",
+      "posted_date": "2026-09-23",
       "response_deadline": "2026-10-19T12:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/62446f1684754112be95a66fff02eee3/view",
-      "tldr": "This opportunity involves developing responsive launch capabilities for space vehicles, focusing on threat response.",
-      "why_relevant": "It ties into the engineer's interest in space domain awareness and advanced aerospace technologies."
+      "link": "https://sam.gov/workspace/contract/opp/63cbb165d7ef42bab58aeea4a850378f/view",
+      "tldr": "This opportunity involves developing threat response capabilities for space vehicles during rendezvous and proximity operations.",
+      "why_relevant": "It ties into space domain awareness, a key area of interest for the profile."
+    },
+    {
+      "notice_id": "2f199343f536422c9e0a5b6b400c8827",
+      "title": "Performance Enhanced Real-time Ground Environment (PEREGRINE) Sentry",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-23",
+      "response_deadline": "2026-10-23T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/2f199343f536422c9e0a5b6b400c8827/view",
+      "tldr": "This project focuses on enhancing real-time ground environment performance for military applications.",
+      "why_relevant": "It relates to the profile's work in modeling and simulation for defense."
     },
     {
       "notice_id": "d44d0904b2894646aebfd9aebd2b5807",
@@ -46,68 +70,44 @@
       "posted_date": "2026-09-18",
       "response_deadline": "2026-10-19T13:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/d44d0904b2894646aebfd9aebd2b5807/view",
-      "tldr": "This BAA focuses on research related to cost estimating models and analytics for defense projects.",
-      "why_relevant": "The emphasis on modeling and analytics is directly relevant to the engineer's expertise in modeling and simulation."
+      "tldr": "This BAA focuses on research related to cost estimating modeling and analytics for defense projects.",
+      "why_relevant": "It aligns with the profile's interest in modeling and simulation, particularly in cost estimation."
     },
     {
-      "notice_id": "7f4effce6d664039aaf5f55b240d9a35",
-      "title": "Lunar Enabling Infrastructure Accelerator (LEIA) -Broad Agency Announcement (BAA) NextSTEP-3 Appendix A - Final Solicitation",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
+      "notice_id": "10ab7985f1044f4e8149acdc2acab43d",
+      "title": "CLASS ACT",
+      "agency": "DEPT OF DEFENSE.IMMEDIATE OFFICE OF THE SECRETARY OF DEFENSE.DEFENSE INNOVATION UNIT",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-21",
-      "response_deadline": "2026-10-08T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/7f4effce6d664039aaf5f55b240d9a35/view",
-      "tldr": "This BAA seeks innovative solutions for lunar infrastructure development.",
-      "why_relevant": "The focus on space exploration aligns with the engineer's work in aerospace and simulation."
+      "posted_date": "2026-09-24",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/10ab7985f1044f4e8149acdc2acab43d/view",
+      "tldr": "This opportunity involves innovative projects aimed at enhancing defense capabilities.",
+      "why_relevant": "The focus on innovation in defense aligns with the profile's work at NASIC."
     },
     {
-      "notice_id": "2b5fd12340a642e4ac3d1f5c21ecaeed",
-      "title": "MXO Office-wide Innovative Solutions Opening",
-      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "notice_id": "fe7a38cf4eed4aec87bdb24c3ecd8671",
+      "title": "NASA Research Announcement: V-Band",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-09-23",
-      "response_deadline": "2027-06-04T16:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/2b5fd12340a642e4ac3d1f5c21ecaeed/view",
-      "tldr": "This opportunity invites innovative solutions for various defense-related challenges.",
-      "why_relevant": "It encourages creative approaches in areas relevant to the engineer's work in modeling and simulation."
+      "response_deadline": "2026-10-06T12:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/fe7a38cf4eed4aec87bdb24c3ecd8671/view",
+      "tldr": "This research announcement focuses on V-band technologies, which are crucial for advanced communication systems.",
+      "why_relevant": "It connects to the profile's interest in RF technologies and modeling."
     },
     {
-      "notice_id": "fa27a83bb8df49a19362b55ce6df6b41",
-      "title": "NGA - Boosting Innovative GEOINT - Science & Technology Broad Agency Announcement (BIG-ST BAA)",
-      "agency": "DEPT OF DEFENSE.NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA).ATTN: MS S84 - OCS",
+      "notice_id": "b24f8bb1f30b48bda37210361c3f3056",
+      "title": "Market forecast analyses for West Nile virus (WNV) vaccine and anti-WNV monoclonal antibody for prophylaxis",
+      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.CENTERS FOR DISEASE CONTROL AND PREVENTION.CDC OFFICE OF ACQUISITION SERVICES",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-09-16",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/fa27a83bb8df49a19362b55ce6df6b41/view",
-      "tldr": "This BAA focuses on advancing geospatial intelligence through innovative technologies.",
-      "why_relevant": "The emphasis on geospatial intelligence aligns with the engineer's work at NASIC."
-    },
-    {
-      "notice_id": "36caccb7f3784342812ab25b8d48fa5d",
-      "title": "NSF X-Labs Initiative \u2013 AI for Physical Systems Topic Announcement",
-      "agency": "NATIONAL SCIENCE FOUNDATION.NATIONAL SCIENCE FOUNDATION.DIRECTORATE FOR TECHNOLOGY, INNOVATION, & PARTNERSHIPS",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-18",
-      "response_deadline": "2027-01-07T17:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/36caccb7f3784342812ab25b8d48fa5d/view",
-      "tldr": "This initiative seeks proposals for AI applications in physical systems.",
-      "why_relevant": "AI applications in physical systems could relate to modeling and simulation technologies."
-    },
-    {
-      "notice_id": "9d6ebbcb27514376827ac5c3566cd5b8",
-      "title": "Restorative and health-Enhancing Sleep Time (REST)",
-      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.ADVANCED RESEARCH PROJECTS AGENCY FOR HEALTH (ARPA-H)",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
       "posted_date": "2026-09-21",
-      "response_deadline": "2026-10-13T12:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/9d6ebbcb27514376827ac5c3566cd5b8/view",
-      "tldr": "This project focuses on research related to enhancing sleep quality and health.",
-      "why_relevant": "While not directly related to defense, the innovative research aspect may interest someone with a technical background."
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/b24f8bb1f30b48bda37210361c3f3056/view",
+      "tldr": "This opportunity involves market analyses for vaccines and treatments related to the West Nile virus.",
+      "why_relevant": "While not directly related to defense, it showcases analytical skills that could be relevant in various contexts."
     }
   ]
 }
