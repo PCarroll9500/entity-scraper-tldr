@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch features several contract opportunities primarily focused on modeling, simulation, and defense-related projects, particularly within the Air Force and NASA. These roles align well with the engineer's expertise in RF signature analysis, digital engineering, and simulation environments.",
+  "overall_tldr": "Today's batch includes several contract opportunities focused on modeling, simulation, and aerospace technologies, particularly relevant to defense and intelligence work. There are also several interesting projects related to digital engineering and advanced research that align with the profile's interests.",
   "job_recommendations": [
     {
       "notice_id": "a90a4c2ce3e0424c98c58498e4101d5c",
@@ -10,8 +10,32 @@
       "posted_date": "2026-09-25",
       "response_deadline": "2026-10-09T15:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/a90a4c2ce3e0424c98c58498e4101d5c/view",
-      "tldr": "This project focuses on modernizing scientific and technical intelligence capabilities, which may involve advanced modeling and simulation techniques.",
-      "why_relevant": "The engineer's work in modeling and simulation directly relates to the modernization efforts in intelligence capabilities."
+      "tldr": "This project aims to modernize scientific and technical intelligence capabilities, which may involve modeling and simulation techniques.",
+      "why_relevant": "The focus on intelligence modernization aligns with the profile's work at NASIC and interest in simulation."
+    },
+    {
+      "notice_id": "6242d04b62da48f58f362c185d000df0",
+      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-25",
+      "response_deadline": "2026-11-02T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/6242d04b62da48f58f362c185d000df0/view",
+      "tldr": "This RFP focuses on developing resilient tracking systems for missile warning in low earth orbit, which may involve advanced simulation techniques.",
+      "why_relevant": "The emphasis on missile tracking and defense systems connects with the profile's interest in defense and aerospace technologies."
+    },
+    {
+      "notice_id": "a6d190b08cd74ae29024f003c9eec1dc",
+      "title": "Aircraft Defensive Electro-optical Protection Technologies (ADEPT)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2377 USAF AFMC AFRL PZL AFRL RYKS",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-25",
+      "response_deadline": "2026-11-09T14:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/a6d190b08cd74ae29024f003c9eec1dc/view",
+      "tldr": "This project involves developing technologies for aircraft protection against electro-optical threats, which may require modeling and simulation.",
+      "why_relevant": "The focus on aircraft protection aligns with the profile's work in aerospace and defense."
     },
     {
       "notice_id": "4921bb44f83a4c098e4ce029fdeab906",
@@ -22,8 +46,8 @@
       "posted_date": "2026-09-24",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/4921bb44f83a4c098e4ce029fdeab906/view",
-      "tldr": "This opportunity involves developing virtual software for a synthetic training environment, which is essential for military training simulations.",
-      "why_relevant": "The focus on synthetic training environments aligns with the engineer's interest in simulation and training work."
+      "tldr": "This opportunity focuses on developing virtual software for synthetic training environments, which is directly related to simulation and training.",
+      "why_relevant": "The emphasis on synthetic training environments aligns perfectly with the profile's interests in simulation and training."
     },
     {
       "notice_id": "f1d6ae6b9ecf42598f275ff8966b07ce",
@@ -34,80 +58,56 @@
       "posted_date": "2026-09-24",
       "response_deadline": "2026-10-15T14:00:00-06:00",
       "link": "https://sam.gov/workspace/contract/opp/f1d6ae6b9ecf42598f275ff8966b07ce/view",
-      "tldr": "This contract focuses on satellite communication systems for the Space Force, enhancing command and control capabilities.",
-      "why_relevant": "The engineer's background in C4ISR analysis makes this opportunity particularly relevant."
+      "tldr": "This program focuses on satellite communication and space intelligence, which may involve advanced modeling and simulation techniques.",
+      "why_relevant": "The connection to space intelligence aligns with the profile's work at NASIC and interest in aerospace."
     },
     {
-      "notice_id": "7b6ae318cb7340e392dd4517b6a53e2d",
-      "title": "ULTRA-BROADBAND TERAHERTZ RADIO DEVELOPMENT",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-24",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/7b6ae318cb7340e392dd4517b6a53e2d/view",
-      "tldr": "This project involves developing ultra-broadband terahertz radio technology, which has applications in advanced communications and sensing.",
-      "why_relevant": "The focus on radio technology connects to the engineer's work in RF signature production and analysis."
-    },
-    {
-      "notice_id": "4047fd020b6d419c8a03d6b12d77987d",
-      "title": "ISOF Range 2027",
-      "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).HQ USSOCOM",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-25",
-      "response_deadline": "2027-01-29T18:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/4047fd020b6d419c8a03d6b12d77987d/view",
-      "tldr": "This opportunity involves the development and support of a range for special operations forces, likely involving simulation and training components.",
-      "why_relevant": "The engineer's interest in simulation and training work makes this a fitting opportunity."
-    },
-    {
-      "notice_id": "60826c8105a3452da7ad3b521157c856",
-      "title": "EXTREME COMPUTING",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-24",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/60826c8105a3452da7ad3b521157c856/view",
-      "tldr": "This project focuses on extreme computing technologies, which can enhance data processing and simulation capabilities.",
-      "why_relevant": "The emphasis on computing aligns with the engineer's interests in digital engineering and simulation."
-    },
-    {
-      "notice_id": "270d54a9dc9a4492aa55616f8e352723",
-      "title": "A--REDS-V-Data Coordinating Center",
-      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH OLAO",
+      "notice_id": "9f7a4a6262ae4ccba3259b90700ce4c9",
+      "title": "Atomically Precise Molecules (APM)",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-09-25",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/270d54a9dc9a4492aa55616f8e352723/view",
-      "tldr": "This opportunity involves coordinating data for epidemiological studies, which may include modeling aspects.",
-      "why_relevant": "While not directly related to defense, the data coordination aspect may involve simulation methodologies."
+      "response_deadline": "2026-12-18T13:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/9f7a4a6262ae4ccba3259b90700ce4c9/view",
+      "tldr": "This DARPA project focuses on developing atomically precise molecules, which may involve advanced modeling techniques.",
+      "why_relevant": "The advanced research aspect aligns with the profile's interest in cutting-edge technology and simulation."
     },
     {
-      "notice_id": "11e1663cc8c741ce88539e9a862f26ab",
+      "notice_id": "ab7b4ecf5cbd4225ae1ebe16e22a8330",
+      "title": "Disruptioneering Program Announcement",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-25",
+      "response_deadline": "2026-10-30T23:59:00",
+      "link": "https://sam.gov/workspace/contract/opp/ab7b4ecf5cbd4225ae1ebe16e22a8330/view",
+      "tldr": "This program focuses on innovative research and development in various fields, potentially including modeling and simulation.",
+      "why_relevant": "The innovative research aspect aligns with the profile's interests in advanced technologies."
+    },
+    {
+      "notice_id": "c75417d59e544381b208abc8babf7c3b",
       "title": "A--Recipient Epidemiology and Donor Evaluation Study ",
       "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH OLAO",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-09-25",
       "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/11e1663cc8c741ce88539e9a862f26ab/view",
-      "tldr": "This project focuses on evaluating donor and recipient epidemiology, potentially involving data modeling.",
-      "why_relevant": "The modeling aspect could be of interest to the engineer, despite the health focus."
+      "link": "https://sam.gov/workspace/contract/opp/c75417d59e544381b208abc8babf7c3b/view",
+      "tldr": "This study focuses on epidemiology and donor evaluation, which may involve data modeling and analysis.",
+      "why_relevant": "The data modeling aspect connects with the profile's interest in simulation and analysis."
     },
     {
-      "notice_id": "a6de3e86307449dbbf316af25147e35e",
-      "title": "Lunar Enabling Infrastructure Accelerator (LEIA) -Broad Agency Announcement (BAA) NextSTEP-3 Appendix A - Final Solicitation",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
+      "notice_id": "4634afdc8c104a0aad4d4212b24eca44",
+      "title": "Research, Development, Test & Evaluation (RDT&E) Support for the Center for Corrosion Science and Engineering (CCSE)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
       "naics": "541715",
-      "set_aside": "No Set aside used",
+      "set_aside": "Small Business Set Aside - Total",
       "posted_date": "2026-09-25",
-      "response_deadline": "2026-10-15T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/a6de3e86307449dbbf316af25147e35e/view",
-      "tldr": "This opportunity focuses on developing infrastructure for lunar exploration, which may involve simulation and modeling for mission planning.",
-      "why_relevant": "The connection to NASA and exploration aligns with the engineer's interests in advanced simulation environments."
+      "response_deadline": "2026-11-06T13:30:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/4634afdc8c104a0aad4d4212b24eca44/view",
+      "tldr": "This opportunity involves RDT&E support for corrosion science, which may include modeling and simulation aspects.",
+      "why_relevant": "The RDT&E focus aligns with the profile's interest in research and development in defense."
     }
   ]
 }
