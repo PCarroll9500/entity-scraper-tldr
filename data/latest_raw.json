@@ -2382,69 +2382,6 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2026-09-27",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": "6640",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=171b5c8e13c4426db1361f1d167acdad",
-      "fullParentPathCode": "017.1700.ONR.ONR NRL.N00173",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=171b5c8e13c4426db1361f1d167acdad&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "171b5c8e13c4426db1361f1d167acdad",
-      "officeAddress": {
-        "zipcode": "20375-5328",
-        "city": "WASHINGTON",
-        "countryCode": "USA",
-        "state": "DC"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "50000",
-          "name": "Washington"
-        },
-        "state": {
-          "code": "DC",
-          "name": "District of Columbia"
-        },
-        "zip": "20375",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "james.buie@nrl.navy.mil",
-          "phone": "2029231553",
-          "fullName": "James Buie"
-        }
-      ],
-      "postedDate": "2026-09-24",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-09-27T08:00:00-04:00",
-      "solicitationNumber": "N0017326P1301391984",
-      "title": "Purchase an NSP-IPM high energy system",
-      "type": "Special Notice",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/171b5c8e13c4426db1361f1d167acdad/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
       "archiveDate": "2035-10-01",
       "archiveType": "autocustom",
       "award": null,
@@ -3317,73 +3254,6 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/fe65503224b747ed8b238c7283478956/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-10-08",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": "5810",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3b01ea4e40d849b59b1cdc1c2e566636",
-      "fullParentPathCode": "015.1560",
-      "fullParentPathName": "JUSTICE, DEPARTMENT OF.ATF ACQUISITION AND PROPERTY MGMT DIV",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3b01ea4e40d849b59b1cdc1c2e566636&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "3b01ea4e40d849b59b1cdc1c2e566636",
-      "officeAddress": null,
-      "organizationType": "AGENCY",
-      "placeOfPerformance": {
-        "city": {
-          "code": "50000",
-          "name": "Washington"
-        },
-        "state": {
-          "code": "DC",
-          "name": "District of Columbia"
-        },
-        "zip": "20226",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "James.Huff@atf.gov",
-          "phone": "2026489117",
-          "fullName": "Jim Huff"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "James.Huff@atf.gov",
-          "phone": "2026489117",
-          "fullName": "Jim Huff"
-        }
-      ],
-      "postedDate": "2026-09-19",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6bb188ac71cb47348ef54e09449ba4ad/download"
-      ],
-      "responseDeadLine": "2026-09-23T15:00:00-04:00",
-      "solicitationNumber": "15A00026FAQA00312",
-      "title": "Technical expertise for ATF explosives testing using Institute of Makers of Explosives Safety Analysis for Risk (IMESAFR)",
-      "type": "Special Notice",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/3b01ea4e40d849b59b1cdc1c2e566636/view"
     },
     {
       "active": "Yes",
@@ -7177,6 +7047,154 @@
       "typeOfSetAside": "SBA",
       "typeOfSetAsideDescription": "Small Business Set Aside - Total",
       "uiLink": "https://sam.gov/workspace/contract/opp/2acb1c9ba0e94c97ae0547376aebf9bd/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-10-11",
+      "archiveType": "auto15",
+      "award": {
+        "date": "2026-09-26",
+        "number": "140PS126D0005",
+        "amount": "46847.74",
+        "awardee": {
+          "name": "PACE COLLABORATIVE, PLLC",
+          "location": {
+            "streetAddress": "1277 PERIMETER PKWY",
+            "city": {
+              "name": "VIRGINIA BCH"
+            },
+            "state": {
+              "code": "VA",
+              "name": "Virginia"
+            },
+            "zip": "23454",
+            "country": {
+              "code": "USA",
+              "name": "UNITED STATES"
+            }
+          }
+        }
+      },
+      "baseType": "Award Notice",
+      "classificationCode": "C219",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f5a179115e6e41109f2c625ee9e98c7d",
+      "fullParentPathCode": "014.1443.140PS1",
+      "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.DOI, NPS CONOPS STRATEGIC",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f5a179115e6e41109f2c625ee9e98c7d&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "f5a179115e6e41109f2c625ee9e98c7d",
+      "officeAddress": {
+        "zipcode": "20240",
+        "city": "Washington",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {},
+        "state": {},
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "stephen_loftus@ios.doi.gov",
+          "phone": "202-354-2267",
+          "fullName": "Loftus, Stephen"
+        }
+      ],
+      "postedDate": "2026-09-26",
+      "resourceLinks": null,
+      "responseDeadLine": null,
+      "solicitationNumber": "140PS126F0082",
+      "title": "C--Multiple Award IDIQ- Professional Fire Protection Engineering and Fire Protection Related Facility Management Services",
+      "type": "Award Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/f5a179115e6e41109f2c625ee9e98c7d/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-10-11",
+      "archiveType": "auto15",
+      "award": {
+        "date": "2026-09-26",
+        "number": "140PS126D0005",
+        "amount": "5000000",
+        "awardee": {
+          "name": "PACE COLLABORATIVE, PLLC",
+          "location": {
+            "streetAddress": "1277 PERIMETER PKWY",
+            "city": {
+              "name": "VIRGINIA BCH"
+            },
+            "state": {
+              "code": "VA",
+              "name": "Virginia"
+            },
+            "zip": "23454",
+            "country": {
+              "code": "USA",
+              "name": "UNITED STATES"
+            }
+          }
+        }
+      },
+      "baseType": "Solicitation",
+      "classificationCode": "C219",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=912956f300704911926b4640b4ef9263",
+      "fullParentPathCode": "014.1443.140PS1",
+      "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.NATIONAL PARK SERVICE.DOI, NPS CONOPS STRATEGIC",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=912956f300704911926b4640b4ef9263&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "912956f300704911926b4640b4ef9263",
+      "officeAddress": {
+        "zipcode": "20240",
+        "city": "Washington",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {},
+        "state": {},
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "stephen_loftus@ios.doi.gov",
+          "phone": "202-354-2267",
+          "fullName": "Loftus, Stephen"
+        }
+      ],
+      "postedDate": "2026-09-26",
+      "resourceLinks": null,
+      "responseDeadLine": null,
+      "solicitationNumber": "140PS126R0001",
+      "title": "C--Multiple Award IDIQ- Professional Fire Protection Engineering and Fire Protection Related Facility Management Services",
+      "type": "Award Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/912956f300704911926b4640b4ef9263/view"
     },
     {
       "active": "Yes",
@@ -13918,6 +13936,73 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/01c356750f344233899ef77a5e8eb376/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-11-16",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Presolicitation",
+      "classificationCode": "U005",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1dd6737eac45428e87bb63d093a025e3",
+      "fullParentPathCode": "019.1900.19AQMM",
+      "fullParentPathName": "STATE, DEPARTMENT OF.STATE, DEPARTMENT OF.ACQUISITIONS - AQM MOMENTUM",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=1dd6737eac45428e87bb63d093a025e3&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "1dd6737eac45428e87bb63d093a025e3",
+      "officeAddress": {
+        "zipcode": "20520",
+        "city": "WASHINGTON",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "country": {
+          "code": "MEX",
+          "name": "MEXICO"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "ModrakER@state.gov",
+          "phone": "",
+          "fullName": "Eric R Modrak"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "BringAG@state.gov",
+          "phone": "",
+          "fullName": "Alexander Bring"
+        }
+      ],
+      "postedDate": "2026-09-26",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d1e4145462f44c38d2cf03e358d14c3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/71ce319ccf6c4a1a8d7d3308f563f6c4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/93ac5b0e714a474288e3348c4db65fb4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b59db352bdb84650b52f8343ed3ec2eb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cb3c38a7c6194b28a87ff6306ff8da15/download"
+      ],
+      "responseDeadLine": "2026-11-01T17:00:00-06:00",
+      "solicitationNumber": "19AQMM26Q0469",
+      "title": "U.S. Embassy Mexico\u2014International Narcotics & Law Enforcement Affairs (INL Mexico) CONOCER Criminal Analyst Certification Services",
+      "type": "Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/1dd6737eac45428e87bb63d093a025e3/view"
     },
     {
       "active": "Yes",
