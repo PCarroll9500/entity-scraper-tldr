@@ -1,53 +1,65 @@
 {
-  "overall_tldr": "Today's batch includes various job opportunities primarily in defense and aerospace sectors, with a focus on modeling, simulation, and advanced technologies relevant to the Air Force and DoD. The listings emphasize roles that align with RF analysis, digital engineering, and simulation environments, which are directly applicable to the engineer's current work at NASIC.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on space technologies, modeling and simulation, and advanced research projects, all of which align well with the profile's expertise at Radiance Technologies. The opportunities span various agencies and cover topics such as hypersonic missiles, AI systems, and environmental assessments, making them highly relevant for someone in the defense contracting field.",
   "job_recommendations": [
     {
-      "notice_id": "17c65082c3264862a336e0239bd17f34",
-      "title": "Finding Agile Solutions for Test (FAST) Commercial Solutions Opening (CSO)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA9304  AFTC PZZ",
+      "notice_id": "c4db528bed0547ff86600dff1447ac6f",
+      "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA) Call 004",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-09-30",
+      "response_deadline": "2026-10-29T13:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/c4db528bed0547ff86600dff1447ac6f/view",
+      "tldr": "This BAA focuses on technologies and science related to space environments, which could involve modeling and simulation aspects relevant to defense applications.",
+      "why_relevant": "The focus on space technologies aligns with the profile's work supporting the Air Force and NASIC."
+    },
+    {
+      "notice_id": "ad37e93008ef4893a8e8895816799b73",
+      "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
       "naics": "541715",
       "set_aside": null,
+      "posted_date": "2026-09-30",
+      "response_deadline": "2028-12-17T23:59:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/ad37e93008ef4893a8e8895816799b73/view",
+      "tldr": "This BAA invites proposals for research in space environment technologies, which may include modeling and simulation projects.",
+      "why_relevant": "It directly relates to the profile's interest in space domain awareness and simulation."
+    },
+    {
+      "notice_id": "7705c243eebd484d84775d79ba9d7f27",
+      "title": "RFI for Next Generation Hypersonic Cruise Missiles",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-30",
+      "response_deadline": "2026-11-06T17:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/7705c243eebd484d84775d79ba9d7f27/view",
+      "tldr": "This RFI seeks information on technologies for next-generation hypersonic cruise missiles, which may involve simulation and modeling components.",
+      "why_relevant": "The focus on advanced missile technologies is relevant to defense contracting and simulation work."
+    },
+    {
+      "notice_id": "3033410ecaf047b39dd3cdd100260402",
+      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-30",
+      "response_deadline": "2026-12-30T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/3033410ecaf047b39dd3cdd100260402/view",
+      "tldr": "This BAA invites proposals for basic and applied research across various fields, potentially including modeling and simulation.",
+      "why_relevant": "It provides an opportunity for research that could intersect with the profile's interests in simulation."
+    },
+    {
+      "notice_id": "bc2d5e5543974aab974e37ac591c78da",
+      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
       "posted_date": "2026-09-29",
-      "response_deadline": "2027-09-30T16:30:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/17c65082c3264862a336e0239bd17f34/view",
-      "tldr": "This opportunity focuses on finding innovative solutions for testing within the Air Force, which may involve modeling and simulation techniques.",
-      "why_relevant": "This aligns with the engineer's interest in M&S and Air Force-related projects."
-    },
-    {
-      "notice_id": "26cada9a66974b6c988dc68eb1104ec2",
-      "title": "SIGNALS INTELLIGENCE (SIGINT) SOLUTIONS FOR EVOLVING SCENARIOS (SESS)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-28",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/26cada9a66974b6c988dc68eb1104ec2/view",
-      "tldr": "This project seeks solutions for signals intelligence that adapt to changing scenarios, potentially involving advanced modeling techniques.",
-      "why_relevant": "It connects to the engineer's work in simulation and analysis relevant to defense."
-    },
-    {
-      "notice_id": "f5c9b252647648aa953445a068741feb",
-      "title": "Space NG (firefly) EDU Unit",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
-      "naics": "541715",
-      "set_aside": "8(a) Sole Source (FAR 19.8)",
-      "posted_date": "2026-09-28",
-      "response_deadline": "2026-09-30T15:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/f5c9b252647648aa953445a068741feb/view",
-      "tldr": "This opportunity involves educational units for space-related projects, which may include simulation components.",
-      "why_relevant": "It ties into the engineer's interest in aerospace and simulation technologies."
-    },
-    {
-      "notice_id": "304b2ed57676432ba22c12d2948f0c18",
-      "title": "NASA FFRDC at the Jet Propulsion Laboratory - Competitive Procurement Request for Information (RFI) / Sources Sought Notice (SSN)",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-29",
-      "response_deadline": "2026-10-14T15:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/304b2ed57676432ba22c12d2948f0c18/view",
-      "tldr": "This RFI seeks information on capabilities related to NASA's projects, which may involve modeling and simulation.",
-      "why_relevant": "It aligns with the engineer's expertise in simulation and interest in NASA-related work."
+      "response_deadline": "2026-11-02T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/bc2d5e5543974aab974e37ac591c78da/view",
+      "tldr": "This RFP focuses on developing resilient missile warning tracking systems in low Earth orbit, which may involve simulation technologies.",
+      "why_relevant": "The project aligns with defense technologies and could involve simulation aspects relevant to the profile's work."
     },
     {
       "notice_id": "1cd9ae3f6a9a47d1a462d62623c3e59e",
@@ -58,32 +70,8 @@
       "posted_date": "2026-09-28",
       "response_deadline": "2027-11-16T14:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/1cd9ae3f6a9a47d1a462d62623c3e59e/view",
-      "tldr": "This request for information focuses on multi-source positioning, navigation, and timing technologies.",
-      "why_relevant": "It relates to the engineer's work in simulation and analysis for defense applications."
-    },
-    {
-      "notice_id": "d868091d05b04f4bae76a5c15c3b0550",
-      "title": "N66001-26-R-0030 - Academic Research MAC",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR PACIFIC.NIWC PACIFIC",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-28",
-      "response_deadline": "2026-10-09T12:00:00-08:00",
-      "link": "https://sam.gov/workspace/contract/opp/d868091d05b04f4bae76a5c15c3b0550/view",
-      "tldr": "This opportunity involves academic research in areas relevant to defense technologies.",
-      "why_relevant": "It may involve modeling and simulation aspects that are pertinent to the engineer's work."
-    },
-    {
-      "notice_id": "d4bb36855bcc45448f528eac5ce86d3c",
-      "title": "A--Recipient Epidemiology and Donor Evaluation Study ",
-      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH OLAO",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-28",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/d4bb36855bcc45448f528eac5ce86d3c/view",
-      "tldr": "This study involves evaluating donor and recipient epidemiology, which may include data analysis components.",
-      "why_relevant": "While not directly related to defense, it involves analytical skills that may overlap with the engineer's expertise."
+      "tldr": "This RFI seeks information on multi-source positioning, navigation, and timing technologies, which may include simulation applications.",
+      "why_relevant": "It relates to the profile's interest in advanced technologies relevant to defense and simulation."
     },
     {
       "notice_id": "18f164a9429d46299fe4a29bd49d384a",
@@ -94,20 +82,32 @@
       "posted_date": "2026-09-28",
       "response_deadline": "2026-11-09T14:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/18f164a9429d46299fe4a29bd49d384a/view",
-      "tldr": "This project focuses on developing technologies for aircraft protection against electro-optical threats.",
-      "why_relevant": "It relates to the engineer's work in the aerospace sector and defense technologies."
+      "tldr": "This opportunity focuses on developing electro-optical protection technologies for aircraft, which may involve modeling and simulation aspects.",
+      "why_relevant": "It connects to the profile's work in defense technologies and simulation."
     },
     {
-      "notice_id": "f1d6ae6b9ecf42598f275ff8966b07ce",
-      "title": "United States Space Force (USSF) Battle Management, Command, Control, Communication and Space Intelligence (BMC3I) Satellite Communication Augmentation Resource (SCAR) Program Office (PMO) Commercial Solutions Opening (CSO) Two Phase Closed Variant",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "notice_id": "0ed18d86669c4cbaa1cca2c8f8a8cde6",
+      "title": "Rendezvous, Proximity Operations (RPO) Threat Response (RTR) VICTUS Responsive Launch Space Vehicle (SV)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO SPACE DOMAIN AWARENESS ANDCOMBAT POWER.FA8819 SDA AND COMBAT POWER SZK-LA",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-09-24",
-      "response_deadline": "2026-10-15T14:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/f1d6ae6b9ecf42598f275ff8966b07ce/view",
-      "tldr": "This opportunity involves satellite communication systems for battle management and intelligence.",
-      "why_relevant": "It connects to the engineer's interests in space and defense technologies."
+      "posted_date": "2026-09-29",
+      "response_deadline": "2026-10-19T12:00:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/0ed18d86669c4cbaa1cca2c8f8a8cde6/view",
+      "tldr": "This opportunity involves developing responsive launch vehicles for space operations, which may include simulation components.",
+      "why_relevant": "It aligns with the profile's interests in space and simulation technologies."
+    },
+    {
+      "notice_id": "fb9bb2d52b074a5eb4eded9b20932253",
+      "title": "Legacy Intermediate Range Ballistic Missile/Intercontinental Ballistic Missile Flight Test Support (LIFTS)",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-09-28",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/fb9bb2d52b074a5eb4eded9b20932253/view",
+      "tldr": "This opportunity supports flight testing for missile systems, which may involve modeling and simulation aspects.",
+      "why_relevant": "It connects to the profile's work in defense and simulation."
     }
   ]
 }
