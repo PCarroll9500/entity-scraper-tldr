@@ -1,29 +1,29 @@
 {
-  "overall_tldr": "Today's batch includes several contract opportunities that align well with expertise in modeling, simulation, and defense technologies, particularly in areas related to the Air Force and DoD. The opportunities span various research and development initiatives, focusing on advanced technologies and methodologies relevant to national security and defense operations.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense and aerospace sectors. Many listings are tied to the Air Force and NASA, aligning well with the profile's interests in simulation and training work.",
   "job_recommendations": [
     {
-      "notice_id": "b28dfabf5dee43e0b0932de8ecf374d0",
+      "notice_id": "c3ce5eef868d4e8c825932744b098131",
+      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-01",
+      "response_deadline": "2026-10-13T10:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/c3ce5eef868d4e8c825932744b098131/view",
+      "tldr": "This opportunity focuses on developing virtual software for the Synthetic Training Environment, which is essential for military training simulations.",
+      "why_relevant": "It directly relates to the profile's interest in simulation and training work within the defense sector."
+    },
+    {
+      "notice_id": "bd5a9859e9a2446f9cee8f0cb6c267df",
       "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA) Call 004",
       "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
       "naics": "541715",
       "set_aside": "No Set aside used",
       "posted_date": "2026-10-01",
       "response_deadline": "2026-10-29T13:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/b28dfabf5dee43e0b0932de8ecf374d0/view",
-      "tldr": "This BAA focuses on research and development in space environment technologies, which is crucial for understanding and mitigating threats in space operations.",
-      "why_relevant": "Given the profile's focus on space domain awareness and the Air Force's interests, this opportunity is directly aligned with their expertise."
-    },
-    {
-      "notice_id": "36ffd76d5d844b969f5e46958f80b796",
-      "title": "Multi-Spectral Sensing Technologies Research and Development (MUSTER)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2377 USAF AFMC AFRL PZL AFRL RYKS",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-01",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/36ffd76d5d844b969f5e46958f80b796/view",
-      "tldr": "This opportunity involves research and development in multi-spectral sensing technologies, which are critical for various defense applications.",
-      "why_relevant": "The focus on sensing technologies is relevant to the profile's work in modeling and simulation, particularly in defense contexts."
+      "link": "https://sam.gov/workspace/contract/opp/bd5a9859e9a2446f9cee8f0cb6c267df/view",
+      "tldr": "This BAA invites proposals for research in space environment technologies, which can include modeling and simulation aspects.",
+      "why_relevant": "It aligns with the profile's focus on advanced technologies and modeling related to aerospace."
     },
     {
       "notice_id": "1a794955d12546b59698e15d84a87364",
@@ -34,20 +34,68 @@
       "posted_date": "2026-10-01",
       "response_deadline": "2026-10-19T12:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/1a794955d12546b59698e15d84a87364/view",
-      "tldr": "This project focuses on developing responsive launch vehicles for space domain awareness and threat response.",
-      "why_relevant": "It ties directly to space domain awareness, a key interest of the profile, and involves advanced technologies in defense."
+      "tldr": "This contract focuses on developing responsive launch capabilities for space vehicles, which may involve simulation and modeling.",
+      "why_relevant": "It connects to the profile's interest in space domain awareness and simulation technologies."
     },
     {
-      "notice_id": "698ad49241a446e88cbb571c3ecde25b",
-      "title": "Broad Agency Announcement (BAA): Cost Estimating Modeling Data, Analytics Research (CEMDAR)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE DISTRICT OF WASHINGTON.FA7014  AFDW PK",
+      "notice_id": "36ffd76d5d844b969f5e46958f80b796",
+      "title": "Multi-Spectral Sensing Technologies Research and Development (MUSTER)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2377 USAF AFMC AFRL PZL AFRL RYKS",
       "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
+      "set_aside": null,
       "posted_date": "2026-10-01",
-      "response_deadline": "2026-10-19T13:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/698ad49241a446e88cbb571c3ecde25b/view",
-      "tldr": "This BAA seeks research proposals for cost estimating models and analytics, which are essential for defense budgeting and planning.",
-      "why_relevant": "The focus on modeling and analytics aligns with the profile's expertise in modeling and simulation."
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/36ffd76d5d844b969f5e46958f80b796/view",
+      "tldr": "This opportunity involves research and development in multi-spectral sensing technologies, which can be integral to simulation and analysis.",
+      "why_relevant": "It relates to the profile's work in RF signature production and analysis."
+    },
+    {
+      "notice_id": "9ef5eb405c404c17a4aec0f4dcadfe67",
+      "title": "NextSTEP-3 Appendix B: Moon Base Demonstrations",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MARSHALL SPACE FLIGHT CENTER",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-02",
+      "response_deadline": "2026-08-16T17:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/9ef5eb405c404c17a4aec0f4dcadfe67/view",
+      "tldr": "This contract focuses on demonstrations for lunar base technologies, which could involve modeling and simulation aspects.",
+      "why_relevant": "It ties into the broader interest in aerospace and simulation technologies."
+    },
+    {
+      "notice_id": "d3801bf8cd574b7d98e93a2f28a0a09b",
+      "title": "CHEERS MAA Open Period 1 - All Technical Areas, 10 U.S.C. 4001 Broad Agency Announcement (BAA)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-02",
+      "response_deadline": "2027-09-30T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/d3801bf8cd574b7d98e93a2f28a0a09b/view",
+      "tldr": "This BAA invites proposals for a wide range of technical areas, including modeling and simulation.",
+      "why_relevant": "It encompasses various topics that may align with the profile's work at NASIC."
+    },
+    {
+      "notice_id": "49509ec3bce04279b6ac59ab06587e4d",
+      "title": "CHEERS MAA Open Period 2 - All Technical Areas, 10 U.S.C. 4023 - Procurement for Experimental Purposes (ARA)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-02",
+      "response_deadline": "2027-09-30T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/49509ec3bce04279b6ac59ab06587e4d/view",
+      "tldr": "This opportunity allows for proposals in various technical areas, including modeling and simulation for experimental purposes.",
+      "why_relevant": "It reflects the profile's interest in innovative approaches within the defense sector."
+    },
+    {
+      "notice_id": "43ff914f4eb04505acb8c627f3d0ba91",
+      "title": "Global Aircrew Strategic Network Terminal Increment 2, Block 2 (GASNTi2b2) Industry Day - Initial Notice",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE NUCLEAR WEAPON CENTER.NUCLEAR COMMAND, CONTROL & COMMUNICATION WEAPON.FA8735 NUCLEAR NTW DIV AFNWC PZHN",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-02",
+      "response_deadline": "2026-10-30T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/43ff914f4eb04505acb8c627f3d0ba91/view",
+      "tldr": "This notice pertains to an industry day for a strategic network terminal project, which may involve simulation components.",
+      "why_relevant": "It connects to the profile's work in C4ISR analysis and related technologies."
     },
     {
       "notice_id": "b7818bf358de41a6b00db760b2f22bc3",
@@ -58,56 +106,8 @@
       "posted_date": "2026-10-01",
       "response_deadline": "2027-07-31T16:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/b7818bf358de41a6b00db760b2f22bc3/view",
-      "tldr": "This marketplace allows for innovative solutions in intelligence research and development, focusing on advanced technologies.",
-      "why_relevant": "The opportunity is relevant due to its focus on advanced technologies and research, which aligns with the profile's work in defense."
-    },
-    {
-      "notice_id": "e7538612150f4cd29b1c4e561ed720af",
-      "title": "QuickSink Notice of Contract Action ( NOCA)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.WEAPONS.FA8681  AFLCMC EBD",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-30",
-      "response_deadline": "2026-10-15T13:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/e7538612150f4cd29b1c4e561ed720af/view",
-      "tldr": "This notice pertains to a contract action for the QuickSink project, which involves advanced weapon systems.",
-      "why_relevant": "The focus on advanced weapon systems is relevant to defense contracting and aligns with the profile's interests."
-    },
-    {
-      "notice_id": "ad37e93008ef4893a8e8895816799b73",
-      "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-09-30",
-      "response_deadline": "2028-12-17T23:59:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/ad37e93008ef4893a8e8895816799b73/view",
-      "tldr": "This BAA focuses on research in space environment technologies, critical for national security and defense operations.",
-      "why_relevant": "It aligns with the profile's focus on space domain awareness and defense technologies."
-    },
-    {
-      "notice_id": "9d008ee9dbb14065902212ea83db49b5",
-      "title": "AI-Enabled Incident Response System with sUAS and Human Copilots (AIRS-COP)",
-      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-30",
-      "response_deadline": "2026-10-15T22:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/9d008ee9dbb14065902212ea83db49b5/view",
-      "tldr": "This project involves developing an AI-enabled incident response system that integrates small unmanned aircraft systems (sUAS) with human operators.",
-      "why_relevant": "The integration of AI and unmanned systems is relevant to modern defense operations and simulation technologies."
-    },
-    {
-      "notice_id": "bc2d5e5543974aab974e37ac591c78da",
-      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-09-29",
-      "response_deadline": "2026-11-02T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/bc2d5e5543974aab974e37ac591c78da/view",
-      "tldr": "This RFP seeks proposals for resilient tracking systems for missile warning in low earth orbit.",
-      "why_relevant": "The focus on missile warning systems aligns with defense technologies and simulation interests."
+      "tldr": "This opportunity is a marketplace for innovative solutions related to intelligence research, which may include modeling and simulation.",
+      "why_relevant": "It aligns with the profile's interests in advanced technologies and simulation work."
     }
   ]
 }
