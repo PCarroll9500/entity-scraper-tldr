@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense and aerospace. The selections emphasize projects that align with the profile's experience at NASIC and interests in synthetic environments and digital engineering.",
+  "overall_tldr": "Today's batch includes various contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense contracting. The selected job opportunities align closely with the profile's interests in M&S, synthetic environments, and Air Force-related work.",
   "job_recommendations": [
     {
       "notice_id": "c3ce5eef868d4e8c825932744b098131",
@@ -10,44 +10,56 @@
       "posted_date": "2026-10-01",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/c3ce5eef868d4e8c825932744b098131/view",
-      "tldr": "This opportunity focuses on developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "It directly relates to your work in modeling and simulation, particularly in creating realistic training environments for the military."
+      "tldr": "This opportunity involves the development of virtual software for the Synthetic Training Environment, aimed at enhancing training simulations.",
+      "why_relevant": "It directly relates to the profile's interest in modeling and simulation, particularly in a military training context."
     },
     {
-      "notice_id": "49509ec3bce04279b6ac59ab06587e4d",
-      "title": "CHEERS MAA Open Period 2 - All Technical Areas, 10 U.S.C. 4023 - Procurement for Experimental Purposes (ARA)",
+      "notice_id": "9ea4caee4f7d42e58a9e8494b2c92b9e",
+      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Partial",
+      "posted_date": "2026-10-05",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/9ea4caee4f7d42e58a9e8494b2c92b9e/view",
+      "tldr": "This contract focuses on the development and support of the DAF Battle Network, which is crucial for air force operations.",
+      "why_relevant": "It aligns with the profile's work in C4ISR analysis and air force operations."
+    },
+    {
+      "notice_id": "bdfe7a50582b4b0b81c03f2028bcf492",
+      "title": "Information Processing Techniques Office Office-Wide",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-05",
+      "response_deadline": "2027-06-22T14:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/bdfe7a50582b4b0b81c03f2028bcf492/view",
+      "tldr": "This opportunity involves various information processing techniques that could enhance defense capabilities.",
+      "why_relevant": "It relates to the profile's interest in advanced technologies and modeling."
+    },
+    {
+      "notice_id": "63442638fa644e649f8de9fc4e117137",
+      "title": "Missile Defense Agency - Advanced Capability Concepts",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-05",
+      "response_deadline": "2030-05-08T12:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/63442638fa644e649f8de9fc4e117137/view",
+      "tldr": "This contract focuses on developing advanced capabilities for missile defense systems.",
+      "why_relevant": "It connects to the profile's work in defense and simulation technologies."
+    },
+    {
+      "notice_id": "f62cc8a7132245eaa9ce14f0740eb235",
+      "title": "CHEERS MAA Open Period 3 - All Technical Areas, 10 U.S.C 3458 - Commercial Solutions Opening (CSO)",
       "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-10-02",
-      "response_deadline": "2027-09-30T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/49509ec3bce04279b6ac59ab06587e4d/view",
-      "tldr": "This contract opportunity invites proposals for experimental procurement in various technical areas, potentially including modeling and simulation.",
-      "why_relevant": "It aligns with your interest in experimental and innovative approaches within the defense sector."
-    },
-    {
-      "notice_id": "bd5a9859e9a2446f9cee8f0cb6c267df",
-      "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA) Call 004",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-01",
-      "response_deadline": "2026-10-29T13:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/bd5a9859e9a2446f9cee8f0cb6c267df/view",
-      "tldr": "This BAA focuses on research and development in space environment technologies, which may include elements of simulation and analysis.",
-      "why_relevant": "It connects to your work in space domain awareness and modeling technologies."
-    },
-    {
-      "notice_id": "36ffd76d5d844b969f5e46958f80b796",
-      "title": "Multi-Spectral Sensing Technologies Research and Development (MUSTER)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2377 USAF AFMC AFRL PZL AFRL RYKS",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-01",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/36ffd76d5d844b969f5e46958f80b796/view",
-      "tldr": "This opportunity focuses on research and development of multi-spectral sensing technologies, relevant for advanced military applications.",
-      "why_relevant": "It may involve modeling and simulation aspects related to sensor technologies and their applications."
+      "response_deadline": "2028-09-30T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/f62cc8a7132245eaa9ce14f0740eb235/view",
+      "tldr": "This is an open period for submissions related to various technical areas under the CHEERS program.",
+      "why_relevant": "It offers a broad range of opportunities that could align with the profile's interests in advanced technologies."
     },
     {
       "notice_id": "d3801bf8cd574b7d98e93a2f28a0a09b",
@@ -58,20 +70,8 @@
       "posted_date": "2026-10-02",
       "response_deadline": "2027-09-30T17:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/d3801bf8cd574b7d98e93a2f28a0a09b/view",
-      "tldr": "This BAA covers a wide range of technical areas for proposals, potentially including modeling and simulation.",
-      "why_relevant": "It provides an opportunity to engage in diverse projects that may align with your expertise."
-    },
-    {
-      "notice_id": "1a794955d12546b59698e15d84a87364",
-      "title": "Rendezvous, Proximity Operations (RPO) Threat Response (RTR) VICTUS Responsive Launch Space Vehicle (SV)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO SPACE DOMAIN AWARENESS ANDCOMBAT POWER.FA8819 SDA AND COMBAT POWER SZK-LA",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-01",
-      "response_deadline": "2026-10-19T12:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/1a794955d12546b59698e15d84a87364/view",
-      "tldr": "This contract focuses on developing responsive launch vehicles for space operations, which may involve simulation and modeling.",
-      "why_relevant": "It ties into your interest in space domain awareness and advanced technologies."
+      "tldr": "This opportunity is for a broad agency announcement covering various technical areas for the CHEERS program.",
+      "why_relevant": "It aligns with the profile's focus on innovative defense technologies."
     },
     {
       "notice_id": "9ef5eb405c404c17a4aec0f4dcadfe67",
@@ -82,32 +82,32 @@
       "posted_date": "2026-10-02",
       "response_deadline": "2026-08-16T17:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/9ef5eb405c404c17a4aec0f4dcadfe67/view",
-      "tldr": "This opportunity involves demonstrations related to lunar base technologies, which may include simulation aspects.",
-      "why_relevant": "It connects to your interests in space and advanced modeling technologies."
+      "tldr": "This contract focuses on demonstrations related to establishing a moon base, which involves advanced simulation and modeling.",
+      "why_relevant": "It connects to the profile's interest in space domain awareness and simulation."
     },
     {
-      "notice_id": "84cb4b33be0641c1b54c4de34b542ed5",
-      "title": "NGA - Boosting Innovative GEOINT - Science & Technology Broad Agency Announcement (BIG-ST BAA): Topic # 07 \u2013 Lidar Analysis for Surface & Environmental Reconnaissance (LASER)",
-      "agency": "DEPT OF DEFENSE.NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA).ATTN: MS S84 - OCS",
+      "notice_id": "bd5a9859e9a2446f9cee8f0cb6c267df",
+      "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA) Call 004",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-01",
+      "response_deadline": "2026-10-29T13:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/bd5a9859e9a2446f9cee8f0cb6c267df/view",
+      "tldr": "This BAA focuses on technologies and science related to the space environment.",
+      "why_relevant": "It aligns with the profile's interests in space and advanced technologies."
+    },
+    {
+      "notice_id": "3312785693294231b7e1832f5f83a4e2",
+      "title": "Signals Intelligence Focused Technologies for Exploitation and Reporting (SIFTER)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-10-01",
-      "response_deadline": "2026-12-11T23:59:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/84cb4b33be0641c1b54c4de34b542ed5/view",
-      "tldr": "This BAA focuses on innovative technologies for geospatial intelligence, including lidar analysis.",
-      "why_relevant": "It may involve simulation and modeling work relevant to your expertise in analysis and reconnaissance."
-    },
-    {
-      "notice_id": "7767b1aebb68439985e9c4db75b2d9e3",
-      "title": "Modernization of Scientific and Technical Intelligence (SandTI;) Prototype Effort",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.FA8604  AFLCMC PZI",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-01",
-      "response_deadline": "2026-10-09T15:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/7767b1aebb68439985e9c4db75b2d9e3/view",
-      "tldr": "This project aims to modernize scientific and technical intelligence capabilities, potentially involving simulation technologies.",
-      "why_relevant": "It aligns with your background in intelligence and simulation work."
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/3312785693294231b7e1832f5f83a4e2/view",
+      "tldr": "This opportunity focuses on developing technologies for signals intelligence exploitation and reporting.",
+      "why_relevant": "It connects to the profile's work in defense and intelligence technologies."
     }
   ]
 }
