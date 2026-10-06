@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes various contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense contracting. The selected job opportunities align closely with the profile's interests in M&S, synthetic environments, and Air Force-related work.",
+  "overall_tldr": "Today's batch includes a variety of defense-related contract opportunities, particularly focusing on modeling, simulation, and advanced technologies relevant to the Air Force and DoD. Many opportunities align closely with the engineer's work at NASIC, especially in areas like RF signature analysis and synthetic environments.",
   "job_recommendations": [
     {
       "notice_id": "c3ce5eef868d4e8c825932744b098131",
@@ -10,80 +10,56 @@
       "posted_date": "2026-10-01",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/c3ce5eef868d4e8c825932744b098131/view",
-      "tldr": "This opportunity involves the development of virtual software for the Synthetic Training Environment, aimed at enhancing training simulations.",
-      "why_relevant": "It directly relates to the profile's interest in modeling and simulation, particularly in a military training context."
+      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for modern military training simulations.",
+      "why_relevant": "It directly relates to the engineer's interest in modeling and simulation for military training."
     },
     {
-      "notice_id": "9ea4caee4f7d42e58a9e8494b2c92b9e",
-      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
+      "notice_id": "9f0d388e28f042d29c80afb104a6a1dd",
+      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
       "naics": "541715",
-      "set_aside": "Small Business Set Aside - Partial",
-      "posted_date": "2026-10-05",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/9ea4caee4f7d42e58a9e8494b2c92b9e/view",
-      "tldr": "This contract focuses on the development and support of the DAF Battle Network, which is crucial for air force operations.",
-      "why_relevant": "It aligns with the profile's work in C4ISR analysis and air force operations."
+      "set_aside": null,
+      "posted_date": "2026-10-06",
+      "response_deadline": "2026-10-21T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/9f0d388e28f042d29c80afb104a6a1dd/view",
+      "tldr": "This contract focuses on developing collaborative technologies for joint operations across multiple domains.",
+      "why_relevant": "It aligns with the engineer's work in C4ISR analysis and collaborative technologies."
     },
     {
-      "notice_id": "bdfe7a50582b4b0b81c03f2028bcf492",
-      "title": "Information Processing Techniques Office Office-Wide",
+      "notice_id": "1c30e541392944ffa4eef945dea4c55a",
+      "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-06",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/1c30e541392944ffa4eef945dea4c55a/view",
+      "tldr": "This opportunity involves research into AI applications for distributed command and control systems.",
+      "why_relevant": "It relates to the engineer's interest in advanced technologies for military applications."
+    },
+    {
+      "notice_id": "d554d75951a340fcbed17668b1864648",
+      "title": "Intrinsic Market Resilience (IMR)",
       "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-05",
-      "response_deadline": "2027-06-22T14:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/bdfe7a50582b4b0b81c03f2028bcf492/view",
-      "tldr": "This opportunity involves various information processing techniques that could enhance defense capabilities.",
-      "why_relevant": "It relates to the profile's interest in advanced technologies and modeling."
+      "posted_date": "2026-10-06",
+      "response_deadline": "2026-12-07T14:00:00",
+      "link": "https://sam.gov/workspace/contract/opp/d554d75951a340fcbed17668b1864648/view",
+      "tldr": "This project focuses on enhancing market resilience through advanced research and development.",
+      "why_relevant": "It may involve modeling and simulation aspects relevant to defense applications."
     },
     {
-      "notice_id": "63442638fa644e649f8de9fc4e117137",
-      "title": "Missile Defense Agency - Advanced Capability Concepts",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "notice_id": "9b512aef92644b27a143ca79c0d613a2",
+      "title": "Multi-Spectral Sensing Technologies Research and Development (MUSTER)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2377 USAF AFMC AFRL PZL AFRL RYKS",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-05",
-      "response_deadline": "2030-05-08T12:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/63442638fa644e649f8de9fc4e117137/view",
-      "tldr": "This contract focuses on developing advanced capabilities for missile defense systems.",
-      "why_relevant": "It connects to the profile's work in defense and simulation technologies."
-    },
-    {
-      "notice_id": "f62cc8a7132245eaa9ce14f0740eb235",
-      "title": "CHEERS MAA Open Period 3 - All Technical Areas, 10 U.S.C 3458 - Commercial Solutions Opening (CSO)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-02",
-      "response_deadline": "2028-09-30T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/f62cc8a7132245eaa9ce14f0740eb235/view",
-      "tldr": "This is an open period for submissions related to various technical areas under the CHEERS program.",
-      "why_relevant": "It offers a broad range of opportunities that could align with the profile's interests in advanced technologies."
-    },
-    {
-      "notice_id": "d3801bf8cd574b7d98e93a2f28a0a09b",
-      "title": "CHEERS MAA Open Period 1 - All Technical Areas, 10 U.S.C. 4001 Broad Agency Announcement (BAA)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-02",
-      "response_deadline": "2027-09-30T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/d3801bf8cd574b7d98e93a2f28a0a09b/view",
-      "tldr": "This opportunity is for a broad agency announcement covering various technical areas for the CHEERS program.",
-      "why_relevant": "It aligns with the profile's focus on innovative defense technologies."
-    },
-    {
-      "notice_id": "9ef5eb405c404c17a4aec0f4dcadfe67",
-      "title": "NextSTEP-3 Appendix B: Moon Base Demonstrations",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MARSHALL SPACE FLIGHT CENTER",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-02",
-      "response_deadline": "2026-08-16T17:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/9ef5eb405c404c17a4aec0f4dcadfe67/view",
-      "tldr": "This contract focuses on demonstrations related to establishing a moon base, which involves advanced simulation and modeling.",
-      "why_relevant": "It connects to the profile's interest in space domain awareness and simulation."
+      "posted_date": "2026-10-06",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/9b512aef92644b27a143ca79c0d613a2/view",
+      "tldr": "This opportunity involves research and development of multi-spectral sensing technologies.",
+      "why_relevant": "It connects to the engineer's work in RF signature production and analysis."
     },
     {
       "notice_id": "bd5a9859e9a2446f9cee8f0cb6c267df",
@@ -94,20 +70,44 @@
       "posted_date": "2026-10-01",
       "response_deadline": "2026-10-29T13:00:00-06:00",
       "link": "https://sam.gov/workspace/contract/opp/bd5a9859e9a2446f9cee8f0cb6c267df/view",
-      "tldr": "This BAA focuses on technologies and science related to the space environment.",
-      "why_relevant": "It aligns with the profile's interests in space and advanced technologies."
+      "tldr": "This BAA focuses on research in space environment technologies and science.",
+      "why_relevant": "It is relevant to the engineer's interests in space domain awareness."
     },
     {
-      "notice_id": "3312785693294231b7e1832f5f83a4e2",
-      "title": "Signals Intelligence Focused Technologies for Exploitation and Reporting (SIFTER)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+      "notice_id": "9ea4caee4f7d42e58a9e8494b2c92b9e",
+      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Partial",
+      "posted_date": "2026-10-05",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/9ea4caee4f7d42e58a9e8494b2c92b9e/view",
+      "tldr": "This contract involves the development and management of the DAF Battle Network.",
+      "why_relevant": "It ties into the engineer's work with C4ISR systems."
+    },
+    {
+      "notice_id": "36ffd76d5d844b969f5e46958f80b796",
+      "title": "Multi-Spectral Sensing Technologies Research and Development (MUSTER)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2377 USAF AFMC AFRL PZL AFRL RYKS",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-10-01",
       "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/3312785693294231b7e1832f5f83a4e2/view",
-      "tldr": "This opportunity focuses on developing technologies for signals intelligence exploitation and reporting.",
-      "why_relevant": "It connects to the profile's work in defense and intelligence technologies."
+      "link": "https://sam.gov/workspace/contract/opp/36ffd76d5d844b969f5e46958f80b796/view",
+      "tldr": "This opportunity is focused on the research and development of multi-spectral sensing technologies.",
+      "why_relevant": "It is relevant to the engineer's work in RF signature production and analysis."
+    },
+    {
+      "notice_id": "d7c1bc492e884eada797fc3387caf8b6",
+      "title": "Restorative and health-Enhancing Sleep Time (REST)",
+      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.ADVANCED RESEARCH PROJECTS AGENCY FOR HEALTH (ARPA-H)",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-05",
+      "response_deadline": "2026-10-13T12:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/d7c1bc492e884eada797fc3387caf8b6/view",
+      "tldr": "This project focuses on enhancing sleep quality and health through research.",
+      "why_relevant": "While not directly related to defense, it involves advanced research methodologies that may interest the engineer."
     }
   ]
 }
