@@ -6,7 +6,7 @@ produce a daily TLDR page: **9 job-related picks + 1 "for funzies" pick**,
 published to GitHub Pages.
 
 - **Job pool**: Modeling & Simulation / NASIC / Air Force-flavored work
-  (relevant to Radiance Technologies / NASIC M&S).
+  (relevant to (Company Name) / NASIC M&S).
 - **Hobby pool**: small hobby-software, basic electrical/cabling, and
   hauling/trucking jobs.
 

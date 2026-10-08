@@ -99,7 +99,7 @@ PAGE_TEMPLATE = """<!doctype html>
       <div class="card-box sidebar">
         <div class="w3-container" style="padding: 1.5rem;">
           <h2 style="padding:0 0 0.75rem;"><i class="fa fa-flash fa-fw w3-margin-right"></i>SAM.gov TLDR</h2>
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large"></i>Radiance Technologies &middot; NASIC M&amp;S</p>
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large"></i>(Company Name) &middot; NASIC M&amp;S</p>
           <p><i class="fa fa-map-marker fa-fw w3-margin-right w3-large"></i>Dayton, OH</p>
           <p><i class="fa fa-refresh fa-fw w3-margin-right w3-large"></i>Updated {generated_at}</p>
           <p><i class="fa fa-bullseye fa-fw w3-margin-right w3-large"></i>{num_job} job picks &middot; 1 for funzies</p>

@@ -7,7 +7,7 @@ returns -- these are reasonable starting guesses, not guaranteed-exhaustive.
 """
 
 # --- Job-related pool -------------------------------------------------------
-# Radiance Technologies / NASIC / Modeling & Simulation work.
+# (Company Name) / NASIC / Modeling & Simulation work.
 JOB_NAICS_CODES = [
     "541715",  # R&D in Physical, Engineering, and Life Sciences
     "541511",  # Custom Computer Programming Services
@@ -25,7 +25,7 @@ JOB_KEYWORDS = [
     "digital twin",
     "simulation training",
     "wargaming",
-    # Added after checking radiancetech.com + their actual Dayton/Beavercreek
+    # Added after checking (Company Name)'s actual Dayton/Beavercreek
     # job postings -- their NASIC-area work skews toward these specific terms
     # rather than generic "modeling and simulation" phrasing.
     "ITASE",
@@ -67,9 +67,9 @@ HOBBY_KEYWORDS = [
 
 # --- Ranking profile ---------------------------------------------------------
 PROFILE_BLURB = (
-    "I work at Radiance Technologies in the Dayton/Beavercreek, Ohio area, "
+    "I work at (Company Name) in the Dayton/Beavercreek, Ohio area, "
     "supporting the National Air and Space Intelligence Center (NASIC) at "
-    "Wright-Patterson AFB in Modeling & Simulation. Radiance's NASIC-area work "
+    "Wright-Patterson AFB in Modeling & Simulation. (Company Name)'s NASIC-area work "
     "there specifically includes things like RF signature production and "
     "analysis, the Integrated Threat and Analysis Simulation Environment "
     "(ITASE), automatic target recognition (ATR), counterspace / space domain "
