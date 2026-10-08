@@ -87,7 +87,6 @@ PAGE_TEMPLATE = """<!doctype html>
 </script>
 
 <div class="topnav">
-  <a href="https://pcarroll9500.github.io/">Home</a>
   <a class="active" href="#">SAM.gov TLDR</a>
 </div>
 
