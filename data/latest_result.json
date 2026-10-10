@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense and aerospace sectors. Many of these listings align with the interests in RF analysis, digital engineering, and synthetic environments, making them suitable for the profile's expertise.",
+  "overall_tldr": "Today's batch includes a variety of defense contracting opportunities focused on modeling, simulation, and aerospace capabilities, particularly relevant to the National Air and Space Intelligence Center's work. The opportunities span training, engineering, and research, aligning well with the profile's interests in simulation and digital engineering.",
   "job_recommendations": [
     {
       "notice_id": "ab9aa2362cb54dc983db0f4efbdb26b5",
@@ -10,8 +10,8 @@
       "posted_date": "2026-10-08",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/ab9aa2362cb54dc983db0f4efbdb26b5/view",
-      "tldr": "This opportunity focuses on developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "It directly relates to the profile's interest in simulation and training work for the Air Force."
+      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
+      "why_relevant": "It directly aligns with the profile's focus on modeling and simulation, particularly in a military context."
     },
     {
       "notice_id": "f726c717f35f4f408c9b169c2c775bd5",
@@ -22,20 +22,32 @@
       "posted_date": "2026-10-08",
       "response_deadline": "2026-10-21T17:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/f726c717f35f4f408c9b169c2c775bd5/view",
-      "tldr": "This contract involves developing collaborative technologies for adaptive military operations across multiple domains.",
-      "why_relevant": "It aligns with the profile's focus on advanced technologies and defense applications."
+      "tldr": "This project focuses on developing collaborative technologies for adaptive operations across multiple domains.",
+      "why_relevant": "It relates to the profile's interest in advanced technologies and collaborative systems in defense applications."
     },
     {
-      "notice_id": "44cb788c402840b0856e065905436f4e",
-      "title": "Operational Test and Training Infrastructure (OTTI) Commercial Solutions Opening (CSO)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
+      "notice_id": "eb03a822fdc24872bed349249a5c0ce6",
+      "title": "Pioneering Aerospace Capabilities, Engineering and Research",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2391 USAF AFMC AFRL PZL AFRL RQKP",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-08",
-      "response_deadline": "2029-12-08T23:59:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/44cb788c402840b0856e065905436f4e/view",
-      "tldr": "This opportunity seeks solutions for enhancing operational test and training infrastructure for the Air Force.",
-      "why_relevant": "It is relevant due to its focus on training and operational readiness in military contexts."
+      "posted_date": "2026-10-09",
+      "response_deadline": "2031-05-10T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/eb03a822fdc24872bed349249a5c0ce6/view",
+      "tldr": "This opportunity involves engineering and research to develop pioneering capabilities in aerospace.",
+      "why_relevant": "It aligns with the profile's work in aerospace and modeling, supporting advanced research initiatives."
+    },
+    {
+      "notice_id": "c2eff571a74d42ac9c48452a33e329d0",
+      "title": "HR001127CE008-Surveillance and Prediction from Research-Industrial Signatures: Part II (SurPRISE Part II) seedling",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-09",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/c2eff571a74d42ac9c48452a33e329d0/view",
+      "tldr": "This project focuses on developing surveillance and prediction technologies based on industrial signatures.",
+      "why_relevant": "It connects to the profile's interest in advanced technologies and modeling in defense applications."
     },
     {
       "notice_id": "f08bdfb7cf9c4f659fc9f4ea63cc9e16",
@@ -46,68 +58,56 @@
       "posted_date": "2026-10-09",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/f08bdfb7cf9c4f659fc9f4ea63cc9e16/view",
-      "tldr": "This contract involves support services related to hydrosphere, biosphere, and geophysics, potentially impacting environmental modeling.",
-      "why_relevant": "It connects to modeling and simulation work, particularly in environmental contexts."
+      "tldr": "This opportunity involves providing support services related to hydrosphere and biosphere research.",
+      "why_relevant": "While not directly related to modeling and simulation, it involves scientific research that could intersect with aerospace interests."
     },
     {
-      "notice_id": "d554d75951a340fcbed17668b1864648",
-      "title": "Intrinsic Market Resilience (IMR)",
+      "notice_id": "a6ff662662a64cd39625fee15ba5178b",
+      "title": "Mobile Integrated Launch Capability",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-09",
+      "response_deadline": "2028-09-30T16:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/a6ff662662a64cd39625fee15ba5178b/view",
+      "tldr": "This project focuses on developing mobile integrated capabilities for launch operations.",
+      "why_relevant": "It relates to aerospace operations and could involve modeling and simulation aspects."
+    },
+    {
+      "notice_id": "109ff4dffc3d40b39f0dc22c8b1f03fe",
+      "title": "Next Generation Hypersonic Cruise Missile Industry Day",
       "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-06",
-      "response_deadline": "2026-12-07T14:00:00",
-      "link": "https://sam.gov/workspace/contract/opp/d554d75951a340fcbed17668b1864648/view",
-      "tldr": "This opportunity focuses on research and development for market resilience technologies, potentially applicable in defense contexts.",
-      "why_relevant": "It may intersect with modeling and simulation in economic or operational scenarios."
+      "posted_date": "2026-10-09",
+      "response_deadline": "2026-09-16T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/109ff4dffc3d40b39f0dc22c8b1f03fe/view",
+      "tldr": "This opportunity is for an industry day focused on next-generation hypersonic missile technologies.",
+      "why_relevant": "It connects to defense technologies and could involve simulation aspects in missile development."
     },
     {
-      "notice_id": "1c30e541392944ffa4eef945dea4c55a",
-      "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
+      "notice_id": "44cb788c402840b0856e065905436f4e",
+      "title": "Operational Test and Training Infrastructure (OTTI) Commercial Solutions Opening (CSO)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-06",
+      "posted_date": "2026-10-08",
+      "response_deadline": "2029-12-08T23:59:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/44cb788c402840b0856e065905436f4e/view",
+      "tldr": "This opportunity focuses on developing infrastructure for operational testing and training.",
+      "why_relevant": "It aligns with the profile's interest in training and simulation for military applications."
+    },
+    {
+      "notice_id": "e916eeb5f70f4c6698cc4c44401a0e09",
+      "title": "CLASS ACT",
+      "agency": "DEPT OF DEFENSE.IMMEDIATE OFFICE OF THE SECRETARY OF DEFENSE.DEFENSE INNOVATION UNIT",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-08",
       "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/1c30e541392944ffa4eef945dea4c55a/view",
-      "tldr": "This contract involves developing AI technologies for distributed command and control systems in military operations.",
-      "why_relevant": "It aligns with interests in advanced technologies and defense applications."
-    },
-    {
-      "notice_id": "e3d96ffd4a0a48b080e09dd5af732cc8",
-      "title": "Federal Aviation Administration (FAA) Research And Commercial Solutions Opening (RCSO) Area Of Interest (AOI) - Complexity Of Systems And Operations",
-      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL AVIATION ADMINISTRATION.693KA8 SYSTEM OPERATIONS CONTRACTS",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-06",
-      "response_deadline": "2026-11-02T18:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/e3d96ffd4a0a48b080e09dd5af732cc8/view",
-      "tldr": "This opportunity focuses on researching complex systems and operations for the FAA, which could have implications for aerospace technologies.",
-      "why_relevant": "It connects to the aerospace sector and may involve modeling and simulation aspects."
-    },
-    {
-      "notice_id": "c793c67384754fc9b56dc97b72ceedb2",
-      "title": "USSOCOM Open Call for Technical Experimentation 27-1: Special Operations Forces (SOF) Combat Diving (Diver Communications, Diver Propulsion, Underwater Interfaces) and Maritime Domain Situational Awareness Sensing Integration on USVs",
-      "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM)",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-06",
-      "response_deadline": "2026-10-22T12:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/c793c67384754fc9b56dc97b72ceedb2/view",
-      "tldr": "This contract is focused on technical experimentation for special operations, particularly in underwater communications and sensing technologies.",
-      "why_relevant": "It relates to advanced technologies and operational scenarios relevant to defense."
-    },
-    {
-      "notice_id": "7ef056f2ec0d4fe7909220320293f532",
-      "title": "United States Space Force (USSF) Battle Management, Command, Control, Communication and Space Intelligence (BMC3I) Satellite Communication Augmentation Resource (SCAR) Program Office (PMO) Commercial Solutions Opening (CSO) Two Phase Closed Variant",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-06",
-      "response_deadline": "2026-10-15T14:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/7ef056f2ec0d4fe7909220320293f532/view",
-      "tldr": "This opportunity involves satellite communication technologies for space intelligence and command control.",
-      "why_relevant": "It connects to space domain awareness and advanced communication technologies."
+      "link": "https://sam.gov/workspace/contract/opp/e916eeb5f70f4c6698cc4c44401a0e09/view",
+      "tldr": "This project involves innovative defense solutions and technologies.",
+      "why_relevant": "It connects to the profile's interest in cutting-edge technologies and defense applications."
     }
   ]
 }
