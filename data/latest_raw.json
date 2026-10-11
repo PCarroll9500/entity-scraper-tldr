@@ -3304,8 +3304,8 @@
       "baseType": "Combined Synopsis/Solicitation",
       "classificationCode": "AC12",
       "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=cd0b9db952b04187bcf3f4f3455b13d9",
-      "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC-NJ.W15QKN",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-NJ.W6QK ACC-RI-PICATINNY",
+      "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC RI.W15QKN",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RI.W6QK ACC-RI-PICATINNY",
       "links": [
         {
           "rel": "self",
@@ -10923,6 +10923,58 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/17a1f57903a64a599a161399bf39b3ec/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-10-23",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Special Notice",
+      "classificationCode": "1377",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0e6b4196b2f14d7497dff015b3e3a8f8",
+      "fullParentPathCode": "017.1700.NAVAIR.NAVAIR NAWC AD.N00421",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC AD.NAVAL AIR WARFARE CENTER AIR DIV",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=0e6b4196b2f14d7497dff015b3e3a8f8&limit=1"
+        }
+      ],
+      "naicsCode": "325920",
+      "naicsCodes": [
+        "325920"
+      ],
+      "noticeId": "0e6b4196b2f14d7497dff015b3e3a8f8",
+      "officeAddress": {
+        "zipcode": "20670-1545",
+        "city": "PATUXENT RIVER",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "zip": ""
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "christopher.m.woehrer.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Christopher Woehrer"
+        }
+      ],
+      "postedDate": "2026-10-08",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-10-23T14:00:00-05:00",
+      "solicitationNumber": "N00421-26-RFPREQ-WPM202-0341",
+      "title": "CAD/PAD Digital Twin and Dashboard Digital Engineering",
+      "type": "Special Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/0e6b4196b2f14d7497dff015b3e3a8f8/view"
     }
   ],
   "hobby_pool": []
