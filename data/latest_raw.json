@@ -5577,6 +5577,83 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-11-03",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "C222",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=90ad22b027af43988c27ea3e9513dbfc",
+      "fullParentPathCode": "089.8900.899032",
+      "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.BERKELEY NATL LAB - DOE CONTRACTOR",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=90ad22b027af43988c27ea3e9513dbfc&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "90ad22b027af43988c27ea3e9513dbfc",
+      "officeAddress": {
+        "zipcode": "94720",
+        "city": "Berkeley",
+        "countryCode": "USA",
+        "state": "CA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "6000",
+          "name": "Berkeley"
+        },
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "aanoop@lbl.gov",
+          "fullName": "Arielle Anoop"
+        }
+      ],
+      "postedDate": "2026-10-12",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0399c54cf10d43298df777c8ee130ddf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/03ee44a935314ddfa81def915b5d7a94/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/116820930fba4b0ab62bdadccf3b03b8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11ad5286421e451faa58581731b2aeea/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/12fcf9da30ae48ce8922cfd00d2408ee/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1fa292c2426b464db8f417edc980c74d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2889a69883c54667be29eba9dd07a5b5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e615dbbed0745f8a68c96e555465fb5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a480e1f7d52487095b92b40ef7596d3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/89ef0771bd9445119b3e2d950dfc10ad/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8da7aab507434e51a2f62844960c1836/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9941c0a50fa9402a86b2560325d6a89b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a1845676c8204d7094ea535f8b47396c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2628eaf83d04ff8aaac1dc17cfce5a5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d5cf7ffc124c47bea9c7539f11436897/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d73b3e05b87e4227867a083c04e51f56/download"
+      ],
+      "responseDeadLine": "2026-10-19T23:59:00-07:00",
+      "solicitationNumber": "AA-2027-01",
+      "title": "SR Power Supplies Rack Detailed Design for ALS-U",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/90ad22b027af43988c27ea3e9513dbfc/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-10-31",
       "archiveType": "auto15",
       "award": null,
@@ -6581,80 +6658,6 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/d8bcad0b370148418b3bcf45059bbc24/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-11-03",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Combined Synopsis/Solicitation",
-      "classificationCode": "C222",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b3eba28eed6e436384918d688651276b",
-      "fullParentPathCode": "089.8900.899032",
-      "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.BERKELEY NATL LAB - DOE CONTRACTOR",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b3eba28eed6e436384918d688651276b&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "b3eba28eed6e436384918d688651276b",
-      "officeAddress": {
-        "zipcode": "94720",
-        "city": "Berkeley",
-        "countryCode": "USA",
-        "state": "CA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "6000",
-          "name": "Berkeley"
-        },
-        "state": {
-          "code": "CA",
-          "name": "California"
-        },
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "type": "primary",
-          "email": "aanoop@lbl.gov",
-          "fullName": "Arielle Anoop"
-        }
-      ],
-      "postedDate": "2026-10-08",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0399c54cf10d43298df777c8ee130ddf/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/03ee44a935314ddfa81def915b5d7a94/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/116820930fba4b0ab62bdadccf3b03b8/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/11ad5286421e451faa58581731b2aeea/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/12fcf9da30ae48ce8922cfd00d2408ee/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1fa292c2426b464db8f417edc980c74d/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2889a69883c54667be29eba9dd07a5b5/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e615dbbed0745f8a68c96e555465fb5/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a480e1f7d52487095b92b40ef7596d3/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8da7aab507434e51a2f62844960c1836/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9941c0a50fa9402a86b2560325d6a89b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a1845676c8204d7094ea535f8b47396c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d5cf7ffc124c47bea9c7539f11436897/download"
-      ],
-      "responseDeadLine": "2026-10-19T23:59:00-07:00",
-      "solicitationNumber": "AA-2027-01",
-      "title": "SR Power Supplies Rack Detailed Design for ALS-U",
-      "type": "Combined Synopsis/Solicitation",
-      "typeOfSetAside": "NONE",
-      "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/b3eba28eed6e436384918d688651276b/view"
     },
     {
       "active": "Yes",
@@ -9515,95 +9518,6 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2026-10-31",
-      "archiveType": "autocustom",
-      "award": {
-        "date": "2026-09-29",
-        "number": "N4019226D0004",
-        "amount": "20000000.00",
-        "awardee": {
-          "name": "JM ROBERTSON INC",
-          "location": {
-            "city": {
-              "code": "70950",
-              "name": "Tamuning"
-            },
-            "state": {
-              "code": "GU",
-              "name": "Guam"
-            },
-            "zip": "96913",
-            "country": {
-              "code": "USA",
-              "name": "UNITED STATES"
-            }
-          }
-        }
-      },
-      "baseType": "Award Notice",
-      "classificationCode": "C219",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1613e19a12e743a492e597548a56f106",
-      "fullParentPathCode": "017.1700.NAVFAC.NAVFAC PACIFIC CMD.NAVFAC MARIANAS.N40192",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFAC MARIANAS.NAVFACSYSCOM MARIANAS",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=1613e19a12e743a492e597548a56f106&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "1613e19a12e743a492e597548a56f106",
-      "officeAddress": {
-        "zipcode": "96540-2937",
-        "city": "FPO",
-        "countryCode": "USA",
-        "state": "AP"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "state": {
-          "code": "GU",
-          "name": "Guam"
-        },
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "mark.c.cruz@fe.navy.mil",
-          "phone": "6713398465",
-          "fullName": "Mark Cruz"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "juvee.a.pangelinan.civ@us.navy.mil",
-          "phone": "6713398098",
-          "fullName": "Juvee Pangelinan"
-        }
-      ],
-      "postedDate": "2026-10-04",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6949f9a4a24467f89b3892630bc1efd/download"
-      ],
-      "responseDeadLine": null,
-      "solicitationNumber": "N4019226D0004",
-      "title": "Indefinite Quantity Contract for Civil and Structural A-E Services for Various Facilities and Activities under the Cognizance of the Naval Facilities  Engineering Systems Command, Marianas",
-      "type": "Award Notice",
-      "typeOfSetAside": "HZC",
-      "typeOfSetAsideDescription": "Historically Underutilized Business (HUBZone) Set-Aside (FAR 19.13)",
-      "uiLink": "https://sam.gov/workspace/contract/opp/1613e19a12e743a492e597548a56f106/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
       "archiveDate": "2026-11-24",
       "archiveType": "auto15",
       "award": null,
@@ -10923,58 +10837,6 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/17a1f57903a64a599a161399bf39b3ec/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-10-23",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": "1377",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0e6b4196b2f14d7497dff015b3e3a8f8",
-      "fullParentPathCode": "017.1700.NAVAIR.NAVAIR NAWC AD.N00421",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC AD.NAVAL AIR WARFARE CENTER AIR DIV",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=0e6b4196b2f14d7497dff015b3e3a8f8&limit=1"
-        }
-      ],
-      "naicsCode": "325920",
-      "naicsCodes": [
-        "325920"
-      ],
-      "noticeId": "0e6b4196b2f14d7497dff015b3e3a8f8",
-      "officeAddress": {
-        "zipcode": "20670-1545",
-        "city": "PATUXENT RIVER",
-        "countryCode": "USA",
-        "state": "MD"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "",
-        "zip": ""
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "christopher.m.woehrer.civ@us.navy.mil",
-          "phone": "",
-          "fullName": "Christopher Woehrer"
-        }
-      ],
-      "postedDate": "2026-10-08",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-10-23T14:00:00-05:00",
-      "solicitationNumber": "N00421-26-RFPREQ-WPM202-0341",
-      "title": "CAD/PAD Digital Twin and Dashboard Digital Engineering",
-      "type": "Special Notice",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/0e6b4196b2f14d7497dff015b3e3a8f8/view"
     }
   ],
   "hobby_pool": []
