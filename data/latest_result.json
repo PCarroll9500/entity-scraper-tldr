@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and aerospace capabilities, which align well with the profile's work at NASIC. The opportunities range from training services to advanced research projects, all relevant to defense contracting and simulation work.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities focused on modeling, simulation, and defense-related projects, particularly in the aerospace and military sectors. The listings emphasize areas like RF signature analysis, training services, and advanced research, aligning well with the engineer's expertise and interests.",
   "job_recommendations": [
     {
       "notice_id": "ab9aa2362cb54dc983db0f4efbdb26b5",
@@ -10,20 +10,32 @@
       "posted_date": "2026-10-08",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/ab9aa2362cb54dc983db0f4efbdb26b5/view",
-      "tldr": "This opportunity involves developing virtual software for a synthetic training environment, which is crucial for military training and simulation.",
-      "why_relevant": "This aligns directly with the profile's interest in modeling and simulation, particularly in a military context."
+      "tldr": "This opportunity involves developing virtual software for a synthetic training environment, which is crucial for military training and simulations.",
+      "why_relevant": "It directly relates to the engineer's focus on modeling and simulation in military contexts."
     },
     {
-      "notice_id": "f726c717f35f4f408c9b169c2c775bd5",
-      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
+      "notice_id": "f61d51597aa94524a09ad263cf7a5d60",
+      "title": "Special Operations Forces - Training, Testing, and Transition Services (SOF-T Serve)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-08",
-      "response_deadline": "2026-10-21T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/f726c717f35f4f408c9b169c2c775bd5/view",
-      "tldr": "This project focuses on developing adaptive collaborative technologies for joint military operations.",
-      "why_relevant": "The focus on collaborative technologies fits well with the profile's work in C4ISR analysis and simulation."
+      "posted_date": "2026-10-09",
+      "response_deadline": "2026-07-24T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/f61d51597aa94524a09ad263cf7a5d60/view",
+      "tldr": "This contract focuses on providing training and testing services for Special Operations Forces, ensuring they have the necessary skills and equipment.",
+      "why_relevant": "It aligns with the engineer's interest in military training and simulation."
+    },
+    {
+      "notice_id": "56d779c9b599432a833bad56a6b58ac1",
+      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-13",
+      "response_deadline": "2026-11-23T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/56d779c9b599432a833bad56a6b58ac1/view",
+      "tldr": "This RFP seeks proposals for developing resilient tracking systems for missile warning in low Earth orbit.",
+      "why_relevant": "It connects to the engineer's work in aerospace and defense technologies."
     },
     {
       "notice_id": "eb03a822fdc24872bed349249a5c0ce6",
@@ -34,8 +46,8 @@
       "posted_date": "2026-10-09",
       "response_deadline": "2031-05-10T15:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/eb03a822fdc24872bed349249a5c0ce6/view",
-      "tldr": "This opportunity involves research and engineering to develop new aerospace capabilities.",
-      "why_relevant": "This aligns with the profile's interest in aerospace and defense technology development."
+      "tldr": "This opportunity involves engineering and research aimed at advancing aerospace capabilities.",
+      "why_relevant": "It aligns with the engineer's focus on aerospace and defense engineering."
     },
     {
       "notice_id": "c2eff571a74d42ac9c48452a33e329d0",
@@ -46,8 +58,20 @@
       "posted_date": "2026-10-09",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/c2eff571a74d42ac9c48452a33e329d0/view",
-      "tldr": "This project focuses on developing surveillance and prediction technologies based on industrial signatures.",
-      "why_relevant": "The emphasis on advanced technology aligns with the profile's work in RF signature production and analysis."
+      "tldr": "This project focuses on surveillance and prediction technologies based on research and industrial signatures.",
+      "why_relevant": "It relates to advanced research and technology development in defense."
+    },
+    {
+      "notice_id": "1f4fdf5909e44f5ba721860b49a509b4",
+      "title": "Building America Subject Matter Expert Technical Support",
+      "agency": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.ALLIANCE FOR ENERGY INNOVATION, LLC - DOE CONTRACTOR",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-12",
+      "response_deadline": "2026-11-16T18:00:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/1f4fdf5909e44f5ba721860b49a509b4/view",
+      "tldr": "This opportunity seeks technical support for building energy innovations, focusing on sustainable practices.",
+      "why_relevant": "It connects to the engineer's interest in technical support and innovation."
     },
     {
       "notice_id": "f08bdfb7cf9c4f659fc9f4ea63cc9e16",
@@ -58,20 +82,8 @@
       "posted_date": "2026-10-09",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/f08bdfb7cf9c4f659fc9f4ea63cc9e16/view",
-      "tldr": "This opportunity involves providing support services for hydrosphere, biosphere, and geophysics research.",
-      "why_relevant": "While not directly related to M&S, it involves scientific research that could intersect with defense applications."
-    },
-    {
-      "notice_id": "a6ff662662a64cd39625fee15ba5178b",
-      "title": "Mobile Integrated Launch Capability",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA)",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-09",
-      "response_deadline": "2028-09-30T16:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/a6ff662662a64cd39625fee15ba5178b/view",
-      "tldr": "This project focuses on developing mobile capabilities for missile launches.",
-      "why_relevant": "The project relates to defense technology, which is relevant to the profile's work in aerospace."
+      "tldr": "This RFP focuses on support services related to hydrosphere, biosphere, and geophysics research.",
+      "why_relevant": "It ties into the engineer's interest in scientific research and modeling."
     },
     {
       "notice_id": "44cb788c402840b0856e065905436f4e",
@@ -82,32 +94,20 @@
       "posted_date": "2026-10-08",
       "response_deadline": "2029-12-08T23:59:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/44cb788c402840b0856e065905436f4e/view",
-      "tldr": "This opportunity involves developing infrastructure for operational testing and training.",
-      "why_relevant": "The focus on training infrastructure aligns with the profile's interest in simulation and training work."
+      "tldr": "This opportunity involves developing commercial solutions for operational test and training infrastructure.",
+      "why_relevant": "It relates to the engineer's focus on training and simulation for military applications."
     },
     {
-      "notice_id": "109ff4dffc3d40b39f0dc22c8b1f03fe",
-      "title": "Next Generation Hypersonic Cruise Missile Industry Day",
-      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "notice_id": "f726c717f35f4f408c9b169c2c775bd5",
+      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-09",
-      "response_deadline": "2026-09-16T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/109ff4dffc3d40b39f0dc22c8b1f03fe/view",
-      "tldr": "This opportunity involves discussions and planning for the development of next-generation hypersonic missiles.",
-      "why_relevant": "This is relevant to defense technology and aligns with the profile's work in aerospace capabilities."
-    },
-    {
-      "notice_id": "5f0e249c5c584a10863d3044c1bb3aee",
-      "title": "Special Notice- Post Award",
-      "agency": "AGRICULTURE, DEPARTMENT OF.FOOD AND NUTRITION SERVICE.USDA FOOD AND NUTRITION ADMINISTRATION",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
       "posted_date": "2026-10-08",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/5f0e249c5c584a10863d3044c1bb3aee/view",
-      "tldr": "This is a special notice related to a post-award process for a contract.",
-      "why_relevant": "While not directly related to M&S, it may provide insights into contract management processes."
+      "response_deadline": "2026-10-21T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/f726c717f35f4f408c9b169c2c775bd5/view",
+      "tldr": "This opportunity focuses on developing collaborative technologies for adaptive military operations across domains.",
+      "why_relevant": "It aligns with the engineer's interests in advanced military technologies and simulations."
     }
   ]
 }
