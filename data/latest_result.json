@@ -1,30 +1,6 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities focused on modeling, simulation, and defense-related projects, particularly in the aerospace and military sectors. The listings emphasize areas like RF signature analysis, training services, and advanced research, aligning well with the engineer's expertise and interests.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and aerospace technologies, which align well with the profile's work at NASIC. The opportunities span various agencies and applications, reflecting the profile's interests in digital engineering and defense-related projects.",
   "job_recommendations": [
-    {
-      "notice_id": "ab9aa2362cb54dc983db0f4efbdb26b5",
-      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-08",
-      "response_deadline": "2026-10-13T10:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/ab9aa2362cb54dc983db0f4efbdb26b5/view",
-      "tldr": "This opportunity involves developing virtual software for a synthetic training environment, which is crucial for military training and simulations.",
-      "why_relevant": "It directly relates to the engineer's focus on modeling and simulation in military contexts."
-    },
-    {
-      "notice_id": "f61d51597aa94524a09ad263cf7a5d60",
-      "title": "Special Operations Forces - Training, Testing, and Transition Services (SOF-T Serve)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-09",
-      "response_deadline": "2026-07-24T15:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/f61d51597aa94524a09ad263cf7a5d60/view",
-      "tldr": "This contract focuses on providing training and testing services for Special Operations Forces, ensuring they have the necessary skills and equipment.",
-      "why_relevant": "It aligns with the engineer's interest in military training and simulation."
-    },
     {
       "notice_id": "56d779c9b599432a833bad56a6b58ac1",
       "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
@@ -34,8 +10,20 @@
       "posted_date": "2026-10-13",
       "response_deadline": "2026-11-23T16:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/56d779c9b599432a833bad56a6b58ac1/view",
-      "tldr": "This RFP seeks proposals for developing resilient tracking systems for missile warning in low Earth orbit.",
-      "why_relevant": "It connects to the engineer's work in aerospace and defense technologies."
+      "tldr": "This RFP focuses on developing resilient tracking systems for missile warning in low Earth orbit, crucial for national defense.",
+      "why_relevant": "This aligns with the profile's interest in defense technologies and simulation work related to aerospace."
+    },
+    {
+      "notice_id": "ab9aa2362cb54dc983db0f4efbdb26b5",
+      "title": "Synthetic Training Environment (STE) Virtual Software (VSW)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG-ORLANDO",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-08",
+      "response_deadline": "2026-10-13T10:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/ab9aa2362cb54dc983db0f4efbdb26b5/view",
+      "tldr": "This opportunity involves developing virtual software for synthetic training environments, enhancing military training capabilities.",
+      "why_relevant": "It directly relates to the profile's focus on modeling and simulation in military training."
     },
     {
       "notice_id": "eb03a822fdc24872bed349249a5c0ce6",
@@ -46,8 +34,44 @@
       "posted_date": "2026-10-09",
       "response_deadline": "2031-05-10T15:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/eb03a822fdc24872bed349249a5c0ce6/view",
-      "tldr": "This opportunity involves engineering and research aimed at advancing aerospace capabilities.",
-      "why_relevant": "It aligns with the engineer's focus on aerospace and defense engineering."
+      "tldr": "This contract focuses on advancing aerospace capabilities through engineering and research efforts.",
+      "why_relevant": "It aligns with the profile's work in aerospace and modeling/simulation."
+    },
+    {
+      "notice_id": "f726c717f35f4f408c9b169c2c775bd5",
+      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-08",
+      "response_deadline": "2026-10-21T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/f726c717f35f4f408c9b169c2c775bd5/view",
+      "tldr": "This opportunity focuses on developing collaborative technologies for joint operations across multiple domains.",
+      "why_relevant": "It relates to the profile's interest in advanced technologies and defense applications."
+    },
+    {
+      "notice_id": "f08bdfb7cf9c4f659fc9f4ea63cc9e16",
+      "title": "Hydrosphere, Biosphere, & Geophysics (HBG) Support Services II Intended Final RFP Posting",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GODDARD SPACE FLIGHT CENTER",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-10-09",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/f08bdfb7cf9c4f659fc9f4ea63cc9e16/view",
+      "tldr": "This RFP involves support services for hydrosphere, biosphere, and geophysics research, relevant for environmental modeling.",
+      "why_relevant": "It connects to the profile's interest in modeling and simulation in various scientific domains."
+    },
+    {
+      "notice_id": "1f4fdf5909e44f5ba721860b49a509b4",
+      "title": "Building America Subject Matter Expert Technical Support",
+      "agency": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.ALLIANCE FOR ENERGY INNOVATION, LLC - DOE CONTRACTOR",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-12",
+      "response_deadline": "2026-11-16T18:00:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/1f4fdf5909e44f5ba721860b49a509b4/view",
+      "tldr": "This contract seeks technical support for initiatives aimed at improving energy efficiency and innovation.",
+      "why_relevant": "It may relate to the profile's interest in digital engineering and innovative solutions."
     },
     {
       "notice_id": "c2eff571a74d42ac9c48452a33e329d0",
@@ -59,55 +83,31 @@
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/c2eff571a74d42ac9c48452a33e329d0/view",
       "tldr": "This project focuses on surveillance and prediction technologies based on research and industrial signatures.",
-      "why_relevant": "It relates to advanced research and technology development in defense."
+      "why_relevant": "It aligns with the profile's work in advanced technologies and defense applications."
     },
     {
-      "notice_id": "1f4fdf5909e44f5ba721860b49a509b4",
-      "title": "Building America Subject Matter Expert Technical Support",
-      "agency": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.ALLIANCE FOR ENERGY INNOVATION, LLC - DOE CONTRACTOR",
+      "notice_id": "a6ff662662a64cd39625fee15ba5178b",
+      "title": "Mobile Integrated Launch Capability",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA)",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-10-12",
-      "response_deadline": "2026-11-16T18:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/1f4fdf5909e44f5ba721860b49a509b4/view",
-      "tldr": "This opportunity seeks technical support for building energy innovations, focusing on sustainable practices.",
-      "why_relevant": "It connects to the engineer's interest in technical support and innovation."
-    },
-    {
-      "notice_id": "f08bdfb7cf9c4f659fc9f4ea63cc9e16",
-      "title": "Hydrosphere, Biosphere, & Geophysics (HBG) Support Services II Intended Final RFP Posting",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GODDARD SPACE FLIGHT CENTER",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
       "posted_date": "2026-10-09",
+      "response_deadline": "2028-09-30T16:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/a6ff662662a64cd39625fee15ba5178b/view",
+      "tldr": "This opportunity involves developing mobile integrated launch capabilities for defense applications.",
+      "why_relevant": "It connects to the profile's interest in aerospace and defense technologies."
+    },
+    {
+      "notice_id": "f9464e885f6b46eeb2705f08e1d559a0",
+      "title": "Intersection Safety Systems (ISS) Prototyping",
+      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL HIGHWAY ADMINISTRATION.693JJ3 ACQUISITION AND GRANTS MGT",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-07",
       "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/f08bdfb7cf9c4f659fc9f4ea63cc9e16/view",
-      "tldr": "This RFP focuses on support services related to hydrosphere, biosphere, and geophysics research.",
-      "why_relevant": "It ties into the engineer's interest in scientific research and modeling."
-    },
-    {
-      "notice_id": "44cb788c402840b0856e065905436f4e",
-      "title": "Operational Test and Training Infrastructure (OTTI) Commercial Solutions Opening (CSO)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO OPERATIONAL TEST AND TRAINING INFRASTRUCTURE.FA2553 OPRN TEST & TRG INFR OTTI PK",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-08",
-      "response_deadline": "2029-12-08T23:59:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/44cb788c402840b0856e065905436f4e/view",
-      "tldr": "This opportunity involves developing commercial solutions for operational test and training infrastructure.",
-      "why_relevant": "It relates to the engineer's focus on training and simulation for military applications."
-    },
-    {
-      "notice_id": "f726c717f35f4f408c9b169c2c775bd5",
-      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-08",
-      "response_deadline": "2026-10-21T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/f726c717f35f4f408c9b169c2c775bd5/view",
-      "tldr": "This opportunity focuses on developing collaborative technologies for adaptive military operations across domains.",
-      "why_relevant": "It aligns with the engineer's interests in advanced military technologies and simulations."
+      "link": "https://sam.gov/workspace/contract/opp/f9464e885f6b46eeb2705f08e1d559a0/view",
+      "tldr": "This project focuses on prototyping safety systems for intersections to improve traffic safety.",
+      "why_relevant": "It may relate to the profile's interest in simulation and modeling for safety applications."
     }
   ]
 }
