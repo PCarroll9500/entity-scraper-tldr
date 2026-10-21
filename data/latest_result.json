@@ -1,29 +1,65 @@
 {
-  "overall_tldr": "Today's batch features a range of contract opportunities primarily focused on modeling and simulation, digital engineering, and defense technologies, which align well with the profile's expertise in supporting NASIC. The selected opportunities emphasize areas such as RF signature analysis, training systems, and advanced research projects relevant to the Air Force and DoD.",
+  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense and aerospace. Many listings align well with the profile's expertise in RF signature analysis, digital engineering, and Air Force simulation work.",
   "job_recommendations": [
     {
-      "notice_id": "56ac502e5f7543ac9dd21a6e52090677",
-      "title": "Modeling and Simulation Vistas Core Truth Models (MSV-CTM)",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "notice_id": "86950f1d0e5c4c42848fa7a0cdfd3301",
+      "title": "STAR-FISH CALL 017 - Secure By Design",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
       "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-14",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/56ac502e5f7543ac9dd21a6e52090677/view",
-      "tldr": "This opportunity involves developing core truth models for modeling and simulation applications, which is directly relevant to the profile's work in M&S.",
-      "why_relevant": "It aligns perfectly with the profile's focus on modeling and simulation, particularly in defense applications."
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-21",
+      "response_deadline": "2026-11-13T16:00:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/86950f1d0e5c4c42848fa7a0cdfd3301/view",
+      "tldr": "This opportunity focuses on developing secure systems for defense applications, which may involve modeling and simulation aspects.",
+      "why_relevant": "The project aligns with the profile's interest in simulation and security within the defense sector."
     },
     {
-      "notice_id": "3ef41b766b7d4bc2b138017c1836a40f",
-      "title": "Common Autonomous Multi-Domain Launcher (CAML)-Lite Prototype Effort",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.RAPID CAPABILITIES CRITICAL TECH OFC.W6DV PEO M & S REDSTONE",
+      "notice_id": "80e2ed9ad22846029666803376c01700",
+      "title": "High Assurance Computer Systems Security",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-21",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/80e2ed9ad22846029666803376c01700/view",
+      "tldr": "This contract involves ensuring high assurance in computer systems, which may include modeling and simulation components.",
+      "why_relevant": "It connects to the profile's expertise in digital engineering and security in defense applications."
+    },
+    {
+      "notice_id": "8f0da0e3ec8d4203b52f255ea48c7a53",
+      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-10-15",
-      "response_deadline": "2026-10-23T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/3ef41b766b7d4bc2b138017c1836a40f/view",
-      "tldr": "This project focuses on developing a prototype for an autonomous multi-domain launcher, which could involve simulation and modeling aspects.",
-      "why_relevant": "It connects to the profile's interest in modeling and simulation within military applications."
+      "posted_date": "2026-10-20",
+      "response_deadline": "2026-10-21T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/8f0da0e3ec8d4203b52f255ea48c7a53/view",
+      "tldr": "This opportunity focuses on developing technologies for adaptive collaboration across multiple domains.",
+      "why_relevant": "It relates to the profile's interest in advanced technologies and simulation in defense contexts."
+    },
+    {
+      "notice_id": "c4bc598934f845dfb581ebb73f429159",
+      "title": "ARMY APPLICATIONS LABORATORY BROAD AGENCY ANNOUNCEMENT FOR DISRUPTIVE TECHNOLOGIES",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG DURHAM",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-20",
+      "response_deadline": "2029-04-04T23:59:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/c4bc598934f845dfb581ebb73f429159/view",
+      "tldr": "This announcement invites proposals for innovative technologies that could disrupt current military applications.",
+      "why_relevant": "It aligns with the profile's focus on cutting-edge technologies in defense."
+    },
+    {
+      "notice_id": "854d837d8dc842719d9fec95764d8ceb",
+      "title": "NGA - Boosting Innovative GEOINT - Science & Technology Broad Agency Announcement (BIG-ST BAA): Topic # 07 \u2013 Lidar Analysis for Surface & Environmental Reconnaissance (LASER)",
+      "agency": "DEPT OF DEFENSE.NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA).ATTN: MS S84 - OCS",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-20",
+      "response_deadline": "2026-12-21T23:59:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/854d837d8dc842719d9fec95764d8ceb/view",
+      "tldr": "This opportunity focuses on innovative approaches to geospatial intelligence using Lidar technology.",
+      "why_relevant": "It connects to the profile's interest in advanced technologies and modeling for defense applications."
     },
     {
       "notice_id": "d9de83e0eebf430cbcbdb339ee468afd",
@@ -34,8 +70,20 @@
       "posted_date": "2026-10-19",
       "response_deadline": "2026-11-05T12:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/d9de83e0eebf430cbcbdb339ee468afd/view",
-      "tldr": "This opportunity involves developing a training system for 120mm mortars, likely incorporating simulation technologies.",
-      "why_relevant": "It relates to training and simulation, which are key interests of the profile."
+      "tldr": "This contract involves developing a training system for 120mm mortars, likely incorporating simulation technologies.",
+      "why_relevant": "It relates to the profile's interest in simulation and training within the military context."
+    },
+    {
+      "notice_id": "1cd13b7660ee43ff96fe549144d7b847",
+      "title": "Tracking Layer Tranche 4 On-orbit Demonstrations and Operations Request for Information",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-20",
+      "response_deadline": "2026-12-04T12:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/1cd13b7660ee43ff96fe549144d7b847/view",
+      "tldr": "This opportunity seeks information on operations and demonstrations for a tracking layer in space.",
+      "why_relevant": "It connects to the profile's focus on space domain awareness and simulation technologies."
     },
     {
       "notice_id": "c521adb4295f4e5b950be1c9330f6c16",
@@ -46,68 +94,20 @@
       "posted_date": "2026-10-19",
       "response_deadline": "2026-11-16T16:00:00-08:00",
       "link": "https://sam.gov/workspace/contract/opp/c521adb4295f4e5b950be1c9330f6c16/view",
-      "tldr": "This project involves flight demonstrations of advanced rocket engine technologies, which may include simulation aspects.",
-      "why_relevant": "It connects to aerospace technologies and simulation, relevant to the profile's work with NASIC."
+      "tldr": "This contract involves a flight demonstration for a new type of rocket engine technology.",
+      "why_relevant": "It aligns with the profile's interest in advanced aerospace technologies and simulations."
     },
     {
-      "notice_id": "d1d01112ebe142359bafb3059ffcbc74",
-      "title": "Performance Enhanced Real-time Ground Environment (PEREGRINE) Sentry",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "notice_id": "5f533d6b31834623a1817db6471680c1",
+      "title": "Commercial Solutions Opening (CSO) - PAE-MC, PM Training Systems",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-10-16",
-      "response_deadline": "2026-10-30T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/d1d01112ebe142359bafb3059ffcbc74/view",
-      "tldr": "This opportunity focuses on enhancing real-time ground environments for military applications, likely involving simulation technologies.",
-      "why_relevant": "It aligns with the profile's interest in simulation and training for military operations."
-    },
-    {
-      "notice_id": "9e3e510ae2684970ae96854c76990183",
-      "title": "CY28 FFP Services",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-19",
-      "response_deadline": "2026-10-30T12:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/9e3e510ae2684970ae96854c76990183/view",
-      "tldr": "This contract involves providing services related to space development, which may include simulation and modeling aspects.",
-      "why_relevant": "It connects to the profile's work with the Air Force and interests in simulation."
-    },
-    {
-      "notice_id": "5ee3a9593b0e4829a5e0ec63826dfbba",
-      "title": "Aircraft Defensive Electro-optical Protection Technologies (ADEPT)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2377 USAF AFMC AFRL PZL AFRL RYKS",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-16",
-      "response_deadline": "2026-11-09T14:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/5ee3a9593b0e4829a5e0ec63826dfbba/view",
-      "tldr": "This project focuses on developing electro-optical protection technologies for aircraft, potentially involving simulation in testing.",
-      "why_relevant": "It relates to defense technologies and may involve modeling and simulation."
-    },
-    {
-      "notice_id": "b77e398ed07444bf82b49cd3d7e72635",
-      "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA) Call 004",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA9453  AFRL RVK",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-16",
-      "response_deadline": "2026-11-05T13:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/b77e398ed07444bf82b49cd3d7e72635/view",
-      "tldr": "This opportunity involves research and development in space environment technologies, which may include simulation aspects.",
-      "why_relevant": "It connects to the profile's interests in aerospace and simulation technologies."
-    },
-    {
-      "notice_id": "9c3d7992d3984f26a5e7ef4fafa19ed8",
-      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-16",
-      "response_deadline": "2026-10-21T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/9c3d7992d3984f26a5e7ef4fafa19ed8/view",
-      "tldr": "This project focuses on collaborative technologies for military applications, likely involving simulation and modeling.",
-      "why_relevant": "It aligns with the profile's interests in collaborative technologies and simulation."
+      "posted_date": "2026-10-20",
+      "response_deadline": "2031-10-19T11:59:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/5f533d6b31834623a1817db6471680c1/view",
+      "tldr": "This opportunity focuses on training systems for military applications, likely involving simulation technologies.",
+      "why_relevant": "It connects to the profile's interest in simulation and training within the defense sector."
     }
   ]
 }
