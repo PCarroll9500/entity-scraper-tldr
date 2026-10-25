@@ -3,6 +3,63 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-12-31",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Special Notice",
+      "classificationCode": "AC32",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=70b00eb1afc14b9f9a735b79906a8a94",
+      "fullParentPathCode": "057.5700.AFMC.AFIMSC-AFICC.FA8075",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8075  774 ESS",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=70b00eb1afc14b9f9a735b79906a8a94&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "70b00eb1afc14b9f9a735b79906a8a94",
+      "officeAddress": {
+        "zipcode": "68113-2108",
+        "city": "OFFUTT AFB",
+        "countryCode": "USA",
+        "state": "NE"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {},
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "55cons.pkc.iacmac@us.af.mil",
+          "phone": "",
+          "fullName": "Rebecca Robeson"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "55cons.pkc.iacmac@us.af.mil",
+          "phone": "",
+          "fullName": "Kelly Lybolt"
+        }
+      ],
+      "postedDate": "2026-10-24",
+      "resourceLinks": null,
+      "responseDeadLine": null,
+      "solicitationNumber": "FA807527R0001-NextGen_IACMAC_Industry_Day",
+      "title": "NextGen IACMAC Industry Day",
+      "type": "Special Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/70b00eb1afc14b9f9a735b79906a8a94/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-11-22",
       "archiveType": "auto15",
       "award": null,
@@ -1751,8 +1808,7 @@
       "type": "Combined Synopsis/Solicitation",
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/d38b2d6b42ec40acbe7996f20ba9f78b/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/d38b2d6b42ec40acbe7996f20ba9f78b/view"
     },
     {
       "active": "Yes",
@@ -3289,65 +3345,6 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/271d74a6030a4308861c756918fa0349/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-12-31",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": "AC32",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=111523a63dd34e619e3e86216dd1973b",
-      "fullParentPathCode": "057.5700.AFMC.AFIMSC-AFICC.FA8075",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8075  774 ESS",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=111523a63dd34e619e3e86216dd1973b&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "111523a63dd34e619e3e86216dd1973b",
-      "officeAddress": {
-        "zipcode": "68113-2108",
-        "city": "OFFUTT AFB",
-        "countryCode": "USA",
-        "state": "NE"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {},
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "rebecca.robeson@us.af.mil",
-          "phone": "4022949604",
-          "fullName": "Rebecca Robeson"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "kelly.lybolt.1@us.af.mil",
-          "phone": "4022947204",
-          "fullName": "Kelly Lybolt"
-        }
-      ],
-      "postedDate": "2026-10-19",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/62ec567a49eb4286a2bc032b16e9f240/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b6e3910fef184287b27c028a1f363b53/download"
-      ],
-      "responseDeadLine": null,
-      "solicitationNumber": "FA807527R0001-NextGen_IACMAC_Industry_Day",
-      "title": "NextGen IACMAC Industry Day",
-      "type": "Special Notice",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/111523a63dd34e619e3e86216dd1973b/view"
     },
     {
       "active": "Yes",

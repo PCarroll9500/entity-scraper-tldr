@@ -1,30 +1,6 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and advanced technologies relevant to defense applications. Many of these opportunities align closely with the work being done at NASIC, particularly in areas like RF signature analysis and digital engineering.",
+  "overall_tldr": "Today's batch includes various contract opportunities primarily focused on modeling, simulation, and advanced technology development relevant to defense applications. The opportunities span multiple agencies and cover areas like RF signature analysis, digital engineering, and aerospace capabilities, aligning well with the profile's expertise and interests.",
   "job_recommendations": [
-    {
-      "notice_id": "e881badfebab4f67ab7692a0a34f2344",
-      "title": "Timed Emitters Transmitting Highly Energized Radiation (TETHER)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-23",
-      "response_deadline": "2026-11-09T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/e881badfebab4f67ab7692a0a34f2344/view",
-      "tldr": "This project involves developing and testing advanced emitter technologies that could enhance military capabilities.",
-      "why_relevant": "It relates to advanced technologies and RF signature analysis, which are key areas in defense contracting."
-    },
-    {
-      "notice_id": "4ac170e0094b4345915e10d099d31980",
-      "title": "Common Autonomous Multi-Domain Launcher (CAML)-Lite Prototype Effort",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.RAPID CAPABILITIES CRITICAL TECH OFC.W6DV PEO M & S REDSTONE",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-23",
-      "response_deadline": "2026-10-26T07:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/4ac170e0094b4345915e10d099d31980/view",
-      "tldr": "This opportunity focuses on developing a prototype for a multi-domain launcher that can operate autonomously.",
-      "why_relevant": "It ties into simulation and modeling for defense systems, which is directly relevant to the profile's work."
-    },
     {
       "notice_id": "f68f2cd184fd4c7ca7d9b7acf20e4a48",
       "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA) Call 004",
@@ -34,32 +10,8 @@
       "posted_date": "2026-10-22",
       "response_deadline": "2026-11-13T13:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/f68f2cd184fd4c7ca7d9b7acf20e4a48/view",
-      "tldr": "This BAA focuses on research and development in space environment technologies.",
-      "why_relevant": "It aligns with the profile's interest in aerospace and space domain awareness."
-    },
-    {
-      "notice_id": "95ddd4d6489e4b558c56a3ef048cd93f",
-      "title": "Pioneering Aerospace Capabilities, Engineering and Research",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2391 USAF AFMC AFRL PZL AFRL RQKP",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-22",
-      "response_deadline": "2031-05-10T15:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/95ddd4d6489e4b558c56a3ef048cd93f/view",
-      "tldr": "This opportunity involves engineering and research to develop innovative aerospace capabilities.",
-      "why_relevant": "It directly relates to the profile's work in aerospace and simulation."
-    },
-    {
-      "notice_id": "b004b11229b94fb7a5e57754eb2213c6",
-      "title": "CBM+ SOFTWARE AND ANALYTICS DEVELOPMENT (CBM+)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.COMMANDING OFFICER",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-22",
-      "response_deadline": "2026-11-04T16:00:00-08:00",
-      "link": "https://sam.gov/workspace/contract/opp/b004b11229b94fb7a5e57754eb2213c6/view",
-      "tldr": "This project focuses on developing software and analytics for condition-based maintenance in naval systems.",
-      "why_relevant": "It involves software development, which aligns with the profile's hobby interests."
+      "tldr": "This opportunity involves research and development in space environment technologies, which could include modeling and simulation aspects relevant to aerospace applications.",
+      "why_relevant": "It aligns with the profile's interest in simulation and aerospace technologies, particularly in the context of the Air Force."
     },
     {
       "notice_id": "601d58c146344b2b9394b10a8280e2d1",
@@ -70,8 +22,44 @@
       "posted_date": "2026-10-22",
       "response_deadline": "2026-11-09T14:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/601d58c146344b2b9394b10a8280e2d1/view",
-      "tldr": "This opportunity focuses on developing electro-optical technologies for aircraft protection.",
-      "why_relevant": "It relates to defense technologies and simulation for aircraft systems."
+      "tldr": "This project focuses on developing advanced electro-optical technologies for aircraft protection, which may involve simulation for testing and evaluation.",
+      "why_relevant": "It connects to the profile's work with the Air Force and interest in advanced defense technologies."
+    },
+    {
+      "notice_id": "4ac170e0094b4345915e10d099d31980",
+      "title": "Common Autonomous Multi-Domain Launcher (CAML)-Lite Prototype Effort",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY ACQUISITION SUPPORT CENTER.RAPID CAPABILITIES CRITICAL TECH OFC.W6DV PEO M & S REDSTONE",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-23",
+      "response_deadline": "2026-10-26T07:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/4ac170e0094b4345915e10d099d31980/view",
+      "tldr": "This effort involves developing a prototype for an autonomous multi-domain launcher, potentially integrating simulation technologies.",
+      "why_relevant": "It relates to the profile's focus on modeling and simulation in defense applications."
+    },
+    {
+      "notice_id": "95ddd4d6489e4b558c56a3ef048cd93f",
+      "title": "Pioneering Aerospace Capabilities, Engineering and Research",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2391 USAF AFMC AFRL PZL AFRL RQKP",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-22",
+      "response_deadline": "2031-05-10T15:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/95ddd4d6489e4b558c56a3ef048cd93f/view",
+      "tldr": "This opportunity focuses on advancing aerospace engineering and research, which may include modeling and simulation components.",
+      "why_relevant": "It aligns with the profile's work at NASIC and interest in aerospace technologies."
+    },
+    {
+      "notice_id": "ac562838b2aa4aa78b50c5d81f71fb97",
+      "title": "Research, Development, Test & Evaluation (RDT&E) Support for the Center for Corrosion Science and Engineering (CCSE)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-10-23",
+      "response_deadline": "2026-11-06T13:30:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/ac562838b2aa4aa78b50c5d81f71fb97/view",
+      "tldr": "This contract involves RDT&E support, which could encompass simulation and modeling efforts in various engineering contexts.",
+      "why_relevant": "It connects to the profile's interest in modeling and simulation within defense engineering."
     },
     {
       "notice_id": "d38b2d6b42ec40acbe7996f20ba9f78b",
@@ -82,8 +70,32 @@
       "posted_date": "2026-10-21",
       "response_deadline": "2030-03-27T00:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/d38b2d6b42ec40acbe7996f20ba9f78b/view",
-      "tldr": "This announcement focuses on innovative approaches to missile defense systems.",
-      "why_relevant": "It connects to defense contracting and simulation work in missile systems."
+      "tldr": "This announcement focuses on innovative approaches for missile defense, which may involve simulation and modeling for layered defense strategies.",
+      "why_relevant": "It aligns with the profile's focus on defense technologies and simulation."
+    },
+    {
+      "notice_id": "f283042683b34747a3628eceda1951ee",
+      "title": "Atomically Precise Molecules (APM)",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-20",
+      "response_deadline": "2026-12-18T13:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/f283042683b34747a3628eceda1951ee/view",
+      "tldr": "This opportunity focuses on the development of atomically precise molecules, which could have applications in defense technologies.",
+      "why_relevant": "It connects to the profile's interest in advanced technologies and modeling in defense."
+    },
+    {
+      "notice_id": "12985dff05f34656997c285d647b722a",
+      "title": "RFI for Next Generation Hypersonic Cruise Missiles",
+      "agency": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-21",
+      "response_deadline": "2026-11-06T17:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/12985dff05f34656997c285d647b722a/view",
+      "tldr": "This RFI seeks innovative solutions for next-generation hypersonic cruise missiles, potentially involving simulation for design and testing.",
+      "why_relevant": "It aligns with the profile's focus on advanced defense technologies and simulation."
     },
     {
       "notice_id": "4b95b0da715b4a958f295cae7e54f6df",
@@ -94,8 +106,20 @@
       "posted_date": "2026-10-22",
       "response_deadline": "2026-11-13T16:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/4b95b0da715b4a958f295cae7e54f6df/view",
-      "tldr": "This call focuses on secure design principles for defense applications.",
-      "why_relevant": "It relates to the profile's work in defense systems and security."
+      "tldr": "This call focuses on secure design principles for defense applications, which may involve modeling and simulation techniques.",
+      "why_relevant": "It connects to the profile's interest in defense technologies and simulation."
+    },
+    {
+      "notice_id": "7b28c18c42cf4d44b6b65709148ec8e0",
+      "title": "FY 26 Broad Agency Announcement (BAA) - Federal Railroad Administration",
+      "agency": "TRANSPORTATION, DEPARTMENT OF.FEDERAL RAILROAD ADMINISTRATION",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-22",
+      "response_deadline": "2027-09-30T12:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/7b28c18c42cf4d44b6b65709148ec8e0/view",
+      "tldr": "This BAA seeks innovative solutions for transportation challenges, which may include modeling and simulation components.",
+      "why_relevant": "It aligns with the profile's interest in modeling and simulation, albeit in a different context."
     }
   ]
 }
