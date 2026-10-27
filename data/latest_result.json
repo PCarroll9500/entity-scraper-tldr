@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities primarily focused on modeling, simulation, and aerospace technologies, which align well with the profile's expertise in supporting the National Air and Space Intelligence Center. The opportunities range from space domain awareness to advanced research and development projects within the Department of Defense and NASA.",
+  "overall_tldr": "Today's batch includes various contract opportunities primarily focused on defense and aerospace, with a strong emphasis on modeling, simulation, and advanced technologies relevant to the Air Force and DoD. The selected job opportunities align well with the profile's expertise in RF signature analysis, digital engineering, and simulation work.",
   "job_recommendations": [
     {
       "notice_id": "1414fc3a5070490c8c53d15644386249",
@@ -10,20 +10,20 @@
       "posted_date": "2026-10-26",
       "response_deadline": "2030-01-23T12:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/1414fc3a5070490c8c53d15644386249/view",
-      "tldr": "This opportunity focuses on developing solutions for space domain awareness, which is critical for understanding and managing space operations.",
-      "why_relevant": "It directly relates to the profile's interest in space domain awareness and aligns with the work done at NASIC."
+      "tldr": "This opportunity seeks innovative solutions for Space Domain Awareness, which involves monitoring and understanding space activities.",
+      "why_relevant": "It directly relates to space domain awareness, a critical area for defense and intelligence, aligning with the profile's focus on advanced technologies."
     },
     {
-      "notice_id": "e881badfebab4f67ab7692a0a34f2344",
-      "title": "Timed Emitters Transmitting Highly Energized Radiation (TETHER)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "notice_id": "631463cc3e0c4501855f21c250ff3635",
+      "title": "Evaluations, Assessments, and Support Services (EASS)",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA LANGLEY RESEARCH CENTER",
       "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-23",
-      "response_deadline": "2026-11-09T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/e881badfebab4f67ab7692a0a34f2344/view",
-      "tldr": "This project involves the development of timed emitters that transmit highly energized radiation, potentially for defense applications.",
-      "why_relevant": "It connects to the profile's focus on advanced technologies relevant to defense and aerospace."
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-10-26",
+      "response_deadline": "2026-11-03T15:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/631463cc3e0c4501855f21c250ff3635/view",
+      "tldr": "This contract involves providing evaluations and assessments related to NASA projects, likely involving modeling and simulation.",
+      "why_relevant": "It connects to the profile's expertise in modeling and simulation, particularly in a NASA context."
     },
     {
       "notice_id": "f68f2cd184fd4c7ca7d9b7acf20e4a48",
@@ -34,8 +34,20 @@
       "posted_date": "2026-10-22",
       "response_deadline": "2026-11-13T13:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/f68f2cd184fd4c7ca7d9b7acf20e4a48/view",
-      "tldr": "This BAA focuses on technologies and scientific research related to space environments, which is vital for aerospace operations.",
-      "why_relevant": "It aligns with the profile's interests in aerospace and space technologies."
+      "tldr": "This BAA focuses on research and development in space environment technologies and science.",
+      "why_relevant": "It aligns with the profile's interest in advanced aerospace technologies and simulation."
+    },
+    {
+      "notice_id": "b004b11229b94fb7a5e57754eb2213c6",
+      "title": "CBM+ SOFTWARE AND ANALYTICS DEVELOPMENT (CBM+)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.COMMANDING OFFICER",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-22",
+      "response_deadline": "2026-11-04T16:00:00-08:00",
+      "link": "https://sam.gov/workspace/contract/opp/b004b11229b94fb7a5e57754eb2213c6/view",
+      "tldr": "This opportunity involves developing software and analytics for Condition-Based Maintenance Plus (CBM+), enhancing maintenance strategies.",
+      "why_relevant": "It connects to the profile's software interests and the application of analytics in defense settings."
     },
     {
       "notice_id": "601d58c146344b2b9394b10a8280e2d1",
@@ -46,20 +58,8 @@
       "posted_date": "2026-10-22",
       "response_deadline": "2026-11-09T14:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/601d58c146344b2b9394b10a8280e2d1/view",
-      "tldr": "This opportunity involves developing technologies for electro-optical protection systems for aircraft, enhancing their defensive capabilities.",
-      "why_relevant": "It relates to defense technologies and could tie into the profile's work in simulation and training."
-    },
-    {
-      "notice_id": "4b95b0da715b4a958f295cae7e54f6df",
-      "title": "STAR-FISH CALL 017 - Secure By Design",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.KIRTLAND AIR FORCE RESEARCH LABORATORY.AIR FORCE RESEARCH LABORATORY RVK.FA9453  AFRL RJZ",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-22",
-      "response_deadline": "2026-11-13T16:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/4b95b0da715b4a958f295cae7e54f6df/view",
-      "tldr": "This call focuses on secure design practices for defense applications, emphasizing cybersecurity and system integrity.",
-      "why_relevant": "It connects to the profile's interest in advanced technologies and digital engineering."
+      "tldr": "This contract focuses on developing technologies for aircraft protection against electro-optical threats.",
+      "why_relevant": "It relates to aerospace defense technologies, aligning with the profile's work in the Air Force."
     },
     {
       "notice_id": "95ddd4d6489e4b558c56a3ef048cd93f",
@@ -70,8 +70,8 @@
       "posted_date": "2026-10-22",
       "response_deadline": "2031-05-10T15:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/95ddd4d6489e4b558c56a3ef048cd93f/view",
-      "tldr": "This opportunity involves engineering and research aimed at developing pioneering capabilities in aerospace.",
-      "why_relevant": "It aligns with the profile's focus on aerospace and modeling/simulation."
+      "tldr": "This opportunity involves engineering and research to develop pioneering aerospace capabilities.",
+      "why_relevant": "It aligns with the profile's focus on advancing aerospace technologies and modeling."
     },
     {
       "notice_id": "4ac170e0094b4345915e10d099d31980",
@@ -82,20 +82,8 @@
       "posted_date": "2026-10-23",
       "response_deadline": "2026-10-26T07:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/4ac170e0094b4345915e10d099d31980/view",
-      "tldr": "This project focuses on developing a prototype for an autonomous multi-domain launcher, enhancing military capabilities.",
-      "why_relevant": "It relates to defense technologies and could involve modeling and simulation aspects."
-    },
-    {
-      "notice_id": "8d7817dfc40746ab85db15051bf33e04",
-      "title": "BAA DEVCOM AC Emerging Technologies",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RI.W6QK ACC-RI-PICATINNY",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-22",
-      "response_deadline": "2031-03-04T10:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/8d7817dfc40746ab85db15051bf33e04/view",
-      "tldr": "This BAA focuses on emerging technologies within the Army, aiming to foster innovation and advanced capabilities.",
-      "why_relevant": "It aligns with the profile's interest in cutting-edge technologies and defense applications."
+      "tldr": "This contract is for the development of a prototype for an autonomous multi-domain launcher.",
+      "why_relevant": "It connects to the profile's interest in modeling and simulation within defense technologies."
     },
     {
       "notice_id": "d38b2d6b42ec40acbe7996f20ba9f78b",
@@ -106,8 +94,20 @@
       "posted_date": "2026-10-21",
       "response_deadline": "2030-03-27T00:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/d38b2d6b42ec40acbe7996f20ba9f78b/view",
-      "tldr": "This announcement focuses on options for acquiring layered missile defense capabilities, enhancing national security.",
-      "why_relevant": "It relates to defense technologies and could involve simulation and modeling aspects relevant to the profile."
+      "tldr": "This announcement seeks innovative approaches for missile defense capabilities.",
+      "why_relevant": "It relates to defense technologies and simulation, relevant to the profile's work in aerospace."
+    },
+    {
+      "notice_id": "8f0da0e3ec8d4203b52f255ea48c7a53",
+      "title": "Call 03 M-DASH - Joint All Domain Persistent Adaptive Collaborative Technologies II (JADPACT II)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA2384 USAF AFMC AFRL PZL AFRL RAKH",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-10-20",
+      "response_deadline": "2026-10-21T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/8f0da0e3ec8d4203b52f255ea48c7a53/view",
+      "tldr": "This opportunity focuses on developing collaborative technologies for joint all-domain operations.",
+      "why_relevant": "It aligns with the profile's interest in advanced technologies and simulation for defense."
     }
   ]
 }
