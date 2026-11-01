@@ -3295,62 +3295,6 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2026-12-31",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Special Notice",
-      "classificationCode": "AC32",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=70b00eb1afc14b9f9a735b79906a8a94",
-      "fullParentPathCode": "057.5700.AFMC.AFIMSC-AFICC.FA8075",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8075  774 ESS",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=70b00eb1afc14b9f9a735b79906a8a94&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "70b00eb1afc14b9f9a735b79906a8a94",
-      "officeAddress": {
-        "zipcode": "68113-2108",
-        "city": "OFFUTT AFB",
-        "countryCode": "USA",
-        "state": "NE"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {},
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "55cons.pkc.iacmac@us.af.mil",
-          "phone": "",
-          "fullName": "Rebecca Robeson"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "55cons.pkc.iacmac@us.af.mil",
-          "phone": "",
-          "fullName": "Kelly Lybolt"
-        }
-      ],
-      "postedDate": "2026-10-24",
-      "resourceLinks": null,
-      "responseDeadLine": null,
-      "solicitationNumber": "FA807527R0001-NextGen_IACMAC_Industry_Day",
-      "title": "NextGen IACMAC Industry Day",
-      "type": "Special Notice",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/70b00eb1afc14b9f9a735b79906a8a94/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
       "archiveDate": "2026-11-25",
       "archiveType": "auto15",
       "award": null,
@@ -6106,6 +6050,77 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/b38097aba6b64a159b4ea64cefc288ff/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-19",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6c474305bc924f1d8590c863af5d4ddf",
+      "fullParentPathCode": "089.8900.899033",
+      "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.BROOKHAVEN NATL LAB -DOE CONTRACTOR",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=6c474305bc924f1d8590c863af5d4ddf&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "6c474305bc924f1d8590c863af5d4ddf",
+      "officeAddress": {
+        "zipcode": "11973",
+        "city": "Upton",
+        "countryCode": "USA",
+        "state": "NY"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "76441",
+          "name": "Upton"
+        },
+        "state": {
+          "code": "NY",
+          "name": "New York"
+        },
+        "zip": "11973",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "enagel@bnl.gov",
+          "phone": "",
+          "fullName": "Eric Nagel"
+        }
+      ],
+      "postedDate": "2026-11-01",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0de5f8e4e05f4280b78286a878bed941/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/41217ca82659482d8e33f13353b6f37e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6460f27597804836a66edf6cf67a1f52/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7187033ed00840f5b001bc08dcf93f77/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/725b79ce0f124cc69b5a6aaa7a091db8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bc7295242a1a409ca4c456155f45cebf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dbc54c2e3e9a4d1ea851521d83545397/download"
+      ],
+      "responseDeadLine": "2026-12-04T17:00:00-05:00",
+      "solicitationNumber": "RFQ_481463",
+      "title": "A-E Cost Estimation Services",
+      "type": "Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/6c474305bc924f1d8590c863af5d4ddf/view"
     },
     {
       "active": "Yes",
