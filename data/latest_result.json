@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes several contract opportunities focused on modeling, simulation, and aerospace technologies, particularly relevant to the defense sector. The listings emphasize areas like RF signature analysis, C4ISR, and advanced simulation environments, aligning well with the engineer's expertise and interests.",
+  "overall_tldr": "Today's batch includes a variety of job opportunities primarily focused on modeling, simulation, and aerospace-related work, aligning well with the profile's expertise in supporting the National Air and Space Intelligence Center. The opportunities range from RF signature analysis to advanced research projects in space and defense.",
   "job_recommendations": [
     {
       "notice_id": "5cc2aa5e28f543b39102b132921f560b",
@@ -10,20 +10,44 @@
       "posted_date": "2026-11-02",
       "response_deadline": "2026-11-12T16:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/5cc2aa5e28f543b39102b132921f560b/view",
-      "tldr": "This opportunity involves modeling and simulation for cost assessment and program evaluation in defense projects.",
-      "why_relevant": "It directly relates to the engineer's work in modeling and simulation, particularly in a defense context."
+      "tldr": "This opportunity involves modeling and simulation related to cost assessment and program evaluation for operational systems.",
+      "why_relevant": "It directly aligns with the profile's interest in modeling and simulation within defense contexts."
     },
     {
-      "notice_id": "06573dc78319428aa158abd1f1b17dd9",
-      "title": "Mathematical Algorithm Development and Computational Analysis in Support of MDA Flight Test Support",
-      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "notice_id": "2d1f4a7291ec432aac7c447106170ba0",
+      "title": "ARTIFICIAL INTELLIGENCE AND NEXT GENERATION DISTRIBUTED COMMAND AND CONTROL",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.FA8750  AFRL RIK",
       "naics": "541715",
       "set_aside": null,
+      "posted_date": "2026-10-29",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/2d1f4a7291ec432aac7c447106170ba0/view",
+      "tldr": "This project focuses on developing AI and distributed command and control systems for military applications.",
+      "why_relevant": "The emphasis on cutting-edge technology in defense aligns with the profile's work in simulation and digital engineering."
+    },
+    {
+      "notice_id": "e60833558b9a4ed9950a8449460f8140",
+      "title": "Space Communications and Networking (SCaN) & Tracking and Data Relay Satellite System (TDRS) Support",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MARSHALL SPACE FLIGHT CENTER",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
       "posted_date": "2026-11-02",
-      "response_deadline": "2026-11-17T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/06573dc78319428aa158abd1f1b17dd9/view",
-      "tldr": "This contract focuses on developing algorithms and conducting computational analysis to support missile defense flight tests.",
-      "why_relevant": "It aligns with the engineer's expertise in modeling and simulation, especially in defense applications."
+      "response_deadline": "2026-11-05T15:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/e60833558b9a4ed9950a8449460f8140/view",
+      "tldr": "This opportunity involves providing support for NASA's satellite communications and tracking systems.",
+      "why_relevant": "It connects to the profile's interests in aerospace and defense technologies."
+    },
+    {
+      "notice_id": "b1098c5b170b46238b91606b50e3955f",
+      "title": "Tactical Resupply Unmanned Aircraft System Increment II Cargo UAS Industry Demonstration",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC AD.NAVAL AIR WARFARE CENTER AIR DIV",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-11-02",
+      "response_deadline": "2026-11-30T23:59:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/b1098c5b170b46238b91606b50e3955f/view",
+      "tldr": "This project focuses on demonstrating the capabilities of unmanned aircraft systems for tactical resupply.",
+      "why_relevant": "It relates to the profile's interest in advanced technologies for military applications."
     },
     {
       "notice_id": "dcfc9ac5164d4ca588977708b455e142",
@@ -34,56 +58,8 @@
       "posted_date": "2026-10-30",
       "response_deadline": "2026-11-14T13:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/dcfc9ac5164d4ca588977708b455e142/view",
-      "tldr": "This opportunity seeks input on technology integration for complex electronic systems in defense.",
-      "why_relevant": "It relates to the integration of systems, which is crucial in modeling and simulation work."
-    },
-    {
-      "notice_id": "1b5bdaa1233b45f193f382738a80c75a",
-      "title": "URGENT-BP-1 Lunar Regolith simulant Compressibility Testing",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-10-30",
-      "response_deadline": "2026-11-04T07:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/1b5bdaa1233b45f193f382738a80c75a/view",
-      "tldr": "This contract involves testing the compressibility of lunar regolith simulants for space applications.",
-      "why_relevant": "It connects to aerospace interests and simulation of extraterrestrial environments."
-    },
-    {
-      "notice_id": "29410b5f271d466a9fd9219e8c4b8924",
-      "title": "HelioSwarm Medium-Class Explorers Mission Contract",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA AMES RESEARCH CENTER",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-11-02",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/29410b5f271d466a9fd9219e8c4b8924/view",
-      "tldr": "This opportunity is for a mission contract related to medium-class explorers in space research.",
-      "why_relevant": "It aligns with interests in aerospace and simulation for scientific exploration."
-    },
-    {
-      "notice_id": "3c77bdbdd8c04d20a0ad2c5cea888f0a",
-      "title": "Request for Information: Multi-Source PNT UE",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.KIRTLAND AIR FORCE RESEARCH LABORATORY.AIR FORCE RESEARCH LABORATORY RVK.FA9453  AFRL RJZ",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-29",
-      "response_deadline": "2026-11-16T14:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/3c77bdbdd8c04d20a0ad2c5cea888f0a/view",
-      "tldr": "This RFI seeks information on multi-source positioning, navigation, and timing solutions.",
-      "why_relevant": "It relates to simulation and navigation technologies relevant to defense operations."
-    },
-    {
-      "notice_id": "161c1cece72942558ae428ce0f729dee",
-      "title": "Space Communications and Networking (SCaN) & Tracking and Data Relay Satellite System (TDRS) Support",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MARSHALL SPACE FLIGHT CENTER",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-10-29",
-      "response_deadline": "2026-11-05T15:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/161c1cece72942558ae428ce0f729dee/view",
-      "tldr": "This opportunity involves support for satellite communications and tracking systems.",
-      "why_relevant": "It connects to aerospace interests and the simulation of communication systems."
+      "tldr": "This opportunity seeks input for a toolchain to integrate various electronic systems in defense applications.",
+      "why_relevant": "It aligns with the profile's focus on digital engineering and system integration."
     },
     {
       "notice_id": "f21578a3a8d94d708235212aeb78041b",
@@ -94,20 +70,44 @@
       "posted_date": "2026-10-28",
       "response_deadline": "2026-11-06T16:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/f21578a3a8d94d708235212aeb78041b/view",
-      "tldr": "This contract focuses on developing prototypes for electronic systems used in space applications.",
-      "why_relevant": "It aligns with interests in aerospace technology and electronic systems."
+      "tldr": "This project involves developing prototypes for electronic systems used in space applications.",
+      "why_relevant": "It connects with the profile's interest in aerospace technologies and simulation."
     },
     {
-      "notice_id": "3b8c3c3c3a2640a6a0d8992a6a36f523",
-      "title": "Electric Modernization Upgrade",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR NAWC WD.NAVAL AIR WARFARE CENTER",
+      "notice_id": "1b4130e995bb498692a73fd1e993562e",
+      "title": "NextGen IACMAC Industry Day - VIRTUAL",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8075  774 ESS",
       "naics": "541715",
       "set_aside": null,
+      "posted_date": "2026-11-02",
+      "response_deadline": "2026-11-03T15:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/1b4130e995bb498692a73fd1e993562e/view",
+      "tldr": "This virtual industry day focuses on the next generation of integrated air command and control systems.",
+      "why_relevant": "It aligns with the profile's work in C4ISR analysis and simulation."
+    },
+    {
+      "notice_id": "f428c34833c14fa1adeff18ddbe6b567",
+      "title": "Space Power and Reactor Capabilities (SPARC) - Presolicitation Synopsis",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
       "posted_date": "2026-10-28",
-      "response_deadline": "2026-12-01T16:00:00-08:00",
-      "link": "https://sam.gov/workspace/contract/opp/3b8c3c3c3a2640a6a0d8992a6a36f523/view",
-      "tldr": "This opportunity involves upgrading electrical systems for naval aviation applications.",
-      "why_relevant": "It connects to the engineer's hobby interests in electrical work and modernization projects."
+      "response_deadline": "2026-11-20T17:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/f428c34833c14fa1adeff18ddbe6b567/view",
+      "tldr": "This presolicitation focuses on developing capabilities for space power and reactor systems.",
+      "why_relevant": "It relates to the profile's interests in aerospace and defense technologies."
+    },
+    {
+      "notice_id": "65e65030976540fb89838cb0d6b1bae4",
+      "title": "Space Environment Technologies and Science (SETS) Broad Agency Announcement (BAA) Call 004",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.KIRTLAND AIR FORCE RESEARCH LABORATORY.AIR FORCE RESEARCH LABORATORY RVK.FA9453  AFRL RJZ",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-10-29",
+      "response_deadline": "2026-11-13T13:00:00-07:00",
+      "link": "https://sam.gov/workspace/contract/opp/65e65030976540fb89838cb0d6b1bae4/view",
+      "tldr": "This BAA seeks proposals for technologies and science related to space environments.",
+      "why_relevant": "It connects with the profile's work in aerospace and simulation."
     }
   ]
 }
