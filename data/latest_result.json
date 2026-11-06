@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes various contract opportunities primarily focused on modeling, simulation, and advanced technology development for the Department of Defense and NASA. Many listings align closely with the profile's interests in RF signature analysis, synthetic environments, and digital engineering.",
+  "overall_tldr": "Today's batch includes a variety of job opportunities focused on modeling, simulation, and defense-related projects, particularly in areas relevant to the National Air and Space Intelligence Center. These roles involve advanced technologies and methodologies that align well with the profile's expertise and interests.",
   "job_recommendations": [
     {
       "notice_id": "6904c2b120a946afaff042c43cd24a9c",
@@ -10,44 +10,8 @@
       "posted_date": "2026-11-05",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/6904c2b120a946afaff042c43cd24a9c/view",
-      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for realistic military training simulations.",
-      "why_relevant": "It directly relates to the profile's interest in modeling and simulation for military training."
-    },
-    {
-      "notice_id": "0d9a250d26194e40af729f2efe5d06c2",
-      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-11-05",
-      "response_deadline": "2026-11-23T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/0d9a250d26194e40af729f2efe5d06c2/view",
-      "tldr": "This RFP focuses on developing ground entry points for missile warning tracking systems in low Earth orbit.",
-      "why_relevant": "It aligns with the profile's focus on advanced defense technologies and space domain awareness."
-    },
-    {
-      "notice_id": "d788abbdb3e74c17b290187c2f6aa587",
-      "title": "Mission System R and D Support for Blossom Point Tracking Facility (BPTF)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-11-04",
-      "response_deadline": "2026-12-19T17:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/d788abbdb3e74c17b290187c2f6aa587/view",
-      "tldr": "This opportunity involves research and development support for mission systems at a tracking facility.",
-      "why_relevant": "It connects to the profile's work in simulation and tracking systems."
-    },
-    {
-      "notice_id": "be2bb813722c4b30a293e22f63c4bf63",
-      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Partial",
-      "posted_date": "2026-11-03",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/be2bb813722c4b30a293e22f63c4bf63/view",
-      "tldr": "This IDIQ contract involves supporting the Air Force's battle network systems.",
-      "why_relevant": "It relates to the profile's interest in C4ISR analysis and network systems."
+      "tldr": "This opportunity focuses on developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
+      "why_relevant": "It directly relates to your interest in modeling and simulation, particularly within military training contexts."
     },
     {
       "notice_id": "5cc2aa5e28f543b39102b132921f560b",
@@ -58,20 +22,20 @@
       "posted_date": "2026-11-02",
       "response_deadline": "2026-11-12T16:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/5cc2aa5e28f543b39102b132921f560b/view",
-      "tldr": "This opportunity focuses on modeling and simulation for cost assessment and program evaluation in operational environments.",
-      "why_relevant": "It ties directly into the profile's interest in modeling and simulation."
+      "tldr": "This opportunity involves modeling and simulation for cost assessment and program evaluation related to operational warfare.",
+      "why_relevant": "It aligns with your expertise in modeling and simulation, particularly in a defense context."
     },
     {
-      "notice_id": "3490129a988747bc9572b76a8f4e6093",
-      "title": "HERMES BAA CALL: Rotating Detonation Rocket Engine-Combined Cycle (RDRE-CC) Flight Demonstration",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA9300  AFTC PZR",
+      "notice_id": "b7b5936f0f0842ff9f649aa1620a304c",
+      "title": "Strategic Environmental Research and Development Program Core Broad Agency Announcement",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
       "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-11-03",
-      "response_deadline": "2026-11-16T16:00:00-08:00",
-      "link": "https://sam.gov/workspace/contract/opp/3490129a988747bc9572b76a8f4e6093/view",
-      "tldr": "This BAA call is for a flight demonstration of a new rocket engine technology.",
-      "why_relevant": "It connects to the profile's interest in advanced aerospace technologies."
+      "set_aside": null,
+      "posted_date": "2026-11-05",
+      "response_deadline": "2027-01-07T14:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/b7b5936f0f0842ff9f649aa1620a304c/view",
+      "tldr": "This announcement is for research and development in environmental strategies, which may include modeling aspects.",
+      "why_relevant": "It could involve modeling and simulation elements relevant to environmental considerations in defense."
     },
     {
       "notice_id": "741558d2ca05412bbd3819257b071c59",
@@ -82,32 +46,68 @@
       "posted_date": "2026-11-05",
       "response_deadline": "2027-03-11T14:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/741558d2ca05412bbd3819257b071c59/view",
-      "tldr": "This broad agency announcement focuses on exploratory development in environmental research.",
-      "why_relevant": "While not directly aligned, it involves advanced research methodologies that could intersect with simulation."
+      "tldr": "This is a broad agency announcement for exploratory development in environmental research, potentially involving simulation work.",
+      "why_relevant": "It may include simulation aspects that align with your engineering background."
     },
     {
-      "notice_id": "f15db9c9835a4308bccbb3b8e129244b",
-      "title": "EmbraceHEALTH Clinical Research Network (EmbraceHEALTH CRN)",
-      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NICHD",
+      "notice_id": "d788abbdb3e74c17b290187c2f6aa587",
+      "title": "Mission System R and D Support for Blossom Point Tracking Facility (BPTF)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-11-04",
+      "response_deadline": "2026-12-19T17:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/d788abbdb3e74c17b290187c2f6aa587/view",
+      "tldr": "This opportunity involves R&D support for mission systems at a tracking facility, likely involving simulation technologies.",
+      "why_relevant": "It connects to your work in modeling and simulation, particularly in defense applications."
+    },
+    {
+      "notice_id": "5222fdba0f4d454ca718a65761944620",
+      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-11-06",
+      "response_deadline": "2026-11-23T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/5222fdba0f4d454ca718a65761944620/view",
+      "tldr": "This RFP focuses on developing resilient tracking systems for missile warnings in low Earth orbit.",
+      "why_relevant": "It relates to your interests in defense and simulation technologies, particularly in tracking and analysis."
+    },
+    {
+      "notice_id": "ef82a316de73436a88f719f82fef7ef8",
+      "title": "Justification for Other than Full and Open Competition: HelioSwarm Medium-Class Explorers Mission (Contract 80ARC027C0002)",
+      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA AMES RESEARCH CENTER",
       "naics": "541715",
       "set_aside": null,
       "posted_date": "2026-11-04",
-      "response_deadline": "2026-11-19T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/f15db9c9835a4308bccbb3b8e129244b/view",
-      "tldr": "This opportunity involves supporting a clinical research network focused on health interventions.",
-      "why_relevant": "It may not directly relate to defense, but the research methodologies could be of interest."
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/ef82a316de73436a88f719f82fef7ef8/view",
+      "tldr": "This contract involves the HelioSwarm mission, focusing on medium-class explorers for solar system research.",
+      "why_relevant": "It ties into your interest in advanced technologies and modeling in space-related projects."
     },
     {
-      "notice_id": "9cce6df64dc9414cad2cff2c848861d6",
-      "title": "Support design and structural analysis for Hiwrap, MBARS, CRS and COSSIR instruments on the NASA WB57 aircraft",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+      "notice_id": "be2bb813722c4b30a293e22f63c4bf63",
+      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Partial",
+      "posted_date": "2026-11-03",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/be2bb813722c4b30a293e22f63c4bf63/view",
+      "tldr": "This opportunity involves a multiple award contract for the Air Force's Battle Network, focusing on advanced technologies.",
+      "why_relevant": "It relates to your work in defense and interest in advanced systems and simulations."
+    },
+    {
+      "notice_id": "06573dc78319428aa158abd1f1b17dd9",
+      "title": "Mathematical Algorithm Development and Computational Analysis in Support of MDA Flight Test Support",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-11-04",
-      "response_deadline": "2026-11-09T12:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/9cce6df64dc9414cad2cff2c848861d6/view",
-      "tldr": "This opportunity involves design and structural analysis for instruments on a NASA aircraft.",
-      "why_relevant": "It connects to aerospace engineering and simulation interests."
+      "posted_date": "2026-11-02",
+      "response_deadline": "2026-11-17T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/06573dc78319428aa158abd1f1b17dd9/view",
+      "tldr": "This opportunity focuses on developing algorithms and performing computational analysis for flight test support.",
+      "why_relevant": "It connects to your expertise in modeling and simulation, particularly in defense applications."
     }
   ]
 }
