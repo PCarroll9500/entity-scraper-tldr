@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes a variety of job opportunities focused on modeling, simulation, and defense-related projects, particularly in areas relevant to the National Air and Space Intelligence Center. These roles involve advanced technologies and methodologies that align well with the profile's expertise and interests.",
+  "overall_tldr": "Today's batch includes various job opportunities focused on modeling, simulation, and defense-related projects, particularly in areas relevant to the National Air and Space Intelligence Center. The opportunities range from software development to support services for military training and simulation environments.",
   "job_recommendations": [
     {
       "notice_id": "6904c2b120a946afaff042c43cd24a9c",
@@ -10,56 +10,8 @@
       "posted_date": "2026-11-05",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/6904c2b120a946afaff042c43cd24a9c/view",
-      "tldr": "This opportunity focuses on developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "It directly relates to your interest in modeling and simulation, particularly within military training contexts."
-    },
-    {
-      "notice_id": "5cc2aa5e28f543b39102b132921f560b",
-      "title": "Area of Interest: OSW Cost Assessment and Program Evaluation (CAPE) Modeling and Simulation",
-      "agency": "DEPT OF DEFENSE.WASHINGTON HEADQUARTERS SERVICES (WHS).WASHINGTON HEADQUARTERS SERVICES",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-11-02",
-      "response_deadline": "2026-11-12T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/5cc2aa5e28f543b39102b132921f560b/view",
-      "tldr": "This opportunity involves modeling and simulation for cost assessment and program evaluation related to operational warfare.",
-      "why_relevant": "It aligns with your expertise in modeling and simulation, particularly in a defense context."
-    },
-    {
-      "notice_id": "b7b5936f0f0842ff9f649aa1620a304c",
-      "title": "Strategic Environmental Research and Development Program Core Broad Agency Announcement",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-11-05",
-      "response_deadline": "2027-01-07T14:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/b7b5936f0f0842ff9f649aa1620a304c/view",
-      "tldr": "This announcement is for research and development in environmental strategies, which may include modeling aspects.",
-      "why_relevant": "It could involve modeling and simulation elements relevant to environmental considerations in defense."
-    },
-    {
-      "notice_id": "741558d2ca05412bbd3819257b071c59",
-      "title": "Strategic Environmental Research and Development Program (SERDP) Exploratory Development (SEED) Broad Agency Announcement",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-11-05",
-      "response_deadline": "2027-03-11T14:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/741558d2ca05412bbd3819257b071c59/view",
-      "tldr": "This is a broad agency announcement for exploratory development in environmental research, potentially involving simulation work.",
-      "why_relevant": "It may include simulation aspects that align with your engineering background."
-    },
-    {
-      "notice_id": "d788abbdb3e74c17b290187c2f6aa587",
-      "title": "Mission System R and D Support for Blossom Point Tracking Facility (BPTF)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-11-04",
-      "response_deadline": "2026-12-19T17:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/d788abbdb3e74c17b290187c2f6aa587/view",
-      "tldr": "This opportunity involves R&D support for mission systems at a tracking facility, likely involving simulation technologies.",
-      "why_relevant": "It connects to your work in modeling and simulation, particularly in defense applications."
+      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
+      "why_relevant": "It directly aligns with your interest in modeling and simulation for military training."
     },
     {
       "notice_id": "5222fdba0f4d454ca718a65761944620",
@@ -70,32 +22,68 @@
       "posted_date": "2026-11-06",
       "response_deadline": "2026-11-23T16:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/5222fdba0f4d454ca718a65761944620/view",
-      "tldr": "This RFP focuses on developing resilient tracking systems for missile warnings in low Earth orbit.",
-      "why_relevant": "It relates to your interests in defense and simulation technologies, particularly in tracking and analysis."
+      "tldr": "This RFP focuses on developing ground entry points for missile warning systems in low Earth orbit.",
+      "why_relevant": "It relates to your work in defense and aerospace, particularly in tracking and simulation."
     },
     {
-      "notice_id": "ef82a316de73436a88f719f82fef7ef8",
-      "title": "Justification for Other than Full and Open Competition: HelioSwarm Medium-Class Explorers Mission (Contract 80ARC027C0002)",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA AMES RESEARCH CENTER",
+      "notice_id": "e586fbdd7d544f25a123d9c4288b74d0",
+      "title": "ERDC Watercraft and Ship Simulator Support Services Multiple Award Task Order Contract",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER RESEARCH AND DEVELOPMENT CENTER.W2R2 USA ENGR R & D CTR",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-11-04",
-      "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/ef82a316de73436a88f719f82fef7ef8/view",
-      "tldr": "This contract involves the HelioSwarm mission, focusing on medium-class explorers for solar system research.",
-      "why_relevant": "It ties into your interest in advanced technologies and modeling in space-related projects."
+      "posted_date": "2026-11-06",
+      "response_deadline": "2026-12-08T14:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/e586fbdd7d544f25a123d9c4288b74d0/view",
+      "tldr": "This contract involves providing support services for watercraft and ship simulators used in military training.",
+      "why_relevant": "It aligns with your interest in simulation and training environments."
     },
     {
-      "notice_id": "be2bb813722c4b30a293e22f63c4bf63",
-      "title": "DAF Battle Network \"Megatron\" MAC IDIQ",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE LIFE CYCLE MANAGEMENT CENTER.CYBER AND NETWORKS.FA8612  AFLCMC C3BM C3",
+      "notice_id": "5f47885d10ed494bb87d771fd4e4aaab",
+      "title": "SBX Development, Operations and Sustainment, Justification for Exception to Fair Opportunity",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
       "naics": "541715",
-      "set_aside": "Small Business Set Aside - Partial",
-      "posted_date": "2026-11-03",
+      "set_aside": null,
+      "posted_date": "2026-11-06",
       "response_deadline": null,
-      "link": "https://sam.gov/workspace/contract/opp/be2bb813722c4b30a293e22f63c4bf63/view",
-      "tldr": "This opportunity involves a multiple award contract for the Air Force's Battle Network, focusing on advanced technologies.",
-      "why_relevant": "It relates to your work in defense and interest in advanced systems and simulations."
+      "link": "https://sam.gov/workspace/contract/opp/5f47885d10ed494bb87d771fd4e4aaab/view",
+      "tldr": "This opportunity focuses on the development and sustainment of the SBX radar system used for missile defense.",
+      "why_relevant": "It is relevant to your work in defense technology and simulation."
+    },
+    {
+      "notice_id": "b7b5936f0f0842ff9f649aa1620a304c",
+      "title": "Strategic Environmental Research and Development Program Core Broad Agency Announcement",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-11-05",
+      "response_deadline": "2027-01-07T14:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/b7b5936f0f0842ff9f649aa1620a304c/view",
+      "tldr": "This broad agency announcement seeks proposals for research and development in environmental technologies.",
+      "why_relevant": "It connects to your interest in innovative technologies within defense."
+    },
+    {
+      "notice_id": "741558d2ca05412bbd3819257b071c59",
+      "title": "Strategic Environmental Research and Development Program (SERDP) Exploratory Development (SEED) Broad Agency Announcement",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-11-05",
+      "response_deadline": "2027-03-11T14:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/741558d2ca05412bbd3819257b071c59/view",
+      "tldr": "This announcement invites proposals for exploratory development in environmental research and technology.",
+      "why_relevant": "It is relevant to your interest in research and development within defense."
+    },
+    {
+      "notice_id": "d788abbdb3e74c17b290187c2f6aa587",
+      "title": "Mission System R and D Support for Blossom Point Tracking Facility (BPTF)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-11-04",
+      "response_deadline": "2026-12-19T17:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/d788abbdb3e74c17b290187c2f6aa587/view",
+      "tldr": "This opportunity involves R&D support for tracking systems used in military operations.",
+      "why_relevant": "It ties into your work with simulation and tracking technologies."
     },
     {
       "notice_id": "06573dc78319428aa158abd1f1b17dd9",
@@ -106,8 +94,20 @@
       "posted_date": "2026-11-02",
       "response_deadline": "2026-11-17T16:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/06573dc78319428aa158abd1f1b17dd9/view",
-      "tldr": "This opportunity focuses on developing algorithms and performing computational analysis for flight test support.",
-      "why_relevant": "It connects to your expertise in modeling and simulation, particularly in defense applications."
+      "tldr": "This opportunity focuses on developing algorithms and performing computational analysis for missile defense flight tests.",
+      "why_relevant": "It is relevant to your expertise in modeling and simulation for defense applications."
+    },
+    {
+      "notice_id": "5cc2aa5e28f543b39102b132921f560b",
+      "title": "Area of Interest: OSW Cost Assessment and Program Evaluation (CAPE) Modeling and Simulation",
+      "agency": "DEPT OF DEFENSE.WASHINGTON HEADQUARTERS SERVICES (WHS).WASHINGTON HEADQUARTERS SERVICES",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-11-02",
+      "response_deadline": "2026-11-12T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/5cc2aa5e28f543b39102b132921f560b/view",
+      "tldr": "This opportunity involves modeling and simulation for cost assessment and program evaluation in defense operations.",
+      "why_relevant": "It aligns with your focus on modeling and simulation in military contexts."
     }
   ]
 }
