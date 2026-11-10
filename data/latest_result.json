@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes a variety of contract opportunities focused on modeling, simulation, and advanced technologies relevant to defense and aerospace. Many of these listings align well with the profile's interests in simulation and training work, particularly within the Air Force and DoD sectors.",
+  "overall_tldr": "Today's batch includes a variety of job opportunities that align closely with modeling and simulation, digital engineering, and defense-related projects, particularly in the aerospace sector. The focus is on roles that support the Air Force and DoD initiatives, which are directly relevant to the engineer's current work at NASIC.",
   "job_recommendations": [
     {
       "notice_id": "6904c2b120a946afaff042c43cd24a9c",
@@ -10,56 +10,32 @@
       "posted_date": "2026-11-05",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/6904c2b120a946afaff042c43cd24a9c/view",
-      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, which is crucial for military training simulations.",
-      "why_relevant": "It directly relates to the profile's interest in simulation and training work for the Air Force."
+      "tldr": "This opportunity focuses on developing virtual software for synthetic training environments, which is crucial for military training and simulation.",
+      "why_relevant": "It aligns directly with the engineer's interest in modeling and simulation for training purposes."
     },
     {
-      "notice_id": "688853e8eb8d48f2857347e9faa2b586",
-      "title": "HERMES BAA CALL: Rotating Detonation Rocket Engine-Combined Cycle (RDRE-CC) Flight Demonstration",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA9300  AFTC PZR",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-11-09",
-      "response_deadline": "2026-11-16T16:00:00-08:00",
-      "link": "https://sam.gov/workspace/contract/opp/688853e8eb8d48f2857347e9faa2b586/view",
-      "tldr": "This project focuses on demonstrating advanced rocket engine technology, which is vital for aerospace applications.",
-      "why_relevant": "It aligns with the profile's aerospace and defense interests, particularly in innovative technology."
-    },
-    {
-      "notice_id": "8805cdf64a444d6ca47722bf8f6ee05f",
-      "title": "Helmet-Mounted First-Person View Display System",
-      "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).HQ USSOCOM",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-11-09",
-      "response_deadline": "2026-12-01T15:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/8805cdf64a444d6ca47722bf8f6ee05f/view",
-      "tldr": "This opportunity involves developing a helmet-mounted display system for enhanced situational awareness in military operations.",
-      "why_relevant": "It connects to the profile's focus on advanced technologies and simulation in defense."
-    },
-    {
-      "notice_id": "74bf4d7796b144ad83d15c214c1c21f2",
-      "title": "Airlift Efficiency Commercial Solutions Opening (CSO) - Amendment 01",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR MOBILITY COMMAND.FA4452  763 ESS",
+      "notice_id": "d83e6b1db4004d0c9f3d7be92aa9ea1f",
+      "title": "Area of Interest: OSW Cost Assessment and Program Evaluation (CAPE) Modeling and Simulation",
+      "agency": "DEPT OF DEFENSE.WASHINGTON HEADQUARTERS SERVICES (WHS).WASHINGTON HEADQUARTERS SERVICES",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-11-09",
-      "response_deadline": "2028-02-26T14:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/74bf4d7796b144ad83d15c214c1c21f2/view",
-      "tldr": "This project seeks solutions to improve airlift efficiency, which is critical for military logistics.",
-      "why_relevant": "It ties into the profile's interest in Air Force operations and logistics."
+      "posted_date": "2026-11-10",
+      "response_deadline": "2026-11-16T16:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/d83e6b1db4004d0c9f3d7be92aa9ea1f/view",
+      "tldr": "This contract involves modeling and simulation for cost assessment and program evaluation related to operational systems.",
+      "why_relevant": "It directly relates to the engineer's expertise in modeling and simulation within defense contexts."
     },
     {
-      "notice_id": "1faede0fe1cb4578b1a344b900718abd",
-      "title": "Polar Rover for Observation, Mapping, and In-Situ Exploration (PROMISE) Mission",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA MARSHALL SPACE FLIGHT CENTER",
+      "notice_id": "a62a1dca4c8b4258abc83f100b24c322",
+      "title": "Space Data Network (SDN) Industry Consortium for Space-to-Space Communications",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO SPACE DOMAIN AWARENESS ANDCOMBAT POWER.FA8819 SDA AND COMBAT POWER SZK-LA",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-11-09",
-      "response_deadline": "2026-11-24T17:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/1faede0fe1cb4578b1a344b900718abd/view",
-      "tldr": "This mission involves developing a rover for exploration and mapping in polar regions.",
-      "why_relevant": "It showcases advanced technology and engineering relevant to aerospace exploration."
+      "posted_date": "2026-11-10",
+      "response_deadline": "2026-11-23T17:00:00-08:00",
+      "link": "https://sam.gov/workspace/contract/opp/a62a1dca4c8b4258abc83f100b24c322/view",
+      "tldr": "This opportunity involves collaboration on space-to-space communication technologies within the Space Data Network.",
+      "why_relevant": "It connects to the engineer's work in space domain awareness and simulation technologies."
     },
     {
       "notice_id": "e586fbdd7d544f25a123d9c4288b74d0",
@@ -70,44 +46,68 @@
       "posted_date": "2026-11-06",
       "response_deadline": "2026-12-08T14:00:00-06:00",
       "link": "https://sam.gov/workspace/contract/opp/e586fbdd7d544f25a123d9c4288b74d0/view",
-      "tldr": "This contract involves providing support services for watercraft and ship simulation systems.",
-      "why_relevant": "It relates to the profile's interest in modeling and simulation within defense contexts."
+      "tldr": "This contract offers support services for watercraft and ship simulators, essential for training and operational readiness.",
+      "why_relevant": "It ties into the engineer's focus on simulation and training environments."
     },
     {
-      "notice_id": "d788abbdb3e74c17b290187c2f6aa587",
-      "title": "Mission System R and D Support for Blossom Point Tracking Facility (BPTF)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
-      "naics": "541715",
-      "set_aside": "Small Business Set Aside - Total",
-      "posted_date": "2026-11-04",
-      "response_deadline": "2026-12-19T17:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/d788abbdb3e74c17b290187c2f6aa587/view",
-      "tldr": "This opportunity focuses on research and development support for mission systems at a naval tracking facility.",
-      "why_relevant": "It aligns with the profile's work in modeling and simulation for defense applications."
-    },
-    {
-      "notice_id": "5222fdba0f4d454ca718a65761944620",
-      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-11-06",
-      "response_deadline": "2026-11-23T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/5222fdba0f4d454ca718a65761944620/view",
-      "tldr": "This RFP seeks proposals for missile warning tracking systems in low Earth orbit.",
-      "why_relevant": "It connects to the profile's interest in advanced defense technologies."
-    },
-    {
-      "notice_id": "1de8051807e646e2888845fc3282e1ae",
-      "title": "NextGen IACMAC Industry Day - VIRTUAL",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AF INSTALLATION & MISSION SUPPORT CENTER.FA8075  774 ESS",
+      "notice_id": "1bf40a0ad102443d8a4c34f0789d0f8c",
+      "title": "Prototype development for Battlefield Wound Infection Prevention and Treatment (BWI P&T) Barrier Combination",
+      "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
       "naics": "541715",
       "set_aside": null,
+      "posted_date": "2026-11-10",
+      "response_deadline": "2026-11-20T12:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/1bf40a0ad102443d8a4c34f0789d0f8c/view",
+      "tldr": "This opportunity involves developing prototypes for preventing and treating battlefield infections.",
+      "why_relevant": "While slightly outside the main focus, it still relates to defense and health technologies relevant to military operations."
+    },
+    {
+      "notice_id": "688853e8eb8d48f2857347e9faa2b586",
+      "title": "HERMES BAA CALL: Rotating Detonation Rocket Engine-Combined Cycle (RDRE-CC) Flight Demonstration",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA9300  AFTC PZR",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
       "posted_date": "2026-11-09",
-      "response_deadline": "2026-11-03T15:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/1de8051807e646e2888845fc3282e1ae/view",
-      "tldr": "This virtual industry day will discuss next-generation capabilities for the Air Force.",
-      "why_relevant": "It provides insights into future technologies and strategies relevant to the profile's work."
+      "response_deadline": "2026-11-16T16:00:00-08:00",
+      "link": "https://sam.gov/workspace/contract/opp/688853e8eb8d48f2857347e9faa2b586/view",
+      "tldr": "This project focuses on the flight demonstration of a new rocket engine technology.",
+      "why_relevant": "It connects to aerospace engineering and simulation aspects relevant to the engineer's work."
+    },
+    {
+      "notice_id": "2947faa57cdc41b3bc65309236b035c4",
+      "title": "Aviation and Missile R&D BAA",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RSA.W6QK AATD CONTR OFF",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-11-10",
+      "response_deadline": "2029-07-03T14:30:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/2947faa57cdc41b3bc65309236b035c4/view",
+      "tldr": "This Broad Agency Announcement (BAA) focuses on research and development in aviation and missile technologies.",
+      "why_relevant": "It aligns with the engineer's interests in defense technologies and simulation."
+    },
+    {
+      "notice_id": "8805cdf64a444d6ca47722bf8f6ee05f",
+      "title": "Helmet-Mounted First-Person View Display System",
+      "agency": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM).HQ USSOCOM",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-11-09",
+      "response_deadline": "2026-12-01T15:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/8805cdf64a444d6ca47722bf8f6ee05f/view",
+      "tldr": "This opportunity involves developing a helmet-mounted display system for enhanced situational awareness.",
+      "why_relevant": "It relates to the engineer's work in simulation and technology for military applications."
+    },
+    {
+      "notice_id": "5f47885d10ed494bb87d771fd4e4aaab",
+      "title": "SBX Development, Operations and Sustainment, Justification for Exception to Fair Opportunity",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-11-06",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/5f47885d10ed494bb87d771fd4e4aaab/view",
+      "tldr": "This contract involves the development, operations, and sustainment of the SBX radar system.",
+      "why_relevant": "It ties into the engineer's focus on defense technologies and simulation."
     }
   ]
 }
