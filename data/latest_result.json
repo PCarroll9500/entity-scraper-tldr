@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes various job opportunities primarily focused on modeling, simulation, and aerospace-related projects, which align well with the profile's expertise in supporting the National Air and Space Intelligence Center. The roles range from assessments and evaluations to specific technology developments in the defense sector.",
+  "overall_tldr": "Today's batch includes various contract opportunities primarily focused on defense and simulation work, which align well with the profile's expertise in modeling and simulation for the Air Force. The selected opportunities cover areas like software modernization, sensor advancements, and synthetic training environments, all relevant to the profile's current role.",
   "job_recommendations": [
     {
       "notice_id": "6d6dd2027bbd432ab5fb96120571cac9",
@@ -10,20 +10,32 @@
       "posted_date": "2026-11-12",
       "response_deadline": "2026-10-13T10:00:00-04:00",
       "link": "https://sam.gov/workspace/contract/opp/6d6dd2027bbd432ab5fb96120571cac9/view",
-      "tldr": "This opportunity involves the development of virtual software for a synthetic training environment, which is crucial for military training and simulation.",
-      "why_relevant": "Directly relates to the profile's interest in modeling and simulation, particularly in a military context."
+      "tldr": "This opportunity involves developing virtual software for the Synthetic Training Environment, focusing on enhancing training simulations for military applications.",
+      "why_relevant": "It directly relates to the profile's interest in simulation and training work for the Air Force."
     },
     {
-      "notice_id": "d83e6b1db4004d0c9f3d7be92aa9ea1f",
-      "title": "Area of Interest: OSW Cost Assessment and Program Evaluation (CAPE) Modeling and Simulation",
-      "agency": "DEPT OF DEFENSE.WASHINGTON HEADQUARTERS SERVICES (WHS).WASHINGTON HEADQUARTERS SERVICES",
+      "notice_id": "b4f91a9a7cc14dd481e2a9a747c90365",
+      "title": "Missile Defense Agency - NOBLE Announcement: Machine Aided Software Modernization (MASM)",
+      "agency": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-11-17",
+      "response_deadline": "2026-12-17T17:00:00-06:00",
+      "link": "https://sam.gov/workspace/contract/opp/b4f91a9a7cc14dd481e2a9a747c90365/view",
+      "tldr": "This contract focuses on modernizing software systems for missile defense, enhancing operational capabilities.",
+      "why_relevant": "It involves software development and modernization, which aligns with the profile's engineering background."
+    },
+    {
+      "notice_id": "93ab7e7eb6bc46809a61a0bc6ecfc008",
+      "title": "Sensor Advancement for Ground-Vehicle and Dismounted Soldiers (SAGE)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-11-10",
-      "response_deadline": "2026-11-16T16:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/d83e6b1db4004d0c9f3d7be92aa9ea1f/view",
-      "tldr": "This listing focuses on modeling and simulation for cost assessment and program evaluation within the Department of Defense.",
-      "why_relevant": "Aligns with the profile's expertise in modeling and simulation, particularly in a defense context."
+      "posted_date": "2026-11-17",
+      "response_deadline": "2026-12-03T12:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/93ab7e7eb6bc46809a61a0bc6ecfc008/view",
+      "tldr": "This opportunity is focused on advancing sensor technologies for ground vehicles and dismounted soldiers, enhancing situational awareness.",
+      "why_relevant": "It connects to the profile's work in modeling and simulation, particularly in defense applications."
     },
     {
       "notice_id": "e78806b8aa5a478987c51750c1c45cf5",
@@ -34,8 +46,8 @@
       "posted_date": "2026-11-16",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/e78806b8aa5a478987c51750c1c45cf5/view",
-      "tldr": "This opportunity involves providing strategic help and assessments related to spaceports and launch operations.",
-      "why_relevant": "Relevant due to the focus on aerospace and defense, which is pertinent to the profile's work."
+      "tldr": "This contract involves providing strategic assistance for spaceport and launch operations, focusing on assessment and planning.",
+      "why_relevant": "It relates to space domain awareness and operational support, areas of interest for the profile."
     },
     {
       "notice_id": "34ed46d575ef41cda42ad4b8c2a8a276",
@@ -46,56 +58,44 @@
       "posted_date": "2026-11-16",
       "response_deadline": "2026-11-24T15:00:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/34ed46d575ef41cda42ad4b8c2a8a276/view",
-      "tldr": "This listing is for an industry day focused on the Global Aircrew Strategic Network Terminal, which is crucial for military communications.",
-      "why_relevant": "Involves advanced technology and communications relevant to the defense sector."
+      "tldr": "This opportunity is for an industry day focused on the Global Aircrew Strategic Network Terminal, discussing advancements and requirements.",
+      "why_relevant": "It pertains to communication systems and network capabilities relevant to defense operations."
     },
     {
-      "notice_id": "76429fbd3b6344c299b60ed3940593f7",
-      "title": "Valkryn Testos C2Net Integration and Evaluation platform",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE TEST CENTER.FA2823  AFTC PZIO",
+      "notice_id": "e3f60137be344f57bd5e23ce52f81102",
+      "title": "NSF X-Labs Initiative - Computation at the Limit of Physics",
+      "agency": "NATIONAL SCIENCE FOUNDATION.NATIONAL SCIENCE FOUNDATION.DIV OF ACQ AND COOPERATIVE SUPPORT",
       "naics": "541715",
       "set_aside": "No Set aside used",
-      "posted_date": "2026-11-13",
-      "response_deadline": "2026-11-20T09:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/76429fbd3b6344c299b60ed3940593f7/view",
-      "tldr": "This opportunity involves the integration and evaluation of a command and control network platform for military applications.",
-      "why_relevant": "Pertains to command and control systems, which are essential in defense operations."
+      "posted_date": "2026-11-17",
+      "response_deadline": "2027-03-15T17:00:00-04:00",
+      "link": "https://sam.gov/workspace/contract/opp/e3f60137be344f57bd5e23ce52f81102/view",
+      "tldr": "This initiative focuses on advanced computational methods at the edge of physics, aiming to push the boundaries of current technologies.",
+      "why_relevant": "It aligns with the profile's interest in advanced modeling and simulation techniques."
     },
     {
-      "notice_id": "e9ca2604fe0641d29fb9710826ba21a3",
-      "title": "Prototype development for Battlefield Wound Infection Prevention and Treatment (BWI P&T) Barrier Combination",
+      "notice_id": "f9ba736f43b5425bbbcd8d523236bba8",
+      "title": "Notice of Intent (NOI) to Sole Source proprietary prodrug MP201 to ISB for testing Acute Stress Reactions (ASRs)",
       "agency": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
       "naics": "541715",
       "set_aside": null,
-      "posted_date": "2026-11-13",
-      "response_deadline": "2026-11-20T12:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/e9ca2604fe0641d29fb9710826ba21a3/view",
-      "tldr": "This listing focuses on developing prototypes for preventing and treating infections in battlefield conditions.",
-      "why_relevant": "Relevant to defense health and technology, which can intersect with simulation and modeling."
-    },
-    {
-      "notice_id": "b038b52557d34504a4cbe2cdfc478500",
-      "title": "Space Power and Reactor Capabilities (SPARC) - Draft Request for Proposals (DRFP)",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GLENN RESEARCH CENTER",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
       "posted_date": "2026-11-16",
-      "response_deadline": "2026-09-28T17:00:00-04:00",
-      "link": "https://sam.gov/workspace/contract/opp/b038b52557d34504a4cbe2cdfc478500/view",
-      "tldr": "This draft RFP focuses on capabilities related to space power and reactor technologies.",
-      "why_relevant": "Involves space technologies, which are relevant to the profile's work with aerospace."
+      "response_deadline": "2026-12-31T14:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/f9ba736f43b5425bbbcd8d523236bba8/view",
+      "tldr": "This notice pertains to the testing of a proprietary drug for managing acute stress reactions, focusing on health and performance.",
+      "why_relevant": "While not directly related to simulation, it touches on health aspects relevant to military personnel."
     },
     {
-      "notice_id": "18d97bfc2d8d4d14aca4533af3c40ab0",
-      "title": "GPS Ground Segment Monitor Station Service (MSS)",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO MILITARY COMMUNICATION AND POSITION NAVIGATION TIMING.FA8807 MIL COMM AND PNT SSC/CGK",
+      "notice_id": "cd7cf431805449e59c86fc3bb5847b17",
+      "title": "Request for Information (RFI) for a Cislunar Space System (CSS)",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE",
       "naics": "541715",
       "set_aside": "No Set aside used",
       "posted_date": "2026-11-13",
-      "response_deadline": "2026-12-08T15:00:00-07:00",
-      "link": "https://sam.gov/workspace/contract/opp/18d97bfc2d8d4d14aca4533af3c40ab0/view",
-      "tldr": "This opportunity involves providing services for the GPS ground segment monitor station.",
-      "why_relevant": "Relevant to navigation and positioning systems, which are critical in defense operations."
+      "response_deadline": "2026-11-24T12:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/cd7cf431805449e59c86fc3bb5847b17/view",
+      "tldr": "This RFI seeks information on systems designed for operations in cislunar space, focusing on strategic capabilities.",
+      "why_relevant": "It relates to space operations and strategic planning, relevant to the profile's interests."
     },
     {
       "notice_id": "402aab2c4f734ea1ba2c0ffa29f9f971",
@@ -106,8 +106,8 @@
       "posted_date": "2026-11-13",
       "response_deadline": "2026-12-04T17:00:00",
       "link": "https://sam.gov/workspace/contract/opp/402aab2c4f734ea1ba2c0ffa29f9f971/view",
-      "tldr": "This listing pertains to a DARPA project focused on advanced research and development.",
-      "why_relevant": "Involves cutting-edge technology and research relevant to defense and aerospace."
+      "tldr": "This DARPA initiative focuses on advanced research and development projects, likely involving innovative technologies.",
+      "why_relevant": "It aligns with the profile's engineering background and interest in cutting-edge technology."
     }
   ]
 }
