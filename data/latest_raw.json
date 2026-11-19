@@ -3,6 +3,570 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2027-03-11",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "AN12",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f594f4f3f05742cc90d3df04abf3f20d",
+      "fullParentPathCode": "075.7529.75N920",
+      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NHLBI",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f594f4f3f05742cc90d3df04abf3f20d&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "f594f4f3f05742cc90d3df04abf3f20d",
+      "officeAddress": {
+        "zipcode": "20892",
+        "city": "BETHESDA",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "7125",
+          "name": "Bethesda"
+        },
+        "state": {
+          "code": "MD",
+          "name": "Maryland"
+        },
+        "zip": "20892",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "john.lear@nih.gov",
+          "phone": "+1 000 000 0000",
+          "fullName": "LEAR, JONATHAN M"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "donna.cornish@nih.gov",
+          "phone": "",
+          "fullName": "Donna Cornish"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/30e878f86fc14302837cbf9ad6433be0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/331e5db024a34d168967a536a6b06d65/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5bcc3a1810994753a570252840b1c0fc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64324af1947d47cca20bf7fb7e5eab1f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6f0852b8639a469ca2b9f6394de88175/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/70557f00206a45b681e4e17128a420b0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b442a46199654db9bc792258f9239be9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b569beedfb7a43ecace99544928d5266/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b9c2c0851aa648ec9a7e83a25809c0a2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/beda66715c7c425595493a2aae66b7f8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c08f2fcfe0284569acbfa1b02c91f1c9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cab5274e0d4a4459a5df92e1a9d9d830/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ebe3cda755f5462a9af0587304570c5c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef61827639e04c2394c20905e83ab45c/download"
+      ],
+      "responseDeadLine": "2027-02-24T15:00:00-05:00",
+      "solicitationNumber": "75N92026R00011",
+      "title": "A--Strong Heart Study (SHS) - Legacy Cohort Field Centers",
+      "type": "Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/f594f4f3f05742cc90d3df04abf3f20d/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-03-11",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "AN12",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=f3baa0cab7bf4edd8abf48b4e1149162",
+      "fullParentPathCode": "075.7529.75N920",
+      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NHLBI",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=f3baa0cab7bf4edd8abf48b4e1149162&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "f3baa0cab7bf4edd8abf48b4e1149162",
+      "officeAddress": {
+        "zipcode": "20892",
+        "city": "BETHESDA",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "7125",
+          "name": "Bethesda"
+        },
+        "state": {
+          "code": "MD",
+          "name": "Maryland"
+        },
+        "zip": "20892",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "john.lear@nih.gov",
+          "phone": "301-827-7716",
+          "fullName": "Lear, John"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "melissa.ramos@nih.gov",
+          "phone": "",
+          "fullName": "Ramos, Melissa K."
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0bbce313d07046d2bf3d53b93acaab7f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/15c02c50682f444b9798217e2b71e1df/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2b4943602f694b9f80609017da2bc0fa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2b69546fc0c44bfc837ec3e8877cc332/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/542dd33e6615433384920a7d1c9cd9e6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/970a7c64d815495cbbb859b902495a55/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bbfabbc4f766472cb187655420bb452e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c8187d2d103d4fb39a6164b8b234ae31/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2f5ef3d1e5f48c7800157a781512bf4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f24e0301753c4f1e8e7f3405d4ed477b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3f003f664524701afad8e86e3afac28/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f971a13fad254e7e8949c34ab692f40c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f99643116f6c4b89a25ca02562318910/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffad86b43b004db9a06c809871ab3e23/download"
+      ],
+      "responseDeadLine": "2027-02-24T15:00:00-05:00",
+      "solicitationNumber": "75N98026R00073",
+      "title": "Strong Heart Study (SHS) \u2013 New Cohort of Native American (NA) Participants",
+      "type": "Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/f3baa0cab7bf4edd8abf48b4e1149162/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-01-05",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Presolicitation",
+      "classificationCode": "R410",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=80c39864cccb49f982bec32867bbc7eb",
+      "fullParentPathCode": "080.8000.80LARC",
+      "fullParentPathName": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA LANGLEY RESEARCH CENTER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=80c39864cccb49f982bec32867bbc7eb&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "80c39864cccb49f982bec32867bbc7eb",
+      "officeAddress": {
+        "zipcode": "23681",
+        "city": "HAMPTON",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "35000",
+          "name": "Hampton"
+        },
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "zip": "23681",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "larc-easss@mail.nasa.gov",
+          "phone": "",
+          "fullName": "Lindsey Leso"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "larc-easss@mail.nasa.gov",
+          "phone": "",
+          "fullName": "Daphne Darden"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/082009d9b2bc4a10b247124f9498e795/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f3935307afd4a209aa9eeac2b1275b1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16bbbdaf456c4fda95aff1656314b0c8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1e795d4df1f74063ad6b0d49955d28cd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/20bfb3235ba8454bae19126c50f27132/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3f24be9534d34c5a85c4ef9b0c486a07/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5f8d56dcbb8a4ce4ae46c77aea4885b7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5fc37caff8b84ca08b6d5073d3743f22/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6228e122197746f2b5a1fb5cce67b442/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/86cecd63ad824694890daeaa03f21f15/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a85b167e3a8f493f80e091f2166789b8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d5c5d6388ce54a6ab1172007f8ba6dae/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f0770bbaab9d4c7f91c54f74fa17d877/download"
+      ],
+      "responseDeadLine": "2026-12-21T14:00:00-05:00",
+      "solicitationNumber": "80LARC27R0003",
+      "title": "Evaluations, Assessments, and Support Services (EASS)",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/80c39864cccb49f982bec32867bbc7eb/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-01-02",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "AC13",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=728b9aa012794809a64f544278d8748a",
+      "fullParentPathCode": "097.5700.SDA.FA2401",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=728b9aa012794809a64f544278d8748a&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "728b9aa012794809a64f544278d8748a",
+      "officeAddress": {
+        "zipcode": "20151-2222",
+        "city": "CHANTILLY",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "50000",
+          "name": "Washington"
+        },
+        "state": {
+          "code": "DC",
+          "name": "District of Columbia"
+        },
+        "zip": "20330",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "ussf.pentagon.sda.mbx.fa240126R-006@mail.mil",
+          "phone": "",
+          "fullName": "SDA Mailbox "
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0d9baba567e9468a8e94737e84ba7308/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0e324586a9d84a668a34e52ad0e155ec/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/166ebd4b63ec4a809e35284be77373c9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2e486dd735dd48c99aff19d188f4ecc4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2e5b2e91f8c8406cb237f84e565cf4c7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/36e6b1fdb8c347c1ac89daa54161671a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3974adb958374b8c9b31505e78d6b5bb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/475dbfa32aa94c95bf6aea5cee71ce9c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5017419cee1b44209f0988bc4564a480/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5bd5bdafb2724107a6d1cf7692282acf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5fc8c529cb134f38b72c490145e2d7a7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/63d6c42487154e8ea7ac50e20c770ada/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/77dcb288ac25481fa40c5be8559d0c2d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87bff75caaff46c8b1e730da8514d476/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a352a1001158475db16f3bc5c57a6b3c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ad9809d430fb4cc4841a0b3b8ec9d117/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b392a2be62374c80b483f44bd46f8e19/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bdcbf83f96374e2f810c674b3444da53/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c722c18c77af4e97b5bf1faf368471a8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c95ad72fa75648488e6f901f2e4a4548/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ca41ad3646594fb5bf8a4a3c1a83f657/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ce6f57d008bf4a24a1a61c28b80d018a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e26f2ec7beb64b5da4bb0098f5027f9a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e5143e91b7ad41388edfda0eec06e72d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f0a23a745e9d40179691bd8c523d9177/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f12ad45db6154e27a795045dea7a9c39/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f56655dc70f24067893dac1ef9540eb0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fe508c90d9df4175ae95e6794f815364/download"
+      ],
+      "responseDeadLine": "2026-12-18T16:00:00-05:00",
+      "solicitationNumber": "FA240126R0003",
+      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
+      "type": "Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/728b9aa012794809a64f544278d8748a/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-03-11",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "AN12",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6c8c1ce237554600ae10724c0904cfe7",
+      "fullParentPathCode": "075.7529.75N920",
+      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NHLBI",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=6c8c1ce237554600ae10724c0904cfe7&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "6c8c1ce237554600ae10724c0904cfe7",
+      "officeAddress": {
+        "zipcode": "20892",
+        "city": "BETHESDA",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "7125",
+          "name": "Bethesda"
+        },
+        "state": {
+          "code": "MD",
+          "name": "Maryland"
+        },
+        "zip": "20892",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "john.lear@nih.gov",
+          "phone": "+1 000 000 0000",
+          "fullName": "LEAR, JONATHAN M"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "melissa.ramos@nih.gov",
+          "phone": "",
+          "fullName": "Ramos, Melissa K."
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/039ebb07005e4d99a472753c4c5354df/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0847e1b0097947fdab613ad618d47353/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f32be06118143aca78bd72dfb77267b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/14a98abe51bc455eac7cfb81dc888398/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2e9090fa4be34d02a0cf30cc06990b22/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56cbd87adffd43e7a2a6731d1ac9155b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/589a447eccf84193afc240012713cd76/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5db88c6b96f74e5bac2248720657fe01/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/68029704a18f4cfab52be06e20cfcd8a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/78e1592d141e4274a91ebd5073a68cf4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9f97268dd43c477db337c3f8a74ce025/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ebcda2fb5e1b4e5fbd3d1a9984c82d28/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f432cf2e0e204894ae4856b33076676f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffe0111f80984a549dcf418512ab43c4/download"
+      ],
+      "responseDeadLine": "2027-02-24T15:00:00-05:00",
+      "solicitationNumber": "75N92026R00010",
+      "title": "A--Strong Heart Study (SHS) Renewal - Coordinating Center (CC)",
+      "type": "Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/6c8c1ce237554600ae10724c0904cfe7/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-06-26",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "AN13",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=62ad52e3125c488293f37826713b1fda",
+      "fullParentPathCode": "075.7529.75N992",
+      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.ADVANCED RESEARCH PROJECTS AGENCY FOR HEALTH (ARPA-H)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=62ad52e3125c488293f37826713b1fda&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "62ad52e3125c488293f37826713b1fda",
+      "officeAddress": {
+        "zipcode": "20005",
+        "city": "Washington",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "50000",
+          "name": "Washington"
+        },
+        "state": {
+          "code": "DC",
+          "name": "District of Columbia"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "BRAINS@ARPA-H.GOV",
+          "fullName": "BRAINS Team"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7b5d4f6055a54d11b5fba000f77c28e8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9672ce97dd3f4cb9918635a5f5254080/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b73e9a7540e144f0a293a1184e487db0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fd88ffbfa85343ddaaffa854abc785ed/download"
+      ],
+      "responseDeadLine": "2027-06-26T17:00:00-04:00",
+      "solicitationNumber": "ARPA-H-SOL-26-148",
+      "title": "Brain Repair of Any Injured Neural Structure (BRAINS)",
+      "type": "Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/62ad52e3125c488293f37826713b1fda/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-26",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Special Notice",
+      "classificationCode": "AC13",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4c48cbc528cc414d8af8dbda33270ffb",
+      "fullParentPathCode": "097.97ZS",
+      "fullParentPathName": "DEPT OF DEFENSE.US SPECIAL OPERATIONS COMMAND (USSOCOM)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=4c48cbc528cc414d8af8dbda33270ffb&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "4c48cbc528cc414d8af8dbda33270ffb",
+      "officeAddress": null,
+      "organizationType": "AGENCY",
+      "placeOfPerformance": {
+        "city": {
+          "code": "67200",
+          "name": "Silver Springs"
+        },
+        "state": {
+          "code": "NV",
+          "name": "Nevada"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "tech_exp@socom.mil",
+          "phone": "8138264646",
+          "fullName": "Technical Support"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4d3aa2faf564400a9404a4f114e7862b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/711d17d8883d407a86fa1c60032d6d8f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b4352dcd30da4cb382cc9dcd646520a2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e79229977c254819b50da5324d689591/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffb79e3ddf06479eb9a6f380126021d8/download"
+      ],
+      "responseDeadLine": "2026-12-11T12:00:00-05:00",
+      "solicitationNumber": "USSOCOM_Open_Call_for_the_Program_Manager_Family_of_Special_Operations_Vehicles_Rodeo_2027",
+      "title": "United States Special Operations Command (USSOCOM) Open Call for the Program Manager (PM) Family of Special Operations Vehicles (FOSOV) Rodeo 2027",
+      "type": "Special Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/4c48cbc528cc414d8af8dbda33270ffb/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2027-01-18",
       "archiveType": "autocustom",
       "award": null,
@@ -70,6 +634,56 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-12-18",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Special Notice",
+      "classificationCode": "AC13",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e582b59ffd0947948e049a044d831915",
+      "fullParentPathCode": "097.97AE.HR0011",
+      "fullParentPathName": "DEPT OF DEFENSE.DEFENSE ADVANCED RESEARCH PROJECTS AGENCY  (DARPA).DEF ADVANCED RESEARCH PROJECTS AGCY",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e582b59ffd0947948e049a044d831915&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "e582b59ffd0947948e049a044d831915",
+      "officeAddress": {
+        "zipcode": "222032114",
+        "city": "ARLINGTON",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": null,
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "DARPA-SN-27-04@darpa.mil",
+          "fullName": "BAA Coordinator"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/45df874306564dd5b884efff33d4bd36/download"
+      ],
+      "responseDeadLine": "2026-12-17T17:00:00",
+      "solicitationNumber": "DARPA-SN-27-04",
+      "title": "Albatross UAS Flight Control Software Testing and Application Opportunity",
+      "type": "Special Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/e582b59ffd0947948e049a044d831915/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-12-10",
       "archiveType": "auto15",
       "award": null,
@@ -130,6 +744,295 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/d44f7d4fa0374c5ca967197ac6759b6a/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-03",
+      "archiveType": "auto15",
+      "award": {
+        "date": "2026-11-18",
+        "number": "N0017327C0003",
+        "amount": "8313184.00",
+        "awardee": {
+          "name": "INFORMATION DELIVERY SYSTEMS INC",
+          "location": {
+            "city": {
+              "code": "8775",
+              "name": "Bowie"
+            },
+            "state": {
+              "code": "MD",
+              "name": "Maryland"
+            },
+            "zip": "20720",
+            "country": {
+              "code": "USA",
+              "name": "UNITED STATES"
+            }
+          }
+        }
+      },
+      "baseType": "Solicitation",
+      "classificationCode": "AJ15",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b21913c5f78b4c749b6376f76315f870",
+      "fullParentPathCode": "017.1700.ONR.ONR NRL.N00173",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b21913c5f78b4c749b6376f76315f870&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "b21913c5f78b4c749b6376f76315f870",
+      "officeAddress": {
+        "zipcode": "20375-5328",
+        "city": "WASHINGTON",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "tamara.jenkins@nrl.navy.mil",
+          "phone": "2029231516",
+          "fullName": "Tamara Jenkins"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "brandon.s.zellers.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Brandon Zellers"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": null,
+      "solicitationNumber": "N0017327C0003",
+      "title": "Space Science Information Technology Support",
+      "type": "Award Notice",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/b21913c5f78b4c749b6376f76315f870/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-03",
+      "archiveType": "auto15",
+      "award": {
+        "date": "2026-11-18",
+        "number": "W912HQ27CA034",
+        "amount": "352935.00",
+        "awardee": {
+          "name": "WORCESTER POLYTECHNIC INSTITUTE",
+          "location": {
+            "city": {
+              "code": "82000",
+              "name": "Worcester"
+            },
+            "state": {
+              "code": "MA",
+              "name": "Massachusetts"
+            },
+            "zip": "01609",
+            "country": {
+              "code": "USA",
+              "name": "UNITED STATES"
+            }
+          }
+        }
+      },
+      "baseType": "Award Notice",
+      "classificationCode": "AJ11",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9235b637c8424a98b02039ccc27c2220",
+      "fullParentPathCode": "021.2100.USACE.SCO ALX.HECSA.W912HQ",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.SCO ALEXANDRIA.ENGINEER CENTER SUPPORT ACT HUMPHREYS.W4LD USA HECSA",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=9235b637c8424a98b02039ccc27c2220&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "9235b637c8424a98b02039ccc27c2220",
+      "officeAddress": {
+        "zipcode": "22315-3860",
+        "city": "ALEXANDRIA",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "mackenzie.rivera@usace.army.mil",
+          "phone": "7034287943",
+          "fullName": "MacKenzie Rivera"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": null,
+      "solicitationNumber": "W912HQ27CA034",
+      "title": "\u201cDemonstration of Improved Plume Behavior Predictions in Physics-based Fire Behavior Models\u201d",
+      "type": "Award Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/9235b637c8424a98b02039ccc27c2220/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-08",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "AC12",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=63f288acf69644c084d9daab7ae34a7e",
+      "fullParentPathCode": "097.5700.SSC.PEO SDACP.FA8819",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO SPACE DOMAIN AWARENESS ANDCOMBAT POWER.FA8819 SDA AND COMBAT POWER SZK-LA",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=63f288acf69644c084d9daab7ae34a7e&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "63f288acf69644c084d9daab7ae34a7e",
+      "officeAddress": {
+        "zipcode": "90245-2808",
+        "city": "EL SEGUNDO",
+        "countryCode": "USA",
+        "state": "CA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "22412",
+          "name": "El Segundo"
+        },
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "90245",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "melanie.gipson@spaceforce.mil",
+          "phone": "",
+          "fullName": "Melanie Gipson"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "leslie.semerena@spaceforce.mil",
+          "phone": "",
+          "fullName": "Leslie Semerena"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/94c9050ff5bd43f6be5ba71549a0c40d/download"
+      ],
+      "responseDeadLine": "2026-11-23T17:00:00-08:00",
+      "solicitationNumber": "SDN-CONSORT-27-01",
+      "title": "Space Data Network (SDN) Industry Consortium for Space-to-Space Communications",
+      "type": "Sources Sought",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/63f288acf69644c084d9daab7ae34a7e/view",
+      "description_text": ""
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2030-04-11",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "AC13",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5e5cb4f97ff14b85bdae160e853b5499",
+      "fullParentPathCode": "097.97JC.HQ0860",
+      "fullParentPathName": "DEPT OF DEFENSE.MISSILE DEFENSE AGENCY (MDA).MISSILE DEFENSE AGENCY (MDA)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5e5cb4f97ff14b85bdae160e853b5499&limit=1"
+        }
+      ],
+      "naicsCode": "541715",
+      "naicsCodes": [
+        "541715"
+      ],
+      "noticeId": "5e5cb4f97ff14b85bdae160e853b5499",
+      "officeAddress": {
+        "zipcode": "35898",
+        "city": "HUNTSVILLE",
+        "countryCode": "USA",
+        "state": "AL"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "MDA-NOBLE@mail.mil",
+          "fullName": "MDA-NOBLE@mail.mil"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9e4c3e850f9b4fc8a8ff9ba1338d81fd/download"
+      ],
+      "responseDeadLine": "2030-03-27T00:00:00-04:00",
+      "solicitationNumber": "HQ0860-25-S-0001",
+      "title": "Missile Defense Agency - Nimble Options for Buying Layered Effects (NOBLE) Announcement",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/5e5cb4f97ff14b85bdae160e853b5499/view",
       "description_text": ""
     },
     {
@@ -233,91 +1136,6 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/fe1ca1ee1ccb4170b7b8c7b2dfa871d0/view",
-      "description_text": ""
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-03-11",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Presolicitation",
-      "classificationCode": "AN12",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ec29c36a95844738b65b1dd6e6a35b89",
-      "fullParentPathCode": "075.7529.75N920",
-      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NHLBI",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ec29c36a95844738b65b1dd6e6a35b89&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "ec29c36a95844738b65b1dd6e6a35b89",
-      "officeAddress": {
-        "zipcode": "20892",
-        "city": "BETHESDA",
-        "countryCode": "USA",
-        "state": "MD"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "7125",
-          "name": "Bethesda"
-        },
-        "state": {
-          "code": "MD",
-          "name": "Maryland"
-        },
-        "zip": "20892",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "type": "primary",
-          "email": "john.lear@nih.gov",
-          "phone": "+1 000 000 0000",
-          "fullName": "LEAR, JONATHAN M"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "donna.cornish@nih.gov",
-          "phone": "",
-          "fullName": "Donna Cornish"
-        }
-      ],
-      "postedDate": "2026-11-17",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/30e878f86fc14302837cbf9ad6433be0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/331e5db024a34d168967a536a6b06d65/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5bcc3a1810994753a570252840b1c0fc/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/64324af1947d47cca20bf7fb7e5eab1f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6f0852b8639a469ca2b9f6394de88175/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/70557f00206a45b681e4e17128a420b0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b442a46199654db9bc792258f9239be9/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b569beedfb7a43ecace99544928d5266/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b9c2c0851aa648ec9a7e83a25809c0a2/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/beda66715c7c425595493a2aae66b7f8/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c08f2fcfe0284569acbfa1b02c91f1c9/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cab5274e0d4a4459a5df92e1a9d9d830/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ebe3cda755f5462a9af0587304570c5c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ef61827639e04c2394c20905e83ab45c/download"
-      ],
-      "responseDeadLine": "2027-02-24T15:00:00-05:00",
-      "solicitationNumber": "75N92026R00011",
-      "title": "A--Strong Heart Study (SHS) - Legacy Cohort FC",
-      "type": "Solicitation",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/ec29c36a95844738b65b1dd6e6a35b89/view",
       "description_text": ""
     },
     {
@@ -437,91 +1255,6 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2027-03-11",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Presolicitation",
-      "classificationCode": "AN12",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=bcfd108fe2a34fe39cbd827a39b3c1fa",
-      "fullParentPathCode": "075.7529.75N920",
-      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NHLBI",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=bcfd108fe2a34fe39cbd827a39b3c1fa&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "bcfd108fe2a34fe39cbd827a39b3c1fa",
-      "officeAddress": {
-        "zipcode": "20892",
-        "city": "BETHESDA",
-        "countryCode": "USA",
-        "state": "MD"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "7125",
-          "name": "Bethesda"
-        },
-        "state": {
-          "code": "MD",
-          "name": "Maryland"
-        },
-        "zip": "20892",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "type": "primary",
-          "email": "john.lear@nih.gov",
-          "phone": "+1 000 000 0000",
-          "fullName": "LEAR, JONATHAN M"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "melissa.ramos@nih.gov",
-          "phone": "",
-          "fullName": "Ramos, Melissa K."
-        }
-      ],
-      "postedDate": "2026-11-17",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/039ebb07005e4d99a472753c4c5354df/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0847e1b0097947fdab613ad618d47353/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f32be06118143aca78bd72dfb77267b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/14a98abe51bc455eac7cfb81dc888398/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2e9090fa4be34d02a0cf30cc06990b22/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/56cbd87adffd43e7a2a6731d1ac9155b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/589a447eccf84193afc240012713cd76/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5db88c6b96f74e5bac2248720657fe01/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/68029704a18f4cfab52be06e20cfcd8a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/78e1592d141e4274a91ebd5073a68cf4/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9f97268dd43c477db337c3f8a74ce025/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ebcda2fb5e1b4e5fbd3d1a9984c82d28/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f432cf2e0e204894ae4856b33076676f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffe0111f80984a549dcf418512ab43c4/download"
-      ],
-      "responseDeadLine": "2027-02-24T15:00:00-05:00",
-      "solicitationNumber": "75N92026R00010",
-      "title": "A--Strong Heart Study (SHS) Renewal - Coordinating Center (CC)",
-      "type": "Solicitation",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/bcfd108fe2a34fe39cbd827a39b3c1fa/view",
-      "description_text": ""
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
       "archiveDate": "2027-01-01",
       "archiveType": "auto15",
       "award": null,
@@ -587,92 +1320,6 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/b4f91a9a7cc14dd481e2a9a747c90365/view",
-      "description_text": ""
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-03-11",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Presolicitation",
-      "classificationCode": "AN12",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8d38a3e8771f4e0b8b37ae1b77eed08f",
-      "fullParentPathCode": "075.7529.75N920",
-      "fullParentPathName": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF.NATIONAL INSTITUTES OF HEALTH.NATIONAL INSTITUTES OF HEALTH NHLBI",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8d38a3e8771f4e0b8b37ae1b77eed08f&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "8d38a3e8771f4e0b8b37ae1b77eed08f",
-      "officeAddress": {
-        "zipcode": "20892",
-        "city": "BETHESDA",
-        "countryCode": "USA",
-        "state": "MD"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "7125",
-          "name": "Bethesda"
-        },
-        "state": {
-          "code": "MD",
-          "name": "Maryland"
-        },
-        "zip": "20892",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "john.lear@nih.gov",
-          "phone": "301-827-7716",
-          "fullName": "Lear, John"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "melissa.ramos@nih.gov",
-          "phone": "",
-          "fullName": "Ramos, Melissa K."
-        }
-      ],
-      "postedDate": "2026-11-17",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0bbce313d07046d2bf3d53b93acaab7f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/15c02c50682f444b9798217e2b71e1df/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2b4943602f694b9f80609017da2bc0fa/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2b69546fc0c44bfc837ec3e8877cc332/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/542dd33e6615433384920a7d1c9cd9e6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/970a7c64d815495cbbb859b902495a55/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bbfabbc4f766472cb187655420bb452e/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c8187d2d103d4fb39a6164b8b234ae31/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e2f5ef3d1e5f48c7800157a781512bf4/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f24e0301753c4f1e8e7f3405d4ed477b/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f3f003f664524701afad8e86e3afac28/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f971a13fad254e7e8949c34ab692f40c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f99643116f6c4b89a25ca02562318910/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ffad86b43b004db9a06c809871ab3e23/download"
-      ],
-      "responseDeadLine": "2027-02-24T15:00:00-05:00",
-      "solicitationNumber": "75N98026R00073",
-      "title": "Strong Heart Study (SHS) \u2013 New Cohort of Young Native American (NA) Adults",
-      "type": "Solicitation",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/8d38a3e8771f4e0b8b37ae1b77eed08f/view",
       "description_text": ""
     },
     {
@@ -1203,8 +1850,7 @@
       "type": "Solicitation",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/c9bcb02a7dc44a9f857fef8b4828c86a/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/c9bcb02a7dc44a9f857fef8b4828c86a/view"
     },
     {
       "active": "Yes",
@@ -1259,8 +1905,7 @@
       "type": "Solicitation",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/b4631b7464dc4b71aaf1adb02857652e/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/b4631b7464dc4b71aaf1adb02857652e/view"
     },
     {
       "active": "Yes",
@@ -1346,8 +1991,7 @@
       "type": "Presolicitation",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/b038b52557d34504a4cbe2cdfc478500/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/b038b52557d34504a4cbe2cdfc478500/view"
     },
     {
       "active": "Yes",
@@ -1405,8 +2049,7 @@
       "type": "Special Notice",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/8788857c93214e5396e3555ea835bb30/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/8788857c93214e5396e3555ea835bb30/view"
     },
     {
       "active": "Yes",
@@ -1479,8 +2122,7 @@
       "type": "Sources Sought",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/5485fab1bd584f48ad389e48542616ce/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/5485fab1bd584f48ad389e48542616ce/view"
     },
     {
       "active": "Yes",
@@ -1579,8 +2221,7 @@
       "type": "Solicitation",
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/5164f1af9d2e41089a4c1bea30af6fe8/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/5164f1af9d2e41089a4c1bea30af6fe8/view"
     },
     {
       "active": "Yes",
@@ -1649,8 +2290,7 @@
       "type": "Special Notice",
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/34ed46d575ef41cda42ad4b8c2a8a276/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/34ed46d575ef41cda42ad4b8c2a8a276/view"
     },
     {
       "active": "Yes",
@@ -1721,8 +2361,7 @@
       "type": "Combined Synopsis/Solicitation",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/07bc58b10d4941858bf1e97f89174d1f/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/07bc58b10d4941858bf1e97f89174d1f/view"
     },
     {
       "active": "Yes",
@@ -1794,8 +2433,7 @@
       "type": "Presolicitation",
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/002dc02c4a8647aca6d0a1c2a5d07535/view",
-      "description_text": ""
+      "uiLink": "https://sam.gov/workspace/contract/opp/002dc02c4a8647aca6d0a1c2a5d07535/view"
     },
     {
       "active": "Yes",
@@ -2091,85 +2729,6 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/76429fbd3b6344c299b60ed3940593f7/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-01-02",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Solicitation",
-      "classificationCode": "AC13",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7526a35301e24294bca72dcc883de377",
-      "fullParentPathCode": "097.5700.SDA.FA2401",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE DEVELOPMENT AGENCY.FA2401 SPACE DEVELOPMENT AGENCY SDA",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7526a35301e24294bca72dcc883de377&limit=1"
-        }
-      ],
-      "naicsCode": "541715",
-      "naicsCodes": [
-        "541715"
-      ],
-      "noticeId": "7526a35301e24294bca72dcc883de377",
-      "officeAddress": {
-        "zipcode": "20151-2222",
-        "city": "CHANTILLY",
-        "countryCode": "USA",
-        "state": "VA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "50000",
-          "name": "Washington"
-        },
-        "state": {
-          "code": "DC",
-          "name": "District of Columbia"
-        },
-        "zip": "20330",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "ussf.pentagon.sda.mbx.fa240126R-006@mail.mil",
-          "phone": "",
-          "fullName": "SDA Mailbox "
-        }
-      ],
-      "postedDate": "2026-11-13",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2e486dd735dd48c99aff19d188f4ecc4/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/36e6b1fdb8c347c1ac89daa54161671a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3974adb958374b8c9b31505e78d6b5bb/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5bd5bdafb2724107a6d1cf7692282acf/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5fc8c529cb134f38b72c490145e2d7a7/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87bff75caaff46c8b1e730da8514d476/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a352a1001158475db16f3bc5c57a6b3c/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b392a2be62374c80b483f44bd46f8e19/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bdcbf83f96374e2f810c674b3444da53/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ca41ad3646594fb5bf8a4a3c1a83f657/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ce6f57d008bf4a24a1a61c28b80d018a/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f0a23a745e9d40179691bd8c523d9177/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f12ad45db6154e27a795045dea7a9c39/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f56655dc70f24067893dac1ef9540eb0/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/fe508c90d9df4175ae95e6794f815364/download"
-      ],
-      "responseDeadLine": "2026-12-18T16:00:00-05:00",
-      "solicitationNumber": "FA240126R0003",
-      "title": "Request for Proposal (RFP) - Resilient Missile Warning Tracking (RMWT) Low Earth Orbit (LEO) Ground Entry Points (GEPs)",
-      "type": "Solicitation",
-      "typeOfSetAside": "NONE",
-      "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/7526a35301e24294bca72dcc883de377/view"
     },
     {
       "active": "Yes",
@@ -3426,6 +3985,301 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-11-23",
+      "archiveType": "autocustom",
+      "award": {
+        "date": "2026-08-27",
+        "number": "HQ003426PE101",
+        "amount": "3800262.40",
+        "awardee": {
+          "name": "TARGET MEDIA-MID ATLANTIC INC",
+          "location": {
+            "city": {
+              "code": "48376",
+              "name": "Mechanicsburg"
+            },
+            "state": {
+              "code": "PA",
+              "name": "Pennsylvania"
+            },
+            "zip": "17050",
+            "country": {
+              "code": "USA",
+              "name": "UNITED STATES"
+            }
+          }
+        }
+      },
+      "baseType": "Award Notice",
+      "classificationCode": "R499",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9c05bbc73e494374ae7da12b6b2c611e",
+      "fullParentPathCode": "097.97F5.HQ0034",
+      "fullParentPathName": "DEPT OF DEFENSE.WASHINGTON HEADQUARTERS SERVICES (WHS).WASHINGTON HEADQUARTERS SERVICES",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=9c05bbc73e494374ae7da12b6b2c611e&limit=1"
+        }
+      ],
+      "naicsCode": "541511",
+      "naicsCodes": [
+        "541511"
+      ],
+      "noticeId": "9c05bbc73e494374ae7da12b6b2c611e",
+      "officeAddress": {
+        "zipcode": "203011000",
+        "city": "WASHINGTON",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "zip": "22202",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "darrell.l.joy2.civ@mail.mil",
+          "phone": "",
+          "fullName": "Darrell Joy"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": null,
+      "solicitationNumber": "HQ003426PE101",
+      "title": "End-Use Monitoring (EUM) Support",
+      "type": "Award Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/9c05bbc73e494374ae7da12b6b2c611e/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-11-25",
+      "archiveType": "autocustom",
+      "award": {
+        "date": "2026-10-28",
+        "number": "GS35F239BA"
+      },
+      "baseType": "Justification",
+      "classificationCode": "9999",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=691a84ca3dba4a50a6b67f1ce99b66dd",
+      "fullParentPathCode": "097.97AB.HM0476",
+      "fullParentPathName": "DEPT OF DEFENSE.NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY (NGA).ATTN: MS S84 - OCS",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=691a84ca3dba4a50a6b67f1ce99b66dd&limit=1"
+        }
+      ],
+      "naicsCode": "541511",
+      "naicsCodes": [
+        "541511"
+      ],
+      "noticeId": "691a84ca3dba4a50a6b67f1ce99b66dd",
+      "officeAddress": {
+        "zipcode": "22150-7500",
+        "city": "SPRINGFIELD",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "74592",
+          "name": "Springfield"
+        },
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "erika.s.hessler@nga.mil",
+          "phone": "",
+          "fullName": "Erika S Hessler"
+        },
+        {
+          "type": "secondary",
+          "email": "Martin.P.Kelly@nga.mil",
+          "fullName": "Martin Kelly"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/da5e85fe28ea4fa4beb6d844881b8727/download"
+      ],
+      "responseDeadLine": null,
+      "solicitationNumber": "NGA-HYDRA2-Extension",
+      "title": "NGA - HYDRA 2 Extension",
+      "type": "Justification",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/691a84ca3dba4a50a6b67f1ce99b66dd/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-15",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "DJ01",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=30829227e1be43cbb8ddbf537709616a",
+      "fullParentPathCode": "014.1406.140RR0",
+      "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.DEPARTMENTAL OFFICES.RECLAMATION CONTRACTING ACTIVITY",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=30829227e1be43cbb8ddbf537709616a&limit=1"
+        }
+      ],
+      "naicsCode": "541511",
+      "naicsCodes": [
+        "541511"
+      ],
+      "noticeId": "30829227e1be43cbb8ddbf537709616a",
+      "officeAddress": {
+        "zipcode": "80225",
+        "city": "Denver",
+        "countryCode": "USA",
+        "state": "CO"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "streetAddress2": "",
+        "city": {},
+        "state": {},
+        "zip": "",
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "kgoddard@usbr.gov",
+          "phone": "8015243823",
+          "fullName": "Goddard, Kyle"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/083671fef7fb4646b1511578d54b68b8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/295240e1a0244e608d1efcadf62d750b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4848bcde9bd7422da60175ca5c0d77d8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/48adc1620cef4ffcaf3556e6166ef3ee/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/632977bfc2f546cb950302b80b43563b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/66ad3cf5b6c44e69842714b95a5e3005/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6c70b95f8ccd44ff9e24e11552f27a98/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/70129e2d9dd54a5cb1e6ea9a05c289d1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/88b0cf90cbcf4ceca90a7d645e6fc33d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/926dff7a1b6943438871de82edc9712f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c48909634e904338b6970a5671bb137a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cc78fdab3eaa4918b8ac756cbccf2205/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ecd492fe129042219d680647abc51768/download"
+      ],
+      "responseDeadLine": "2026-11-30T17:00:00-07:00",
+      "solicitationNumber": "140R4026R0021",
+      "title": "D--IMT HDB Service IDIQ Contract",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/30829227e1be43cbb8ddbf537709616a/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-10",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "DA01",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=dddfb9dab7c84cefacc5bea1a881a225",
+      "fullParentPathCode": "097.97DH.HT0038",
+      "fullParentPathName": "DEPT OF DEFENSE.DEFENSE HEALTH AGENCY (DHA).DEFENSE HEALTH AGENCY",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=dddfb9dab7c84cefacc5bea1a881a225&limit=1"
+        }
+      ],
+      "naicsCode": "541511",
+      "naicsCodes": [
+        "541511"
+      ],
+      "noticeId": "dddfb9dab7c84cefacc5bea1a881a225",
+      "officeAddress": {
+        "zipcode": "22209",
+        "city": "ROSSLYN",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "4000",
+          "name": "4000"
+        },
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "rachael.n.bealer.civ@health.mil",
+          "phone": "",
+          "fullName": "Rachael Bealer"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "elizabeth.m.ruckwardt.civ@health.mil",
+          "phone": "",
+          "fullName": "Elizabeth M. Ruckwardt"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/559c97b1ef074340af3c48e864642360/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6cf80580433647248a29b7f343eba930/download"
+      ],
+      "responseDeadLine": "2026-11-25T12:00:00-05:00",
+      "solicitationNumber": "BATDOK001",
+      "title": "BATDOK Family of Systems (FoS)",
+      "type": "Sources Sought",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/dddfb9dab7c84cefacc5bea1a881a225/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-12-17",
       "archiveType": "auto30",
       "award": {
@@ -3965,42 +4819,42 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2026-12-08",
+      "archiveDate": "2026-12-10",
       "archiveType": "auto15",
       "award": null,
       "baseType": "Combined Synopsis/Solicitation",
-      "classificationCode": "7A20",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fca007ddc15f4090bdf3adb81c726f5b",
-      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA RMC.N55236",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.REGIONAL MAINTENANCE CENTER.SOUTHWEST REGIONAL MAINT CENTER",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d20ba1a90f31442483902adedabe2449",
+      "fullParentPathCode": "021.2100.AMC.ACC.ACC-CTRS.ACC-APG.W91RUS",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC-APG.W6QK ACC-APG CONTR CTR",
       "links": [
         {
           "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fca007ddc15f4090bdf3adb81c726f5b&limit=1"
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d20ba1a90f31442483902adedabe2449&limit=1"
         }
       ],
       "naicsCode": "541512",
       "naicsCodes": [
         "541512"
       ],
-      "noticeId": "fca007ddc15f4090bdf3adb81c726f5b",
+      "noticeId": "d20ba1a90f31442483902adedabe2449",
       "officeAddress": {
-        "zipcode": "92136-5205",
-        "city": "SAN DIEGO",
+        "zipcode": "85613-5000",
+        "city": "FORT HUACHUCA",
         "countryCode": "USA",
-        "state": "CA"
+        "state": "AZ"
       },
       "organizationType": "OFFICE",
       "placeOfPerformance": {
         "city": {
-          "code": "50398",
-          "name": "National City"
+          "code": "24670",
+          "name": "Fort Huachuca"
         },
         "state": {
-          "code": "CA",
-          "name": "California"
+          "code": "AZ",
+          "name": "Arizona"
         },
-        "zip": "91950",
+        "zip": "85613",
         "country": {
           "code": "USA",
           "name": "UNITED STATES"
@@ -4010,29 +4864,386 @@
         {
           "fax": "",
           "type": "primary",
-          "email": "scott.s.quiambao.civ@us.navy.mil",
-          "phone": "6195566047",
-          "fullName": "Scott Quiambao"
+          "email": "maren.b.marcy.civ@army.mil",
+          "phone": "520-692-1406",
+          "fullName": "Maren Marcy"
+        },
+        {
+          "type": "secondary",
+          "email": "adelina.j.kostur.civ@army.mil",
+          "phone": "520-533-1477",
+          "fullName": "Adelina J. Kostur"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/09a99363bf2644fab810a66efdeff3e3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/0f4f82eefca349eea5784d9c097ad00f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/103c9b68af6d4685a260261faf7a0445/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/14443e0ef8674e25bdb5902f1b1bf167/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/16b87c6a38d1470bbdbb846d4aff965a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/183ebed022434cb7a93095b712442b46/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/199a3845841e420ebf7bcae8402c53d4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2077f035d02b40df8d01ab5a6ae996ce/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/22fe21e267f9444fb44832caf2037842/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/24191bca41bb490bac275cfbee698208/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2443f449dda7448ca6c64c86d0c2e2ba/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2815cdcd50fb4a74b9339d1f4a7ddf30/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2a2249f3443649a6a10510bb7fb3b4e4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/2fd30081faad416d8e4de888877f897c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/30c9c260155742648668781e178ed4d1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3238eac10bfe460894cd688e13f9a992/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/37e09dc55a7a435a9dcdc457f4c0acb2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/391d81a729f74c908c3451f00212b726/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3955a53f9e0b4a09861e2244a010d537/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3d4c06593bc8459a9521f1733fdd36e7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3ead4bdc95c64fd7a65568588f19ba53/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/44073fa4b0bd4ffa862d43c4aee20900/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4704cb223e2d410389a349d8cff5b72a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a2e24a4d1b84e43bc2a58a0c6fa07ed/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a916991c21e4db8a101162709be10ff/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4f8836b275e946e2ab0165d83f50dddf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/515b07abacf6402c99a6e2fbbb552c3a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/51ec6d2b8c8e4122888cd225cb0e2b00/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/53209e5007eb425b9262788a76d2a2cf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/538759d2894a4e46ae82b7912439e316/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/58360b4cff4744cb813254f40a4a02bd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5c13b164dfae4acd967d5c3af269d34f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5c58df20c4054e289a866f45dc13b4fb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5df124d93f5847959bc4d21bfd005e70/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5ed6d7ada0734aadabae4c7c220712b1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6821e75384cd4516a1c4943789d3a861/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6f5bd44961b5418b95d583839ee26321/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/70312f9ecb07446c9e430d86520312f7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/70d9db945d124e0d95ed1b18ac21700f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/741e372243194d148bfed1bf13300d7c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/75324151b1284582ae21ff8ac80e6e1e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7d651fc5850e4c8cad6602c8ac02a689/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7de3c174611b4bdf8afdc6c04428978b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/87418b9d199f4953b91d5276055977c3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e32a97af4764277b9f29a5ffefd05f4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8e80ce5822da42dc9cb5b7e1de2f1b1a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8f3260b6c0394c03a971a89d10a94238/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/90890485766245749934e66920073960/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/92a2d7b86e19480f9e64a86dec9a1ef9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/945f3cf81fe74b7882bc173c9ba56c68/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9abf83fdd3244b289641e769b23a8700/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9c2a0bc1719f4b608c7fcf9a96ef21ad/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9d71d28dae3c4506b85cf9d9be31c0a6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9f6d2a41ce634f869324aabac3aae868/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a2c72a74c7114a5196a58f3380564d8a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a88c91b7721043a8bdf8ff6f7c779b54/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a995b9fa890745e395f167b56b23590d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/acbf0ce1be81499e8a8faf19b14966fc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae2cc949a5724c858e6c84d2e4d177ae/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae800e922f9f45cf846a66c5bf8d254e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b02bc7aec2484f199c1cee7857f773de/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b1807317b59046788ad09cb38dbe9dc2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b663e8c14cdd437cae5ffce49bdc29c8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ba3c029ca13947b3bba4c3b43cf3f724/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bab1a3b48d7544d7848b8f41b612c09a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bb6394691c34483fa334bccf686b1654/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c10d944ce031472b89c8a660e563dbbe/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c495ad13afbb4f27916bbab8c1e7eb75/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cde19f348d8d4f3d8a199daa24e59bf0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/cf20f9458345403cb5260a3b417d9489/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d6f3b96b8735417498bfd67aeb3d0439/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d73fa5634cd24724b835e9a4236980e9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d9bc529af26b4d57a8126922b5496059/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e014cdc609704806888d624b044b3f06/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e69c80cceef842ba9d8eb0ac7d40caff/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e72daab0141046a78e0ce13bb5961aa6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ecee4a312aa04dbc99c2ace762280603/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ed6d9c41f2284202a8ee47ab711d3e1a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/eea25c1ecb264e718bc4e62f64403ed6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f30af540de5e47a4a5617df1cd121c70/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f434758e57f744d9bdfe71dbe98f18b7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f6379019e7de4bc4aa5bc13a7b1bddc3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f73f351f8370407faddfe8d756db1b9e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/facce3d9c278404481e1688a232cd1a2/download"
+      ],
+      "responseDeadLine": "2026-11-25T16:00:00-07:00",
+      "solicitationNumber": "W91RUS27RA001",
+      "title": "TOTAL ENGINEERING AND INTEGRATION SERVICES  (TEIS) IV On-Ramp Opportunity",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "SBP",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Partial",
+      "uiLink": "https://sam.gov/workspace/contract/opp/d20ba1a90f31442483902adedabe2449/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-19",
+      "archiveType": "auto30",
+      "award": {
+        "date": "2026-04-08",
+        "number": "GS35F0363Y"
+      },
+      "baseType": "Justification",
+      "classificationCode": "DB01",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4f82e66fdc2b4086b7293db77f976f29",
+      "fullParentPathCode": "050.5000.503102",
+      "fullParentPathName": "SECURITIES AND EXCHANGE COMMISSION.SECURITIES AND EXCHANGE COMMISSION.SECURITIES AND EXCHANGE COMMISSION",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=4f82e66fdc2b4086b7293db77f976f29&limit=1"
+        }
+      ],
+      "naicsCode": "541512",
+      "naicsCodes": [
+        "541512"
+      ],
+      "noticeId": "4f82e66fdc2b4086b7293db77f976f29",
+      "officeAddress": {
+        "zipcode": "20549",
+        "city": "WASHINGTON",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "66672",
+          "name": "Reston"
+        },
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "zip": "20190",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "taylorank@SEC.GOV",
+          "phone": "",
+          "fullName": "Anke Taylor"
         },
         {
           "fax": "",
           "type": "secondary",
-          "email": "jorge.a.morales67.civ@us.navy.mil",
-          "phone": "6192515076",
-          "fullName": "Jorge Morales"
+          "email": "riveraweedinm@sec.gov",
+          "phone": "",
+          "fullName": "Melissa Rivera-Weedin"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d80160f64ee54546a73b5303d008539d/download"
+      ],
+      "responseDeadLine": null,
+      "solicitationNumber": "50310226F0028",
+      "title": "J&A for Legacy EDGAR",
+      "type": "Justification",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/4f82e66fdc2b4086b7293db77f976f29/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-30",
+      "archiveType": "autocustom",
+      "award": {
+        "awardee": {}
+      },
+      "baseType": "Sources Sought",
+      "classificationCode": "DA01",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=37a024012c0c4a2ab661986c470f31cc",
+      "fullParentPathCode": "036.3600.36C10B",
+      "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.TECHNOLOGY ACQUISITION CENTER NJ (36C10B)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=37a024012c0c4a2ab661986c470f31cc&limit=1"
+        }
+      ],
+      "naicsCode": "541512",
+      "naicsCodes": [
+        "541512"
+      ],
+      "noticeId": "37a024012c0c4a2ab661986c470f31cc",
+      "officeAddress": {
+        "zipcode": "07724",
+        "city": "EATONTOWN",
+        "countryCode": "USA",
+        "state": "NJ"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "streetAddress2": "",
+        "city": {},
+        "state": {},
+        "zip": "",
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "Nicole.Bestreski@va.gov",
+          "phone": "848-377-5144",
+          "title": "nicole.bestreski@va.gov",
+          "fullName": "Nicole  Bestreski"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3a44abf182e64373816d728b1530d4ae/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/78444e61ceea4a10bc3a37c3b63263d5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7c26403f86014ecdb8a0aadde631a0b3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/95968c4aa0b844029987ea541dbed6e9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bbe54cd99c354d8c8b1f788d31c0f649/download"
+      ],
+      "responseDeadLine": "2026-10-01T10:00:00-04:00",
+      "solicitationNumber": "36C10B26Q0725",
+      "title": "DA01--Compensation & Pension (C&P) End User and Deployment Support  (VA-27-00007060)",
+      "type": "Sources Sought",
+      "typeOfSetAside": "",
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/37a024012c0c4a2ab661986c470f31cc/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-03-24",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "DG01",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=020e637fe6e94f7cbbfc781539fe0f53",
+      "fullParentPathCode": "017.1700.USMC.MARCORP I&L.MCICOM.MCINCR.M00264",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.USMC.MARCORP I&L.MARINE CORPS INSTALLATIONS COMMAND.MCINCR.COMMANDER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=020e637fe6e94f7cbbfc781539fe0f53&limit=1"
+        }
+      ],
+      "naicsCode": "541512",
+      "naicsCodes": [
+        "541512"
+      ],
+      "noticeId": "020e637fe6e94f7cbbfc781539fe0f53",
+      "officeAddress": {
+        "zipcode": "22134",
+        "city": "QUANTICO",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "Mainly at Marine Corps University, Quantico VA and regional campuses across multiple sites. ",
+        "zip": "22134"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "christian.hernandezsoto@usmc.mil",
+          "phone": "",
+          "fullName": "Christian Hernandez Soto"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "jeffrey.a.sisk@usmc.mil",
+          "phone": "",
+          "fullName": "Jeffrey Sisk, Sr."
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1babb2834a0f4b898c6ce4d61587e2e5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/20602be026154d01bf46f0f946d0eb7a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/63aa80868c014d73872f40f9b6f5c827/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d275976e8a4c4d13a614a3c6ab42b386/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d93e20603ac54a998a8ff752f895775a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6201c7799c646138e6a1c4b4417ad26/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/efcbc37522c64680ac40c235149905e8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f29bc99409494a11bd4eda47483cf446/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f59fdaad4dfa4498889d1382d7d55596/download"
+      ],
+      "responseDeadLine": "2026-12-08T10:00:00-05:00",
+      "solicitationNumber": "M0026427R0001",
+      "title": "Marine Corps Education Command Information Technology Support Services",
+      "type": "Solicitation",
+      "typeOfSetAside": "WOSB",
+      "typeOfSetAsideDescription": "SBA Certified Women-Owned Small Business (WOSB) Program Set-Aside (FAR 19.15)",
+      "uiLink": "https://sam.gov/workspace/contract/opp/020e637fe6e94f7cbbfc781539fe0f53/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-19",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b8ca2ef21ff84da8a77c2870afdf450e",
+      "fullParentPathCode": "080.8000.80JSC0",
+      "fullParentPathName": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA JOHNSON SPACE CENTER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b8ca2ef21ff84da8a77c2870afdf450e&limit=1"
+        }
+      ],
+      "naicsCode": "541512",
+      "naicsCodes": [
+        "541512"
+      ],
+      "noticeId": "b8ca2ef21ff84da8a77c2870afdf450e",
+      "officeAddress": {
+        "zipcode": "77058",
+        "city": "HOUSTON",
+        "countryCode": "USA",
+        "state": "TX"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "35000",
+          "name": "Houston"
+        },
+        "state": {
+          "code": "TX",
+          "name": "Texas"
+        },
+        "zip": "77058",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "jsc-orbit-procurement@mail.nasa.gov",
+          "phone": "",
+          "fullName": "Edwin Ortiz-Franco"
         }
       ],
       "postedDate": "2026-11-18",
       "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aceb380fe461478396be748462f4270b/download"
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4a63effc0b744aae8fc22309607913cd/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/696cd94590694ec8b6cfc19eb9ea1523/download"
       ],
-      "responseDeadLine": "2026-11-23T11:00:00-08:00",
-      "solicitationNumber": "N5523627Q0003",
-      "title": "SOLICITATION_SERVICENOW STAFF AUGMENTATION SERVICES",
-      "type": "Combined Synopsis/Solicitation",
-      "typeOfSetAside": "NONE",
-      "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/fca007ddc15f4090bdf3adb81c726f5b/view"
+      "responseDeadLine": "2026-12-04T17:00:00-06:00",
+      "solicitationNumber": "80JSC026ORBIT",
+      "title": "Operations, Research, and Broad Innovative Technology Services (ORBIT)   Request for Information (RFI) and Sources Sought Notice (SSN)",
+      "type": "Sources Sought",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/b8ca2ef21ff84da8a77c2870afdf450e/view"
     },
     {
       "active": "Yes",
@@ -4232,6 +5443,139 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/40753072fa68490cbeeeba31dab9fd29/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-11-18",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "DA01",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3e4b52f4d2294259a445c421f349cdca",
+      "fullParentPathCode": "017.1700.SPAWAR.SPAWAR HQ.N00039",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3e4b52f4d2294259a445c421f349cdca&limit=1"
+        }
+      ],
+      "naicsCode": "541512",
+      "naicsCodes": [
+        "541512"
+      ],
+      "noticeId": "3e4b52f4d2294259a445c421f349cdca",
+      "officeAddress": {
+        "zipcode": "92110-3127",
+        "city": "SAN DIEGO",
+        "countryCode": "USA",
+        "state": "CA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "San Diego, California",
+        "zip": "92110"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "danica.r.sablad.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Danica Sablad"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "sarah.m.murr.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Sarah Murr"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-17T13:00:00-07:00",
+      "solicitationNumber": "N0003927RM002",
+      "title": "Solicitation - N0003927RM002: NILE ISS 6 Engineering Services",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/3e4b52f4d2294259a445c421f349cdca/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-08",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "7A20",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=2aebeaad0e184a8d995c9f27f2c7fd95",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA RMC.N55236",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.REGIONAL MAINTENANCE CENTER.SOUTHWEST REGIONAL MAINT CENTER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=2aebeaad0e184a8d995c9f27f2c7fd95&limit=1"
+        }
+      ],
+      "naicsCode": "541512",
+      "naicsCodes": [
+        "541512"
+      ],
+      "noticeId": "2aebeaad0e184a8d995c9f27f2c7fd95",
+      "officeAddress": {
+        "zipcode": "92136-5205",
+        "city": "SAN DIEGO",
+        "countryCode": "USA",
+        "state": "CA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "50398",
+          "name": "National City"
+        },
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "91950",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "scott.s.quiambao.civ@us.navy.mil",
+          "phone": "6195566047",
+          "fullName": "Scott Quiambao"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "jorge.a.morales67.civ@us.navy.mil",
+          "phone": "6192515076",
+          "fullName": "Jorge Morales"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/18472d640a0743c5a3c9ffa15411dde5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7fb41a587c2141adae56c57985ed2e92/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aceb380fe461478396be748462f4270b/download"
+      ],
+      "responseDeadLine": "2026-11-23T11:00:00-08:00",
+      "solicitationNumber": "N5523627Q0003",
+      "title": "SOLICITATION_SERVICENOW STAFF AUGMENTATION SERVICES _ Amend 0001",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/2aebeaad0e184a8d995c9f27f2c7fd95/view"
     },
     {
       "active": "Yes",
@@ -4551,65 +5895,6 @@
       "typeOfSetAside": "SBA",
       "typeOfSetAsideDescription": "Small Business Set Aside - Total",
       "uiLink": "https://sam.gov/workspace/contract/opp/c25438bb90154fc09ca1b8f819b5ec91/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-11-17",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Solicitation",
-      "classificationCode": "DA01",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b51c8bc73f1c458cbeb90b5e57db8c77",
-      "fullParentPathCode": "017.1700.SPAWAR.SPAWAR HQ.N00039",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR HQ.NAVAL INFORMATION WARFARE SYSTEMS",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b51c8bc73f1c458cbeb90b5e57db8c77&limit=1"
-        }
-      ],
-      "naicsCode": "541512",
-      "naicsCodes": [
-        "541512"
-      ],
-      "noticeId": "b51c8bc73f1c458cbeb90b5e57db8c77",
-      "officeAddress": {
-        "zipcode": "92110-3127",
-        "city": "SAN DIEGO",
-        "countryCode": "USA",
-        "state": "CA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "San Diego, California",
-        "zip": "92110"
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "danica.r.sablad.civ@us.navy.mil",
-          "phone": "",
-          "fullName": "Danica Sablad"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "sarah.m.murr.civ@us.navy.mil",
-          "phone": "",
-          "fullName": "Sarah Murr"
-        }
-      ],
-      "postedDate": "2026-11-17",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-12-17T13:00:00-07:00",
-      "solicitationNumber": "N0003927RM002",
-      "title": "Solicitation - N0003927RM002: NILE ISS 6 Engineering Services",
-      "type": "Solicitation",
-      "typeOfSetAside": "SBA",
-      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
-      "uiLink": "https://sam.gov/workspace/contract/opp/b51c8bc73f1c458cbeb90b5e57db8c77/view"
     },
     {
       "active": "Yes",
@@ -5691,6 +6976,921 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2027-01-02",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "Z1AA",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fcca47e8dcce42858d743ef446214365",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA HQ.N00024",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA HQ.NAVSEA HQ",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fcca47e8dcce42858d743ef446214365&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "fcca47e8dcce42858d743ef446214365",
+      "officeAddress": {
+        "zipcode": "20376-5000",
+        "city": "WASHINGTON NAVY YARD",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "50700",
+          "name": "Washington Navy Yard"
+        },
+        "state": {
+          "code": "DC",
+          "name": "District of Columbia"
+        },
+        "zip": "20376",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "lee.e.troope.civ@us.navy.mil",
+          "phone": "2027811254",
+          "fullName": "Lee E. Troope, Jr."
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c9d2689be3c64bc088f9596deefc3d0d/download"
+      ],
+      "responseDeadLine": "2026-12-18T14:00:00-05:00",
+      "solicitationNumber": "N00024-27-R-0200",
+      "title": "Enterprise Workspace Management Support",
+      "type": "Sources Sought",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/fcca47e8dcce42858d743ef446214365/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-01-18",
+      "archiveType": "autocustom",
+      "award": {
+        "date": "2026-11-19",
+        "number": "36C24527C0008",
+        "amount": "637196.98",
+        "awardee": {
+          "name": "NAGEL SERVICES LLC",
+          "location": {
+            "streetAddress": "",
+            "streetAddress2": "",
+            "city": {
+              "name": "BROOKFIELD"
+            },
+            "state": {
+              "name": "WI"
+            },
+            "zip": "53005",
+            "country": {
+              "name": "WI"
+            }
+          }
+        }
+      },
+      "baseType": "Special Notice",
+      "classificationCode": "C1DZ",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e54dd83fe1b3446db4e696bb691904e2",
+      "fullParentPathCode": "036.3600.36C245",
+      "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e54dd83fe1b3446db4e696bb691904e2&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "e54dd83fe1b3446db4e696bb691904e2",
+      "officeAddress": {
+        "zipcode": "21090",
+        "city": "LINTHICUM",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "streetAddress2": "",
+        "city": {},
+        "state": {},
+        "zip": "",
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "robert.hallock@va.gov",
+          "phone": "304-596-1651",
+          "title": "Contracting Officer",
+          "fullName": "Robert Tyler Hallock"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/676ff922e9c946f5b9bab03770a1ba79/download"
+      ],
+      "responseDeadLine": null,
+      "solicitationNumber": "36C24526R0063",
+      "title": "C1DZ--Build Out B500-3A Shell for ICU",
+      "type": "Award Notice",
+      "typeOfSetAside": "SDVOSBC",
+      "typeOfSetAsideDescription": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
+      "uiLink": "https://sam.gov/workspace/contract/opp/e54dd83fe1b3446db4e696bb691904e2/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-30",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "R799",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c94616317c804c57888394befaed31d4",
+      "fullParentPathCode": "017.1700.NAVAIR.NAVAIR HQS.N00019",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVAIR.NAVAIR HQS.NAVAL AIR SYSTEMS COMMAND",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=c94616317c804c57888394befaed31d4&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "c94616317c804c57888394befaed31d4",
+      "officeAddress": {
+        "zipcode": "20670-5000",
+        "city": "PATUXENT RIVER",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "state": {
+          "code": "MD",
+          "name": "Maryland"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "olivia.e.bossert.civ@us.navy.mil",
+          "phone": "771-237-1344",
+          "fullName": "Olivia Bossert"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "carolyn.emmart@navy.mil",
+          "phone": "3017574074",
+          "fullName": "Carolyn A. Emmart"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/15c24d83133c4c82acd7f8c5e1778ff6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/17c9c7a13b704cf8b1d1ee3698ab8e02/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/18c9747c3973431b977ae56d0e814f32/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/23b8f1159fd54a789dcc5952c0f0860d/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/31be477a56a6423da0a25b83920e6f78/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/31eb52876c9e483cbabb87c5e32a027e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/35a2a83da0d64f7ab757edfb743534df/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e32aba68acb4b7f8c7c4dbee01792b7/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4c809376f6c24c328704a4f7eeb6d97a/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/4d7f0cf9a271402bbf7da8cea5af33bf/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/5ec03085ffc44f1f9d3b706e044e479b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/626140622ab545fcbb53d1f03d6810a4/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7291d83c143f464f8f6d871f282cca66/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/79ac22ad5ac04a09afd77a84770cb897/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7aa5646d4f314a56a668e5ff546a0649/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7eefa08305694d4db74c360bbf52b6a0/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9b32b8444ba34e649841be0ebe6e0cb3/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a0a31067c20c44bc9dc37afdd835d23e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ae5e23c0fae141ba8d19f9b35fad47f1/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ddde292326234023a79f68c7a7edbe23/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/df2fd0ebb9fa4e7595d5956c67fc5b3c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e9e55a044e574807b5412df50bd7c0bc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ff21ad7e0f2d4899a518dc07b5cfc2b2/download"
+      ],
+      "responseDeadLine": "2026-12-15T13:00:00-05:00",
+      "solicitationNumber": "N0042127R1008",
+      "title": "NAWCAD (WOLF) Airborne Systems Integration (ASI ) Division Technical/Project Management Support (TPMS)",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/c94616317c804c57888394befaed31d4/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-19",
+      "archiveType": "auto30",
+      "award": {
+        "date": "2026-11-10",
+        "number": "47QRAD23DU100"
+      },
+      "baseType": "Justification",
+      "classificationCode": "R499",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=b1432e588cef405db39d5e99c97b588f",
+      "fullParentPathCode": "097.5700.AFMC.AFRL.KIRTLAND AFRL.AFRL RDK.FA9451",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE RESEARCH LABORATORY.KIRTLAND AIR FORCE RESEARCH LABORATORY.AIR FORCE RESEARCH LABORATORY RDK.FA9451  AFRL RFZ",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=b1432e588cef405db39d5e99c97b588f&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "b1432e588cef405db39d5e99c97b588f",
+      "officeAddress": {
+        "zipcode": "87117-0001",
+        "city": "KIRTLAND AFB",
+        "countryCode": "USA",
+        "state": "NM"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "0",
+          "name": "0"
+        },
+        "state": {
+          "code": "NM",
+          "name": "New Mexico"
+        },
+        "zip": "87117",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "jennifer.jaramillo@us.af.mil",
+          "phone": "",
+          "fullName": "Jennifer Jaramillo"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/334706445bba4a84b3d24d311653e989/download"
+      ],
+      "responseDeadLine": null,
+      "solicitationNumber": "FA945125FX001-P00051",
+      "title": "Justification for an Exception to Fair Opportunity (JEFO) - MARS Bridge Task Order FA9451-25-F-X001 Modification",
+      "type": "Justification",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/b1432e588cef405db39d5e99c97b588f/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-09-16",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "C216",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=53657795c3984aac8118402b829c2c32",
+      "fullParentPathCode": "021.2100.USACE.NAD.NAP.W912BU",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST PHILADELPHIA.W2SD ENDIST PHILADELPHIA",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=53657795c3984aac8118402b829c2c32&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "53657795c3984aac8118402b829c2c32",
+      "officeAddress": {
+        "zipcode": "19103-2029",
+        "city": "PHILADELPHIA",
+        "countryCode": "USA",
+        "state": "PA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "zip": ""
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "Quinn.P.Greene@usace.army.mil",
+          "phone": "",
+          "fullName": "Quinn Greene"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "Esther.A.Edinborough@usace.army.mil",
+          "phone": "",
+          "fullName": "Esther Edinborough"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-18T12:00:00-05:00",
+      "solicitationNumber": "W912BU26RA036",
+      "title": "INDEFINITE DELIVERY INDEFINITE QUANTITY CONTRACT FOR INLAND AND COASTAL VESSELS ENGINEERING SERVICES, NAVAL ARCHITECTURE, AND MARINE ENGINEERING",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/53657795c3984aac8118402b829c2c32/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-22",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "C219",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=50b964c960254292b0b882dfdd4f1a57",
+      "fullParentPathCode": "021.2100.NGB.JFHQ USPFO PR.USPFO PR PROC.W912LR",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO PR.USPFO PR PROCUREMENT.W7PA USPFO ACTIVITY PR ARNG",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=50b964c960254292b0b882dfdd4f1a57&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "50b964c960254292b0b882dfdd4f1a57",
+      "officeAddress": {
+        "zipcode": "00934",
+        "city": "FORT BUCHANAN",
+        "countryCode": "USA",
+        "state": "PR"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "74791",
+          "name": "Salinas"
+        },
+        "state": {
+          "code": "PR",
+          "name": "Puerto Rico"
+        },
+        "zip": "00751",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "argenies.e.gonzalezgarcia.mil@army.mil",
+          "phone": "",
+          "fullName": "Argenies Gonzalez (Contracting Officer)"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "prarng-contracting-mbx@army.mil",
+          "phone": "",
+          "fullName": "Contracting Office Mailbox"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6124715dce8f44b79b614822feb51fcf/download"
+      ],
+      "responseDeadLine": "2026-12-07T16:00:00-04:00",
+      "solicitationNumber": "PRARNG27SS39258",
+      "title": "Sources Sought \u2013 Potential Sole-Source Title II/Type \u201cC\u201d Architect-Engineer Services, Project No. 431850, Camp Santiago, Puerto Rico",
+      "type": "Sources Sought",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/50b964c960254292b0b882dfdd4f1a57/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-11-19",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "L059",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=4acab565b2234c349c353ec3adc9b107",
+      "fullParentPathCode": "017.1700.SPAWAR.SPAWAR LANT.N65236",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=4acab565b2234c349c353ec3adc9b107&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "4acab565b2234c349c353ec3adc9b107",
+      "officeAddress": {
+        "zipcode": "29419-9022",
+        "city": "NORTH CHARLESTON",
+        "countryCode": "USA",
+        "state": "SC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "One Innovation Drive Hanahan, SC 29406",
+        "zip": "29406"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "norma.z.rehbein-hill.civ@us.navy.mil",
+          "phone": "7574034621",
+          "fullName": "Norma REHBEIN-HILL"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-11T17:00:00-05:00",
+      "solicitationNumber": "N65236-26-RFPREQ-LSUBP00035-0009",
+      "title": "SUBMARINE C4ISR SYSTEMS TECH SUPPORT, INSTALLATION AND MODERNIZATION",
+      "type": "Sources Sought",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/4acab565b2234c349c353ec3adc9b107/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2031-11-18",
+      "archiveType": "autocustom",
+      "award": {
+        "date": "2026-11-19",
+        "number": "47QRAA27D01QE",
+        "amount": "80000000",
+        "awardee": {
+          "name": "ALLEGHENY SCIENCE & TECHNOLOGY CORPORATION",
+          "location": {
+            "city": {
+              "code": "10180",
+              "name": "Bridgeport"
+            },
+            "state": {
+              "code": "WV",
+              "name": "West Virginia"
+            },
+            "zip": "26330",
+            "country": {
+              "code": "USA",
+              "name": "UNITED STATES"
+            }
+          }
+        }
+      },
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "99",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=489b4ac67a3845e2b741a61f4c7f447e",
+      "fullParentPathCode": "047.4732.47QSMA",
+      "fullParentPathName": "GENERAL SERVICES ADMINISTRATION.FEDERAL ACQUISITION SERVICE.GSA/FAS FURNITURE SYSTEMS MGT DIV",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=489b4ac67a3845e2b741a61f4c7f447e&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "489b4ac67a3845e2b741a61f4c7f447e",
+      "officeAddress": {
+        "zipcode": "19107",
+        "city": "PHILADELPHIA",
+        "countryCode": "USA",
+        "state": "PA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": null,
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "fullName": "Connor Theisen 253-441-7042 "
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-11-19T11:12:13-05:00",
+      "solicitationNumber": "47QSMD20R0001",
+      "title": "Multiple Award Schedule",
+      "type": "Award Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/489b4ac67a3845e2b741a61f4c7f447e/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-05-06",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1b709bdcac9440c8856cab09b5e392be",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00178",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=1b709bdcac9440c8856cab09b5e392be&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "1b709bdcac9440c8856cab09b5e392be",
+      "officeAddress": {
+        "zipcode": "22448-5154",
+        "city": "DAHLGREN",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "DAHLGREN, VA  22448-5114 DAHLGREN VA 22448-5114 USA",
+        "zip": "22448"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "ashley.n.newton10.civ@us.navy.mil",
+          "phone": "5407428787",
+          "fullName": "Ashley Newton"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-02T12:00:00-04:00",
+      "solicitationNumber": "N0017827R0004",
+      "title": "Electronic Warfare and Spectrum Operations (EWSO)",
+      "type": "Sources Sought",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/1b709bdcac9440c8856cab09b5e392be/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-14",
+      "archiveType": "autocustom",
+      "award": {
+        "awardee": {}
+      },
+      "baseType": "Special Notice",
+      "classificationCode": "C1DZ",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=19a656fc22424886a69aefe2402922b8",
+      "fullParentPathCode": "036.3600.36C245",
+      "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.245-NETWORK CONTRACT OFFICE 5 (36C245)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=19a656fc22424886a69aefe2402922b8&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "19a656fc22424886a69aefe2402922b8",
+      "officeAddress": {
+        "zipcode": "21090",
+        "city": "LINTHICUM",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {},
+        "state": {},
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "robert.hallock@va.gov",
+          "phone": "304-596-0651",
+          "title": "Contracting Officer",
+          "fullName": "Robert Tyler Hallock"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/6f8debe305184d78a70a2a62f1a937e2/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8fc1bb6346db4dfea2ab9b577d2f83ce/download"
+      ],
+      "responseDeadLine": "2026-03-27T11:00:00-04:00",
+      "solicitationNumber": "36C24526R0063",
+      "title": "C1DZ--Build Out B500-3A Shell for ICU",
+      "type": "Special Notice",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/19a656fc22424886a69aefe2402922b8/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-01-31",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "R499",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=1252c7700ecf4073adf5a2725b82e9f5",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00253",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL UNDERSEA WARFARE CENTER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=1252c7700ecf4073adf5a2725b82e9f5&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "1252c7700ecf4073adf5a2725b82e9f5",
+      "officeAddress": {
+        "zipcode": "98345-7610",
+        "city": "KEYPORT",
+        "countryCode": "USA",
+        "state": "WA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "610 Dowell Road, Keyport, WA 98345",
+        "zip": "98345"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "dane.a.jacobson3.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Dane Jacobson"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "matthew.a.mclean8.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Matt McLean"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-18T15:00:00-08:00",
+      "solicitationNumber": "N0025327R3001",
+      "title": "Keyport Infrastructure Security Support Services Solicitation",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/1252c7700ecf4073adf5a2725b82e9f5/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-01-04",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=0f9db49c136c4a889b74de3ba31a3028",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N61331",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NAVAL SURFACE WARFARE CENTER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=0f9db49c136c4a889b74de3ba31a3028&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "0f9db49c136c4a889b74de3ba31a3028",
+      "officeAddress": {
+        "zipcode": "32407-7001",
+        "city": "PANAMA CITY BEACH",
+        "countryCode": "USA",
+        "state": "FL"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "city": {
+          "code": "54725",
+          "name": "Panama City Beach"
+        },
+        "state": {
+          "code": "FL",
+          "name": "Florida"
+        },
+        "zip": "32407",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "kristin.s.shaw.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Kristin Shaw"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "angela.m.sammons2.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Angela Sammons"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-11T14:00:00-06:00",
+      "solicitationNumber": "N6133127R0006",
+      "title": "Mission Module Solicitation",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/0f9db49c136c4a889b74de3ba31a3028/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-03",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": null,
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=fb5f3d1d407b420da2036eb58095ba0c",
+      "fullParentPathCode": "089.8900.899091",
+      "fullParentPathName": "ENERGY, DEPARTMENT OF.ENERGY, DEPARTMENT OF.HANFORD TANK WASTE OPERATIONS & CLOSURE LLC - DOE CONTRACTOR",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=fb5f3d1d407b420da2036eb58095ba0c&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "fb5f3d1d407b420da2036eb58095ba0c",
+      "officeAddress": {
+        "zipcode": "99352",
+        "city": "Richland",
+        "countryCode": "USA",
+        "state": "WA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "58235",
+          "name": "Richland"
+        },
+        "state": {
+          "code": "WA",
+          "name": "Washington"
+        },
+        "zip": "99352",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "adria_l_ibach@rl.gov",
+          "phone": "(509)372-3815",
+          "fullName": "Adria Ibach"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-02T16:00:00-08:00",
+      "solicitationNumber": "SOLICITATION_NUMBER_391454",
+      "title": "SOLICITATION NUMBER 391454 \u201cHAZARDOUS AREA CLASSIFICATION REVIEW AND TRAINING SUPPORT\u201d",
+      "type": "Sources Sought",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/fb5f3d1d407b420da2036eb58095ba0c/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-04-30",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=e9d8deb519fb4924a6eac4a3d032ad72",
+      "fullParentPathCode": "014.1406.140RR0",
+      "fullParentPathName": "INTERIOR, DEPARTMENT OF THE.DEPARTMENTAL OFFICES.RECLAMATION CONTRACTING ACTIVITY",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=e9d8deb519fb4924a6eac4a3d032ad72&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "e9d8deb519fb4924a6eac4a3d032ad72",
+      "officeAddress": {
+        "zipcode": "80225",
+        "city": "Denver",
+        "countryCode": "USA",
+        "state": "CO"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "",
+        "streetAddress2": "",
+        "city": {},
+        "state": {},
+        "zip": "",
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "stephanie_lindner@ios.doi.gov",
+          "phone": "916-591-0194",
+          "fullName": "Lindner, Stephanie"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8892104a427140e9a7c418d595bb5fdc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/9fe1a1ef73dc483f95d55d038282cf21/download"
+      ],
+      "responseDeadLine": "2026-12-03T17:00:00-08:00",
+      "solicitationNumber": "140RR027Q0057",
+      "title": "R--Professional Services for Construction Management Support",
+      "type": "Sources Sought",
+      "typeOfSetAside": "",
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/e9d8deb519fb4924a6eac4a3d032ad72/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2031-11-17",
       "archiveType": "autocustom",
       "award": {
@@ -5754,6 +7954,189 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/db72f35d3a644e46b98696f42a219f42/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-11-18",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d3c96b1527d04a48b89d891d2d243f87",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N64498",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC PHILADELPHIA DIV",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d3c96b1527d04a48b89d891d2d243f87&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "d3c96b1527d04a48b89d891d2d243f87",
+      "officeAddress": {
+        "zipcode": "19112-1403",
+        "city": "PHILADELPHIA",
+        "countryCode": "USA",
+        "state": "PA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "Contractor facilities",
+        "zip": ""
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "anthony.j.piccari.civ@us.navy.mil",
+          "phone": "4452277615",
+          "fullName": "Anthony Piccari"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "anthony.j.mackell.civ@us.navy.mil",
+          "phone": "4452368781",
+          "fullName": "Anthony Mackell"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-18T16:00:00-05:00",
+      "solicitationNumber": "N6449827R0011",
+      "title": "Caterpillar, Inc. (CAT) Diesel Engine Lifecycle Support Services",
+      "type": "Solicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/d3c96b1527d04a48b89d891d2d243f87/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-11-18",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "AC13",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d2cc49084a644e368579d2f31d8b438f",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00167",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC CARDEROCK",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d2cc49084a644e368579d2f31d8b438f&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "d2cc49084a644e368579d2f31d8b438f",
+      "officeAddress": {
+        "zipcode": "20817-5700",
+        "city": "BETHESDA",
+        "countryCode": "USA",
+        "state": "MD"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "9500 MACARTHUR BOULEVARD, BETHESDA MD 20817-5700 ",
+        "zip": "20817"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "alexander.c.lambis.civ@us.navy.mil",
+          "phone": "2405193430",
+          "fullName": "Alexander Lambis"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-11-24T13:00:00-05:00",
+      "solicitationNumber": "N0016726R3104",
+      "title": "RFP for Advanced Signatures Technologies (AST) ",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/d2cc49084a644e368579d2f31d8b438f/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-17",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=d0b44874405840e0bab42276608fdf75",
+      "fullParentPathCode": "017.1700.NAVSUP.NAVSUP GLS.NAVSUP FLC NORFOLK.N00189",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=d0b44874405840e0bab42276608fdf75&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "d0b44874405840e0bab42276608fdf75",
+      "officeAddress": {
+        "zipcode": "23511-3392",
+        "city": "NORFOLK",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "0",
+          "name": "0"
+        },
+        "state": {
+          "code": "MD",
+          "name": "Maryland"
+        },
+        "zip": "20755",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "david.e.vaughn6.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "David Vaughn"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "amber.geusic@navy.mil",
+          "phone": "",
+          "fullName": "Amber Geusic"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b8b7685c39b54187bbd0076c965b2af6/download"
+      ],
+      "responseDeadLine": "2026-12-02T17:00:00-05:00",
+      "solicitationNumber": "N0018927SSN181126",
+      "title": "Spectrum Engineering Technical Support Services",
+      "type": "Sources Sought",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/d0b44874405840e0bab42276608fdf75/view"
     },
     {
       "active": "Yes",
@@ -5888,6 +8271,65 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/b5d1a1c25ab146c4825dd115818af990/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2028-04-01",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": "R799",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a994bc2ff5404050b1553208a3ae0916",
+      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00178",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a994bc2ff5404050b1553208a3ae0916&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "a994bc2ff5404050b1553208a3ae0916",
+      "officeAddress": {
+        "zipcode": "22448-5154",
+        "city": "DAHLGREN",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "DAHLGREN, VA  22448-5114 DAHLGREN VA 22448-5114 USA",
+        "zip": "22448"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "sophia.a.somsen.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Sophia Somsen"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "sean.t.mcgovern5.civ@us.navy.mil",
+          "phone": "5407428777",
+          "fullName": "Sean McGovern"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-18T12:00:00-05:00",
+      "solicitationNumber": "N0017827R3103",
+      "title": "B Department Operations Support",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/a994bc2ff5404050b1553208a3ae0916/view"
     },
     {
       "active": "Yes",
@@ -6033,6 +8475,75 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-12-18",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Presolicitation",
+      "classificationCode": "C211",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=90c7dc5b61434464a1c7439c2e9866f0",
+      "fullParentPathCode": "057.5700.ACC.FA4600",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR COMBAT COMMAND.FA4600  55 CONS  PKP",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=90c7dc5b61434464a1c7439c2e9866f0&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "90c7dc5b61434464a1c7439c2e9866f0",
+      "officeAddress": {
+        "zipcode": "68113",
+        "city": "OFFUTT AFB",
+        "countryCode": "USA",
+        "state": "NE"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "0",
+          "name": "0"
+        },
+        "state": {
+          "code": "NE",
+          "name": "Nebraska"
+        },
+        "zip": "68113",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "joseph.impallaria.1@us.af.mil",
+          "phone": "402-232-0067",
+          "fullName": "Joseph Impallaria"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "blaine.terry.2@us.af.mil",
+          "phone": "4022322517",
+          "fullName": "Blaine Terry"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-03T15:00:00-06:00",
+      "solicitationNumber": "A071835",
+      "title": "A-E Redesign of Deterrence Park, Offutt AFB, NE",
+      "type": "Presolicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/90c7dc5b61434464a1c7439c2e9866f0/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-12-17",
       "archiveType": "auto15",
       "award": null,
@@ -6158,58 +8669,6 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2027-05-06",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Sources Sought",
-      "classificationCode": "",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7d078f5f4a324f2d99e1f1355d78a8b2",
-      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00178",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC DAHLGREN",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7d078f5f4a324f2d99e1f1355d78a8b2&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "7d078f5f4a324f2d99e1f1355d78a8b2",
-      "officeAddress": {
-        "zipcode": "22448-5154",
-        "city": "DAHLGREN",
-        "countryCode": "USA",
-        "state": "VA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "DAHLGREN, VA  22448-5114 DAHLGREN VA 22448-5114 USA",
-        "zip": "22448"
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "ashley.n.newton10.civ@us.navy.mil",
-          "phone": "5407428787",
-          "fullName": "Ashley Newton"
-        }
-      ],
-      "postedDate": "2026-11-18",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-11-20T12:00:00-04:00",
-      "solicitationNumber": "N0017827R0004",
-      "title": "Electronic Warfare and Spectrum Operations (EWSO)",
-      "type": "Sources Sought",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/7d078f5f4a324f2d99e1f1355d78a8b2/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
       "archiveDate": "2026-12-02",
       "archiveType": "autocustom",
       "award": null,
@@ -6279,6 +8738,151 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/6ce3e7230e594467b9871e2dc605867f/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-05",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=67828a4ef7d643cdb7794c08328a95a0",
+      "fullParentPathCode": "017.1700.NAVSUP.NAVSUP GLS.NAVSUP FLC NORFOLK.N00189",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=67828a4ef7d643cdb7794c08328a95a0&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "67828a4ef7d643cdb7794c08328a95a0",
+      "officeAddress": {
+        "zipcode": "23511-3392",
+        "city": "NORFOLK",
+        "countryCode": "USA",
+        "state": "VA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "57000",
+          "name": "Norfolk"
+        },
+        "state": {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        "zip": "23551",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "john.c.hill36.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "JOHN HILL"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "lorna.d.mohney.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Lorna Mohney"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/428bd1effff0460f96caeb2fc0acb901/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/963ba2bc3615412d85fe37d191f23728/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a22194e010ba4f87b274b663478bd228/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5827ae6370345809318f883bba75698/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bac4f8049d744395a6402e97c205cecb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bcccfb4d72dc47e69439ac5c5d5c9319/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3ca725c362c46ef852c64f578cab328/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6622f5444eb4f769f49a7a0906c510b/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e8ccaf12fa2347a7bc341588e11a90d7/download"
+      ],
+      "responseDeadLine": "2026-11-20T08:00:00-05:00",
+      "solicitationNumber": "N0018927QL019",
+      "title": "United States\u2013United Kingdom (US-UK) Enhanced Cooperation on Carrier Operations and Maritime Power Projection Support Services",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/67828a4ef7d643cdb7794c08328a95a0/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-03-04",
+      "archiveType": "autocustom",
+      "award": {
+        "awardee": {}
+      },
+      "baseType": "Presolicitation",
+      "classificationCode": "C1DA",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6725341e34154e6d826fba322593fc4b",
+      "fullParentPathCode": "036.3600.36C255",
+      "fullParentPathName": "VETERANS AFFAIRS, DEPARTMENT OF.VETERANS AFFAIRS, DEPARTMENT OF.255-NETWORK CONTRACT OFFICE 15 (36C255)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=6725341e34154e6d826fba322593fc4b&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "6725341e34154e6d826fba322593fc4b",
+      "officeAddress": {
+        "zipcode": "66048",
+        "city": "LEAVENWORTH",
+        "countryCode": "USA",
+        "state": "KS"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "Colmery O'Neil VA Medical Center 2200 Gage Blvd",
+        "streetAddress2": "",
+        "city": {
+          "name": "Topeka"
+        },
+        "state": {
+          "name": "Kansas"
+        },
+        "zip": "66622",
+        "country": {}
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "james.petrik@va.gov",
+          "phone": "913-946-1143",
+          "title": "James Petrik",
+          "fullName": "Contracting Officer"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a5444eb8577e42db838a697e21a8c932/download"
+      ],
+      "responseDeadLine": "2026-12-04T14:00:00-06:00",
+      "solicitationNumber": "36C25527R0017",
+      "title": "C1DA--589A5-25-150 REPLACE BOILERS FLS| MC  FY27 NRM VISN Base DE",
+      "type": "Presolicitation",
+      "typeOfSetAside": "VSA",
+      "typeOfSetAsideDescription": "Veteran-Owned Small Business Set-Aside (specific to Department of Veterans Affairs)",
+      "uiLink": "https://sam.gov/workspace/contract/opp/6725341e34154e6d826fba322593fc4b/view"
     },
     {
       "active": "Yes",
@@ -6553,6 +9157,143 @@
       "typeOfSetAside": "SBA",
       "typeOfSetAsideDescription": "Small Business Set Aside - Total",
       "uiLink": "https://sam.gov/workspace/contract/opp/27372def416f4342be8a9e93d5e487bd/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-10",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "7E21",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=23182628fc84473aa336c4cd21585a65",
+      "fullParentPathCode": "080.8000.80NSSC",
+      "fullParentPathName": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA SHARED SERVICES CENTER",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=23182628fc84473aa336c4cd21585a65&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "23182628fc84473aa336c4cd21585a65",
+      "officeAddress": {
+        "zipcode": "39529",
+        "city": "STENNIS SPACE CENTER",
+        "countryCode": "USA",
+        "state": "MS"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "0",
+          "name": "0"
+        },
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "94035",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "cara.s.craft@nasa.gov",
+          "phone": "",
+          "fullName": "Cara Craft"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/34225599556a42d8a4122d8a279134db/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e6fd571f24245f8a92dc24eaf03a631/download"
+      ],
+      "responseDeadLine": "2026-11-25T13:00:00-06:00",
+      "solicitationNumber": "80NSSC27949205Q",
+      "title": "Universal Robotics e-Series Arm",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/23182628fc84473aa336c4cd21585a65/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-01-22",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Sources Sought",
+      "classificationCode": null,
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=211097d240a449be924b37d02d86b306",
+      "fullParentPathCode": "017.1700.NAVSUP.NAVSUP GLS.NAVSUP FLC SAN DIEGO.N00244",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC SAN DIEGO.NAVSUP FLT LOG CTR  SAN DIEGO",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=211097d240a449be924b37d02d86b306&limit=1"
+        }
+      ],
+      "naicsCode": "541330",
+      "naicsCodes": [
+        "541330"
+      ],
+      "noticeId": "211097d240a449be924b37d02d86b306",
+      "officeAddress": {
+        "zipcode": "92136",
+        "city": "SAN DIEGO",
+        "countryCode": "USA",
+        "state": "CA"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "66000",
+          "name": "San Diego"
+        },
+        "state": {
+          "code": "CA",
+          "name": "California"
+        },
+        "zip": "92136",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "jose.g.juarez8.civ@us.navy.mil",
+          "phone": "",
+          "fullName": "Jose G. Juarez"
+        },
+        {
+          "type": "secondary",
+          "email": "TOM.E.RUANE2.civ@us.navy.mil",
+          "fullName": "RUANE, TOM"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/dc440e68099d41c79bac8c5305431dc8/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e41d6727222642f5829bf604119f3ecb/download"
+      ],
+      "responseDeadLine": "2027-01-07T15:00:00-08:00",
+      "solicitationNumber": "ATGPAC",
+      "title": "CNSP AND ATGPAC SURFACE FORCE TRAINING AND READINESS SUPPORT",
+      "type": "Sources Sought",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/211097d240a449be924b37d02d86b306/view"
     },
     {
       "active": "Yes",
@@ -6914,58 +9655,6 @@
       "typeOfSetAside": "",
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/89f67cbf5ca44236ac03296043bfdc78/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-11-17",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Solicitation",
-      "classificationCode": "AC13",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=76f510ce179f46109be6a0666f5a19bc",
-      "fullParentPathCode": "017.1700.NAVSEA.NAVSEA WARFARE CTR.N00167",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSEA.NAVSEA WARFARE CENTER.NSWC CARDEROCK",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=76f510ce179f46109be6a0666f5a19bc&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "76f510ce179f46109be6a0666f5a19bc",
-      "officeAddress": {
-        "zipcode": "20817-5700",
-        "city": "BETHESDA",
-        "countryCode": "USA",
-        "state": "MD"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "9500 MACARTHUR BOULEVARD, BETHESDA MD 20817-5700 ",
-        "zip": "20817"
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "alexander.c.lambis.civ@us.navy.mil",
-          "phone": "2405193430",
-          "fullName": "Alexander Lambis"
-        }
-      ],
-      "postedDate": "2026-11-17",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-11-24T13:00:00-05:00",
-      "solicitationNumber": "N0016726R3104",
-      "title": "RFP for Advanced Signatures Technologies (AST) ",
-      "type": "Solicitation",
-      "typeOfSetAside": "SBA",
-      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
-      "uiLink": "https://sam.gov/workspace/contract/opp/76f510ce179f46109be6a0666f5a19bc/view"
     },
     {
       "active": "Yes",
@@ -8133,85 +10822,6 @@
       "typeOfSetAside": null,
       "typeOfSetAsideDescription": null,
       "uiLink": "https://sam.gov/workspace/contract/opp/75bb4079685e43b6b5635aa2fb62863f/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-12-05",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Combined Synopsis/Solicitation",
-      "classificationCode": "R425",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=6e49a8b096ae4a0fb41ae1ff28acce48",
-      "fullParentPathCode": "017.1700.NAVSUP.NAVSUP GLS.NAVSUP FLC NORFOLK.N00189",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVSUP.NAVSUP GLOBAL LOGISTICS SUPPORT.NAVSUP FLC NORFOLK.NAVSUP FLT LOG CTR NORFOLK",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=6e49a8b096ae4a0fb41ae1ff28acce48&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "6e49a8b096ae4a0fb41ae1ff28acce48",
-      "officeAddress": {
-        "zipcode": "23511-3392",
-        "city": "NORFOLK",
-        "countryCode": "USA",
-        "state": "VA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "57000",
-          "name": "Norfolk"
-        },
-        "state": {
-          "code": "VA",
-          "name": "Virginia"
-        },
-        "zip": "23551",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "john.c.hill36.civ@us.navy.mil",
-          "phone": "",
-          "fullName": "JOHN HILL"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "lorna.d.mohney.civ@us.navy.mil",
-          "phone": "",
-          "fullName": "Lorna Mohney"
-        }
-      ],
-      "postedDate": "2026-11-16",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8d4812e704f147de8061a1e7a214975e/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/963ba2bc3615412d85fe37d191f23728/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/a22194e010ba4f87b274b663478bd228/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5827ae6370345809318f883bba75698/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bac4f8049d744395a6402e97c205cecb/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/bcccfb4d72dc47e69439ac5c5d5c9319/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c3ca725c362c46ef852c64f578cab328/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e6622f5444eb4f769f49a7a0906c510b/download"
-      ],
-      "responseDeadLine": "2026-11-20T08:00:00-05:00",
-      "solicitationNumber": "N0018927QL019",
-      "title": "United States\u2013United Kingdom (US-UK) Enhanced Cooperation on Carrier Operations and Maritime Power Projection Support Services",
-      "type": "Combined Synopsis/Solicitation",
-      "typeOfSetAside": "NONE",
-      "typeOfSetAsideDescription": "No Set aside used",
-      "uiLink": "https://sam.gov/workspace/contract/opp/6e49a8b096ae4a0fb41ae1ff28acce48/view"
     },
     {
       "active": "Yes",
@@ -9406,58 +12016,6 @@
       "archiveDate": "2027-11-12",
       "archiveType": "autocustom",
       "award": null,
-      "baseType": "Sources Sought",
-      "classificationCode": "L059",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ee546000a16e4fc68f9cd36002e60331",
-      "fullParentPathCode": "017.1700.SPAWAR.SPAWAR LANT.N65236",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.SPAWAR.SPAWAR LANT.NIWC ATLANTIC",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ee546000a16e4fc68f9cd36002e60331&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "ee546000a16e4fc68f9cd36002e60331",
-      "officeAddress": {
-        "zipcode": "29419-9022",
-        "city": "NORTH CHARLESTON",
-        "countryCode": "USA",
-        "state": "SC"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "One Innovation Drive Hanahan, SC 29406",
-        "zip": "29406"
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "norma.z.rehbein-hill.civ@us.navy.mil",
-          "phone": "7574034621",
-          "fullName": "Norma REHBEIN-HILL"
-        }
-      ],
-      "postedDate": "2026-11-12",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-12-11T17:00:00-05:00",
-      "solicitationNumber": "N65236-26-RFPREQ-LSUBP00035-0009",
-      "title": "SUBMARINE C4ISR SYSTEMS TECH SUPPORT, INSTALLATION AND MODERNIZATION",
-      "type": "Sources Sought",
-      "typeOfSetAside": null,
-      "typeOfSetAsideDescription": null,
-      "uiLink": "https://sam.gov/workspace/contract/opp/ee546000a16e4fc68f9cd36002e60331/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-11-12",
-      "archiveType": "autocustom",
-      "award": null,
       "baseType": "Solicitation",
       "classificationCode": "R425",
       "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ecff67db7fec4d359f3d9cd4d1a87b14",
@@ -9522,65 +12080,6 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/ecff67db7fec4d359f3d9cd4d1a87b14/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2027-09-16",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Combined Synopsis/Solicitation",
-      "classificationCode": "C216",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=c9f6814e2a3a41109eb48525fae58811",
-      "fullParentPathCode": "021.2100.USACE.NAD.NAP.W912BU",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION NORTH ATLANTIC.ENDIST PHILADELPHIA.W2SD ENDIST PHILADELPHIA",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=c9f6814e2a3a41109eb48525fae58811&limit=1"
-        }
-      ],
-      "naicsCode": "541330",
-      "naicsCodes": [
-        "541330"
-      ],
-      "noticeId": "c9f6814e2a3a41109eb48525fae58811",
-      "officeAddress": {
-        "zipcode": "19103-2029",
-        "city": "PHILADELPHIA",
-        "countryCode": "USA",
-        "state": "PA"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "",
-        "zip": ""
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "Quinn.P.Greene@usace.army.mil",
-          "phone": "",
-          "fullName": "Quinn Greene"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "Esther.A.Edinborough@usace.army.mil",
-          "phone": "",
-          "fullName": "Esther Edinborough"
-        }
-      ],
-      "postedDate": "2026-11-12",
-      "resourceLinks": null,
-      "responseDeadLine": "2026-12-18T12:00:00-05:00",
-      "solicitationNumber": "W912BU26RA036",
-      "title": "INDEFINITE DELIVERY INDEFINITE QUANTITY CONTRACT FOR INLAND AND COASTAL VESSELS ENGINEERING SERVICES, NAVAL ARCHITECTURE, AND MARINE ENGINEERING",
-      "type": "Combined Synopsis/Solicitation",
-      "typeOfSetAside": "SBA",
-      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
-      "uiLink": "https://sam.gov/workspace/contract/opp/c9f6814e2a3a41109eb48525fae58811/view"
     },
     {
       "active": "Yes",
@@ -10047,6 +12546,352 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
+      "archiveDate": "2026-12-19",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Presolicitation",
+      "classificationCode": "J049",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ad3a3c21601a4b909054d3b02caf4e3c",
+      "fullParentPathCode": "057.5700.AFMC.AFSC.FA8125",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.AIR FORCE MATERIEL COMMAND.AIR FORCE SUSTAINMENT CENTER.FA8125  AFSC PZIMA",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ad3a3c21601a4b909054d3b02caf4e3c&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "ad3a3c21601a4b909054d3b02caf4e3c",
+      "officeAddress": {
+        "zipcode": "73145-3303",
+        "city": "TINKER AFB",
+        "countryCode": "USA",
+        "state": "OK"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "0",
+          "name": "0"
+        },
+        "state": {
+          "code": "OK",
+          "name": "Oklahoma"
+        },
+        "zip": "73145",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "Linsey.Laird@us.af.mil",
+          "phone": "",
+          "fullName": "Linsey Laird"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "Jason.Shirazi@us.af.mil",
+          "phone": "",
+          "fullName": "Jason Shirazi"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-12-04T12:00:00-06:00",
+      "solicitationNumber": "FA812527Q0015",
+      "title": "Fall Protection Annual Inspection",
+      "type": "Presolicitation",
+      "typeOfSetAside": null,
+      "typeOfSetAsideDescription": null,
+      "uiLink": "https://sam.gov/workspace/contract/opp/ad3a3c21601a4b909054d3b02caf4e3c/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-19",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "B599",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=a3f827fd8cf14b86af2d46b6e058e8f1",
+      "fullParentPathCode": "016.1665.16PBGC",
+      "fullParentPathName": "PENSION BENEFIT GUARANTY CORPORATION.PENSION BENEFIT GUARANTY CORPORATION.PENSION BENEFIT GUARANTY CORP",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=a3f827fd8cf14b86af2d46b6e058e8f1&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "a3f827fd8cf14b86af2d46b6e058e8f1",
+      "officeAddress": {
+        "zipcode": "20024",
+        "city": "WASHINGTON",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "50000",
+          "name": "Washington"
+        },
+        "state": {
+          "code": "DC",
+          "name": "District of Columbia"
+        },
+        "zip": "20024",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "nguyen.au@pbgc.gov",
+          "phone": "",
+          "fullName": "Au Nguyen"
+        },
+        {
+          "type": "secondary",
+          "email": "walton.matthew@pbgc.gov",
+          "fullName": "Matt Walton"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/7fcbf73366be4b7b917f2b70a2aaf86c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/98d5d5f5d4694c2b876f4ee7132ca8db/download"
+      ],
+      "responseDeadLine": "2026-12-04T10:00:00-05:00",
+      "solicitationNumber": "16PBGC26Q0041",
+      "title": "Insurance Rate Survey Subscription",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/a3f827fd8cf14b86af2d46b6e058e8f1/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-29",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Combined Synopsis/Solicitation",
+      "classificationCode": "U009",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=475f93a92d184af085bfc954d6f34351",
+      "fullParentPathCode": "070.7008.70Z038",
+      "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.AVIATION LOGISTICS CENTER (ALC)(00038)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=475f93a92d184af085bfc954d6f34351&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "475f93a92d184af085bfc954d6f34351",
+      "officeAddress": {
+        "zipcode": "27909",
+        "city": "Elizabeth City",
+        "countryCode": "USA",
+        "state": "NC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "50000",
+          "name": "Mobile"
+        },
+        "state": {
+          "code": "AL",
+          "name": "Alabama"
+        },
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "sarah.c.blonder@uscg.mil",
+          "phone": "(206) 827-3857",
+          "fullName": "MST1 Sarah Blonder"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "mandi.l.mckinsey@uscg.mil",
+          "phone": "(252) 340-2436",
+          "fullName": "MANDI L. MCKINSEY"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c75d0d0d3db14dd5bf01f25c72d15606/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/d9cc04f4578b4565b21afade21e48fe9/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/ea2f07ec019b4cef8b0498f392a93b5c/download"
+      ],
+      "responseDeadLine": "2026-12-14T09:00:00-05:00",
+      "solicitationNumber": "34359RFQ270000002",
+      "title": "US COAST GUARD NSFCC CONFINED SPACE TRAINING",
+      "type": "Combined Synopsis/Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/475f93a92d184af085bfc954d6f34351/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-29",
+      "archiveType": "auto15",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "R431",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=3107ace47cd24e8e8590c5b5cf5a7b7d",
+      "fullParentPathCode": "021.2100.NGB.JFHQ USPFO IL.USPFO IL PROC.W91SMC",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO IL.USPFO IL PROCUREMENT.W7M6 USPFO ACTIVITY IL ARNG",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=3107ace47cd24e8e8590c5b5cf5a7b7d&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "3107ace47cd24e8e8590c5b5cf5a7b7d",
+      "officeAddress": {
+        "zipcode": "62702-2399",
+        "city": "SPRINGFIELD",
+        "countryCode": "USA",
+        "state": "IL"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "72000",
+          "name": "Springfield"
+        },
+        "state": {
+          "code": "IL",
+          "name": "Illinois"
+        },
+        "zip": "62702",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "stephanie.c.maley.civ@army.mil",
+          "phone": "",
+          "fullName": "Stephanie Maley"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "lawrence.j.romang.civ@mail.mil",
+          "phone": "",
+          "fullName": "Lawrence Romang"
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/02c3406686c6424fb82f5494684bd523/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/35bb2cfcb77846a9a36fe938609255fc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8ec44c150d7a4e15b1ab8a50b9b276d0/download"
+      ],
+      "responseDeadLine": "2026-12-14T11:00:00-06:00",
+      "solicitationNumber": "W91SMC27RA001",
+      "title": "Employee Assistance Program \u2013 Human Resources Office (HRO)",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/3107ace47cd24e8e8590c5b5cf5a7b7d/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-11-19",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "R499",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=07fffd8f04744a4988e8cce63a620419",
+      "fullParentPathCode": "021.2100.USACE.SAD.SAA.W51DQV",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.US ARMY CORPS OF ENGINEERS.ENGINEER DIVISION SOUTH ATLANTIC.ENDIST CARIBBEAN.W2SR ENDIST CARIBBEAN(PROVIS)",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=07fffd8f04744a4988e8cce63a620419&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "07fffd8f04744a4988e8cce63a620419",
+      "officeAddress": {
+        "zipcode": "00918-0000",
+        "city": "SAN JUAN",
+        "countryCode": "USA",
+        "state": "PR"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "383 FRANKLIN D ROOSEVELT AVENUE(No Street Address 2)SAN JUAN, PR 00918-0000 USA",
+        "zip": "00798"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "erica.j.taylor@usace.army.mil",
+          "phone": "9393487017",
+          "fullName": "Erica J. Taylor "
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "jose.o.vazquez-torres@usace.army.mil",
+          "phone": "9393489534",
+          "fullName": "Jose Vazquez-Torres "
+        }
+      ],
+      "postedDate": "2026-11-19",
+      "resourceLinks": null,
+      "responseDeadLine": "2026-11-20T14:30:00-04:00",
+      "solicitationNumber": "W51DQV27RA002",
+      "title": "Quality Assurance Services - Civil Works, Interagency and International Services (IIS), and Military Construction Projects in Puerto Rico and U.S. Virgin Islands",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBA",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
+      "uiLink": "https://sam.gov/workspace/contract/opp/07fffd8f04744a4988e8cce63a620419/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
       "archiveDate": "2026-12-17",
       "archiveType": "auto15",
       "award": null,
@@ -10108,6 +12953,152 @@
       "typeOfSetAside": "NONE",
       "typeOfSetAsideDescription": "No Set aside used",
       "uiLink": "https://sam.gov/workspace/contract/opp/9f8cf432f1764506999b56688b134bf2/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2026-12-03",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Special Notice",
+      "classificationCode": "R425",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=9281a80b777e433a89e3e4c9badfed61",
+      "fullParentPathCode": "070.7008.70ZU06",
+      "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.CG-SEA-C13",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=9281a80b777e433a89e3e4c9badfed61&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "9281a80b777e433a89e3e4c9badfed61",
+      "officeAddress": {
+        "zipcode": "20593",
+        "city": "Washington",
+        "countryCode": "USA",
+        "state": "DC"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "city": {
+          "code": "55360",
+          "name": "Pascagoula"
+        },
+        "state": {
+          "code": "MS",
+          "name": "Mississippi"
+        },
+        "zip": "39581",
+        "country": {
+          "code": "USA",
+          "name": "UNITED STATES"
+        }
+      },
+      "pointOfContact": [
+        {
+          "type": "primary",
+          "email": "Kim.Keenum@uscg.mil",
+          "phone": "(571) 608-1666",
+          "fullName": "Kim Keenum"
+        },
+        {
+          "type": "secondary",
+          "email": "Adam.B.Muhsin@uscg.mil",
+          "phone": "(571) 607-1528",
+          "fullName": "Adam Muhsin"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/82fbcde518824c79b698c0cbf70840b1/download"
+      ],
+      "responseDeadLine": "2026-12-03T16:00:00-05:00",
+      "solicitationNumber": null,
+      "title": "Polar Security Cutter (PSC) Technical Support Services",
+      "type": "Special Notice",
+      "typeOfSetAside": "NONE",
+      "typeOfSetAsideDescription": "No Set aside used",
+      "uiLink": "https://sam.gov/workspace/contract/opp/9281a80b777e433a89e3e4c9badfed61/view"
+    },
+    {
+      "active": "Yes",
+      "additionalInfoLink": null,
+      "archiveDate": "2027-11-18",
+      "archiveType": "autocustom",
+      "award": null,
+      "baseType": "Solicitation",
+      "classificationCode": "F999",
+      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=7ac9a28eebd2436d8fd94acf11815acf",
+      "fullParentPathCode": "017.1700.NAVFAC.NAVFAC PACIFIC CMD.N62742",
+      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=7ac9a28eebd2436d8fd94acf11815acf&limit=1"
+        }
+      ],
+      "naicsCode": "541990",
+      "naicsCodes": [
+        "541990"
+      ],
+      "noticeId": "7ac9a28eebd2436d8fd94acf11815acf",
+      "officeAddress": {
+        "zipcode": "96860-3134",
+        "city": "JBPHH",
+        "countryCode": "USA",
+        "state": "HI"
+      },
+      "organizationType": "OFFICE",
+      "placeOfPerformance": {
+        "streetAddress": "Naval Facilities Engineering Systems Command (NAVFAC) Pacific Area of Responsibility",
+        "zip": "96860"
+      },
+      "pointOfContact": [
+        {
+          "fax": "",
+          "type": "primary",
+          "email": "rachel.m.gerakas.civ@us.navy.mil",
+          "phone": "808-602-5334",
+          "fullName": "Rachel Gerakas"
+        },
+        {
+          "fax": "",
+          "type": "secondary",
+          "email": "casey.c.sugihara.civ@us.navy.mil",
+          "phone": "808-603-4914",
+          "fullName": "Casey Sugihara"
+        }
+      ],
+      "postedDate": "2026-11-18",
+      "resourceLinks": [
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/1a38432e2d304672a749809feb8dfc7c/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/26577d5e867342fd8a4201a1af62a8cb/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/27a77bbdcad84d6e84d15f39e72a7fed/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/292ed0dfdc5c44c586a150fd578cb81e/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/29aa9d176f6d49bdb49f403fe5c41bf5/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e20786caef04e7389d3b0beea2ea4fe/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/84598ccdacc34d99b259b4774c3e705f/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/865edb1734284763b11dd722bbf233de/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/8819eac3bb884ba49d6d7d043882ed23/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aed678d016ff46068aa87bd6469cbcfc/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2cb95415490430db2db41220e01e2fa/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b5be3e514e0042f8919f24f99b211c04/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c9554bbe59084d5e8008f2d52618b4b6/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e36b1ba6de97473f906efcaeb490e193/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e53a7f5a6d214ff5b5698da994b77727/download",
+        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/f04b70096f8a4ecb8e7329817c4ba710/download"
+      ],
+      "responseDeadLine": "2026-12-07T14:00:00-10:00",
+      "solicitationNumber": "N6274227R1801",
+      "title": "Marine Resource Technical Services Throughout the Naval Facilities Engineering Systems Command (NAVFAC) Pacific Area of Responsibility",
+      "type": "Solicitation",
+      "typeOfSetAside": "SBP",
+      "typeOfSetAsideDescription": "Small Business Set Aside - Partial",
+      "uiLink": "https://sam.gov/workspace/contract/opp/7ac9a28eebd2436d8fd94acf11815acf/view"
     },
     {
       "active": "Yes",
@@ -10309,77 +13300,6 @@
     {
       "active": "Yes",
       "additionalInfoLink": null,
-      "archiveDate": "2027-11-18",
-      "archiveType": "autocustom",
-      "award": null,
-      "baseType": "Solicitation",
-      "classificationCode": "F999",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=5a9511c2744e4e0882b6df9003fb95e7",
-      "fullParentPathCode": "017.1700.NAVFAC.NAVFAC PACIFIC CMD.N62742",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE NAVY.NAVFAC.NAVFAC PACIFIC CMD.NAVFACSYSCOM PACIFIC",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=5a9511c2744e4e0882b6df9003fb95e7&limit=1"
-        }
-      ],
-      "naicsCode": "541990",
-      "naicsCodes": [
-        "541990"
-      ],
-      "noticeId": "5a9511c2744e4e0882b6df9003fb95e7",
-      "officeAddress": {
-        "zipcode": "96860-3134",
-        "city": "JBPHH",
-        "countryCode": "USA",
-        "state": "HI"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "streetAddress": "Naval Facilities Engineering Systems Command (NAVFAC) Pacific Area of Responsibility",
-        "zip": "96860"
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "rachel.m.gerakas.civ@us.navy.mil",
-          "phone": "808-602-5334",
-          "fullName": "Rachel Gerakas"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "casey.c.sugihara.civ@us.navy.mil",
-          "phone": "808-603-4914",
-          "fullName": "Casey Sugihara"
-        }
-      ],
-      "postedDate": "2026-11-17",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/26577d5e867342fd8a4201a1af62a8cb/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/27a77bbdcad84d6e84d15f39e72a7fed/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/292ed0dfdc5c44c586a150fd578cb81e/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/29aa9d176f6d49bdb49f403fe5c41bf5/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/3e20786caef04e7389d3b0beea2ea4fe/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/84598ccdacc34d99b259b4774c3e705f/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/aed678d016ff46068aa87bd6469cbcfc/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/b2cb95415490430db2db41220e01e2fa/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c9554bbe59084d5e8008f2d52618b4b6/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e36b1ba6de97473f906efcaeb490e193/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/e53a7f5a6d214ff5b5698da994b77727/download"
-      ],
-      "responseDeadLine": "2026-12-07T14:00:00-10:00",
-      "solicitationNumber": "N6274227R1801",
-      "title": "Marine Resource Technical Services Throughout the Naval Facilities Engineering Systems Command (NAVFAC) Pacific Area of Responsibility",
-      "type": "Solicitation",
-      "typeOfSetAside": "SBP",
-      "typeOfSetAsideDescription": "Small Business Set Aside - Partial",
-      "uiLink": "https://sam.gov/workspace/contract/opp/5a9511c2744e4e0882b6df9003fb95e7/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
       "archiveDate": "2026-12-16",
       "archiveType": "auto15",
       "award": null,
@@ -10513,76 +13433,6 @@
       "typeOfSetAside": "SDVOSBC",
       "typeOfSetAsideDescription": "Service-Disabled Veteran-Owned Small Business (SDVOSB) Set-Aside (FAR 19.14)",
       "uiLink": "https://sam.gov/workspace/contract/opp/d5c314b9d78643839c5aa65c2b89ed25/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-12-29",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Combined Synopsis/Solicitation",
-      "classificationCode": "U009",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=ce690b40c9614894bc17957bf6507aa4",
-      "fullParentPathCode": "070.7008.70Z038",
-      "fullParentPathName": "HOMELAND SECURITY, DEPARTMENT OF.US COAST GUARD.AVIATION LOGISTICS CENTER (ALC)(00038)",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=ce690b40c9614894bc17957bf6507aa4&limit=1"
-        }
-      ],
-      "naicsCode": "541990",
-      "naicsCodes": [
-        "541990"
-      ],
-      "noticeId": "ce690b40c9614894bc17957bf6507aa4",
-      "officeAddress": {
-        "zipcode": "27909",
-        "city": "Elizabeth City",
-        "countryCode": "USA",
-        "state": "NC"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "50000",
-          "name": "Mobile"
-        },
-        "state": {
-          "code": "AL",
-          "name": "Alabama"
-        },
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "type": "primary",
-          "email": "sarah.c.blonder@uscg.mil",
-          "phone": "(206) 827-3857",
-          "fullName": "MST1 Sarah Blonder"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "mandi.l.mckinsey@uscg.mil",
-          "phone": "(252) 340-2436",
-          "fullName": "MANDI L. MCKINSEY"
-        }
-      ],
-      "postedDate": "2026-11-16",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/c75d0d0d3db14dd5bf01f25c72d15606/download"
-      ],
-      "responseDeadLine": "2026-12-14T09:00:00-05:00",
-      "solicitationNumber": "34359RFQ270000002",
-      "title": "US COAST GUARD NSFCC CONFINED SPACE TRAINING",
-      "type": "Combined Synopsis/Solicitation",
-      "typeOfSetAside": "SBA",
-      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
-      "uiLink": "https://sam.gov/workspace/contract/opp/ce690b40c9614894bc17957bf6507aa4/view"
     },
     {
       "active": "Yes",
@@ -10810,79 +13660,6 @@
       "typeOfSetAside": "SBA",
       "typeOfSetAsideDescription": "Small Business Set Aside - Total",
       "uiLink": "https://sam.gov/workspace/contract/opp/d01261cbdd774cc183ca4aa6d81e8126/view"
-    },
-    {
-      "active": "Yes",
-      "additionalInfoLink": null,
-      "archiveDate": "2026-12-29",
-      "archiveType": "auto15",
-      "award": null,
-      "baseType": "Solicitation",
-      "classificationCode": "R431",
-      "description": "https://api.sam.gov/prod/opportunities/v1/noticedesc?noticeid=8506f214aa1f489f9500adec04af0fae",
-      "fullParentPathCode": "021.2100.NGB.JFHQ USPFO IL.USPFO IL PROC.W91SMC",
-      "fullParentPathName": "DEPT OF DEFENSE.DEPT OF THE ARMY.NATIONAL GUARD BUREAU.JFHQ USPFO IL.USPFO IL PROCUREMENT.W7M6 USPFO ACTIVITY IL ARNG",
-      "links": [
-        {
-          "rel": "self",
-          "href": "https://api.sam.gov/prod/opportunities/v2/search?noticeid=8506f214aa1f489f9500adec04af0fae&limit=1"
-        }
-      ],
-      "naicsCode": "541990",
-      "naicsCodes": [
-        "541990"
-      ],
-      "noticeId": "8506f214aa1f489f9500adec04af0fae",
-      "officeAddress": {
-        "zipcode": "62702-2399",
-        "city": "SPRINGFIELD",
-        "countryCode": "USA",
-        "state": "IL"
-      },
-      "organizationType": "OFFICE",
-      "placeOfPerformance": {
-        "city": {
-          "code": "72000",
-          "name": "Springfield"
-        },
-        "state": {
-          "code": "IL",
-          "name": "Illinois"
-        },
-        "zip": "62702",
-        "country": {
-          "code": "USA",
-          "name": "UNITED STATES"
-        }
-      },
-      "pointOfContact": [
-        {
-          "fax": "",
-          "type": "primary",
-          "email": "stephanie.c.maley.civ@army.mil",
-          "phone": "",
-          "fullName": "Stephanie Maley"
-        },
-        {
-          "fax": "",
-          "type": "secondary",
-          "email": "lawrence.j.romang.civ@mail.mil",
-          "phone": "",
-          "fullName": "Lawrence Romang"
-        }
-      ],
-      "postedDate": "2026-11-13",
-      "resourceLinks": [
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/02c3406686c6424fb82f5494684bd523/download",
-        "https://sam.gov/api/prod/opps/v3/opportunities/resources/files/42aea2c8ae0e4414a4850c6e4e81d266/download"
-      ],
-      "responseDeadLine": "2026-12-14T11:00:00-06:00",
-      "solicitationNumber": "W91SMC27RA001",
-      "title": "Employee Assistance Program \u2013 Human Resources Office (HRO)",
-      "type": "Solicitation",
-      "typeOfSetAside": "SBA",
-      "typeOfSetAsideDescription": "Small Business Set Aside - Total",
-      "uiLink": "https://sam.gov/workspace/contract/opp/8506f214aa1f489f9500adec04af0fae/view"
     },
     {
       "active": "Yes",
