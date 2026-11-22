@@ -1,5 +1,5 @@
 {
-  "overall_tldr": "Today's batch includes various contract opportunities focused on modeling, simulation, and defense technology, particularly relevant to the aerospace and defense sectors. Many of these listings align with the engineer's work at NASIC, emphasizing RF analysis, simulation environments, and advanced engineering services.",
+  "overall_tldr": "Today's batch features a variety of contract opportunities primarily focused on defense and aerospace sectors, particularly in modeling and simulation, which aligns well with the profile's expertise at NASIC. There are numerous projects related to RF signature analysis, systems integration, and advanced technology development that could be of interest.",
   "job_recommendations": [
     {
       "notice_id": "dc7e1eeb848d4fadbbbd37d67d35f897",
@@ -10,32 +10,8 @@
       "posted_date": "2026-11-20",
       "response_deadline": null,
       "link": "https://sam.gov/workspace/contract/opp/dc7e1eeb848d4fadbbbd37d67d35f897/view",
-      "tldr": "This opportunity involves integrating and evaluating the Valkryn Testos C2Net platform, which is likely related to command and control systems.",
-      "why_relevant": "The focus on integration and evaluation aligns with your experience in modeling and simulation for defense applications."
-    },
-    {
-      "notice_id": "b45ade232c3a4a9789b6770f973fac50",
-      "title": "HYDROSPHERE, BIOSPHERE, & GEOPHYSICS (HBG) SUPPORT SERVICES II  - FINAL REQUEST FOR PROPOSAL (FRFP)",
-      "agency": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NATIONAL AERONAUTICS AND SPACE ADMINISTRATION.NASA GODDARD SPACE FLIGHT CENTER",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-11-20",
-      "response_deadline": "2026-12-15T14:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/b45ade232c3a4a9789b6770f973fac50/view",
-      "tldr": "This RFP seeks support services for projects related to the hydrosphere, biosphere, and geophysics, which may involve simulation and modeling.",
-      "why_relevant": "Your background in modeling and simulation can contribute to projects in environmental and geophysical modeling."
-    },
-    {
-      "notice_id": "8728891cacbe4dec94c91c2aad975600",
-      "title": "Over the Horizon Naval Strike Missile Navigation Adapter",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY",
-      "naics": "541715",
-      "set_aside": null,
-      "posted_date": "2026-11-20",
-      "response_deadline": "2026-12-16T12:00:00-05:00",
-      "link": "https://sam.gov/workspace/contract/opp/8728891cacbe4dec94c91c2aad975600/view",
-      "tldr": "This project involves developing a navigation adapter for naval strike missiles, which may include simulation components.",
-      "why_relevant": "Your expertise in modeling and simulation can be applied to the development and testing of navigation systems."
+      "tldr": "This opportunity involves integrating and evaluating a command and control network platform for the Air Force, focusing on advanced technology applications.",
+      "why_relevant": "It aligns with your work in modeling and simulation and supports Air Force initiatives."
     },
     {
       "notice_id": "67769acbe71f480e83992cac93de6853",
@@ -46,8 +22,20 @@
       "posted_date": "2026-11-20",
       "response_deadline": "2026-12-21T23:59:00-05:00",
       "link": "https://sam.gov/workspace/contract/opp/67769acbe71f480e83992cac93de6853/view",
-      "tldr": "This opportunity focuses on Lidar analysis for environmental reconnaissance, which involves advanced modeling techniques.",
-      "why_relevant": "Your interest in modeling and simulation aligns well with the innovative approaches in geospatial intelligence."
+      "tldr": "This contract focuses on innovative applications of Lidar technology for environmental reconnaissance, enhancing geospatial intelligence capabilities.",
+      "why_relevant": "It connects to your interests in advanced technology and modeling applications in defense."
+    },
+    {
+      "notice_id": "8728891cacbe4dec94c91c2aad975600",
+      "title": "Over the Horizon Naval Strike Missile Navigation Adapter",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY",
+      "naics": "541715",
+      "set_aside": null,
+      "posted_date": "2026-11-20",
+      "response_deadline": "2026-12-16T12:00:00-05:00",
+      "link": "https://sam.gov/workspace/contract/opp/8728891cacbe4dec94c91c2aad975600/view",
+      "tldr": "This opportunity involves developing navigation adapters for missile systems, enhancing operational capabilities.",
+      "why_relevant": "It relates to defense technology and systems integration, areas relevant to your expertise."
     },
     {
       "notice_id": "5ac24edf697e42f3a7e65af7877d03ef",
@@ -58,20 +46,8 @@
       "posted_date": "2026-11-20",
       "response_deadline": "2026-12-11T09:00:00-08:00",
       "link": "https://sam.gov/workspace/contract/opp/5ac24edf697e42f3a7e65af7877d03ef/view",
-      "tldr": "This contract seeks engineering and manufacturing support services, likely involving simulation and modeling.",
-      "why_relevant": "Your background in modeling and simulation makes you a good fit for engineering and manufacturing projects."
-    },
-    {
-      "notice_id": "3a9b2272021e4a1281ecc200d04dd919",
-      "title": "Phase 1 Sources Sought: Advanced Technical Engineering and Support Services",
-      "agency": "DEPT OF DEFENSE.DEPT OF THE ARMY.AMC.ACC.ACC-CTRS.ACC RSA.W6QK ACC-RSA",
-      "naics": "541715",
-      "set_aside": "No Set aside used",
-      "posted_date": "2026-11-20",
-      "response_deadline": "2026-12-21T16:00:00-06:00",
-      "link": "https://sam.gov/workspace/contract/opp/3a9b2272021e4a1281ecc200d04dd919/view",
-      "tldr": "This opportunity is for advanced technical engineering and support services, likely involving various simulation technologies.",
-      "why_relevant": "Your experience in modeling and simulation is highly relevant to the technical support required in this project."
+      "tldr": "This contract involves providing engineering and scientific support services for NASA projects, focusing on advanced technologies.",
+      "why_relevant": "It aligns with your interests in digital engineering and simulation technologies."
     },
     {
       "notice_id": "30115ed550d34a278f1477cda61e16b1",
@@ -82,8 +58,8 @@
       "posted_date": "2026-11-20",
       "response_deadline": "2026-12-07T10:00:00-06:00",
       "link": "https://sam.gov/workspace/contract/opp/30115ed550d34a278f1477cda61e16b1/view",
-      "tldr": "This contract involves providing systems integration and technical expertise for flight systems, which may include simulation work.",
-      "why_relevant": "Your skills in modeling and simulation are applicable to the integration of complex flight systems."
+      "tldr": "This opportunity focuses on providing systems integration and technical expertise for flight systems at NASA.",
+      "why_relevant": "It connects to your work in simulation and technical support for aerospace systems."
     },
     {
       "notice_id": "2f444d2db4d847a681f75d72ffa8fc16",
@@ -94,8 +70,8 @@
       "posted_date": "2026-11-20",
       "response_deadline": "2026-11-30T14:00:00-07:00",
       "link": "https://sam.gov/workspace/contract/opp/2f444d2db4d847a681f75d72ffa8fc16/view",
-      "tldr": "This RFI seeks information on multi-source positioning, navigation, and timing technologies, which may involve simulation.",
-      "why_relevant": "Your background in modeling and simulation aligns with the technological focus of this request."
+      "tldr": "This RFI seeks information on multi-source positioning, navigation, and timing technologies for military applications.",
+      "why_relevant": "It aligns with your interests in advanced technologies and military applications."
     },
     {
       "notice_id": "21af2dbb8fb44990a7d09f366fc11573",
@@ -106,8 +82,32 @@
       "posted_date": "2026-11-20",
       "response_deadline": "2026-12-07T14:00:00",
       "link": "https://sam.gov/workspace/contract/opp/21af2dbb8fb44990a7d09f366fc11573/view",
-      "tldr": "This opportunity focuses on research related to market resilience, potentially involving simulation and modeling.",
-      "why_relevant": "Your expertise in modeling and simulation could contribute to research on resilience in defense markets."
+      "tldr": "This opportunity focuses on research and development for enhancing market resilience in defense applications.",
+      "why_relevant": "It connects to your interests in innovative technology solutions for defense."
+    },
+    {
+      "notice_id": "63f288acf69644c084d9daab7ae34a7e",
+      "title": "Space Data Network (SDN) Industry Consortium for Space-to-Space Communications",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE AIR FORCE.SPACE SYSTEMS COMMAND.PEO SPACE DOMAIN AWARENESS ANDCOMBAT POWER.FA8819 SDA AND COMBAT POWER SZK-LA",
+      "naics": "541715",
+      "set_aside": "No Set aside used",
+      "posted_date": "2026-11-18",
+      "response_deadline": "2026-11-23T17:00:00-08:00",
+      "link": "https://sam.gov/workspace/contract/opp/63f288acf69644c084d9daab7ae34a7e/view",
+      "tldr": "This opportunity involves collaboration on space-to-space communication technologies for defense applications.",
+      "why_relevant": "It relates to your interests in space domain awareness and advanced communication technologies."
+    },
+    {
+      "notice_id": "b21913c5f78b4c749b6376f76315f870",
+      "title": "Space Science Information Technology Support",
+      "agency": "DEPT OF DEFENSE.DEPT OF THE NAVY.ONR.ONR NRL.NAVAL RESEARCH LABORATORY",
+      "naics": "541715",
+      "set_aside": "Small Business Set Aside - Total",
+      "posted_date": "2026-11-18",
+      "response_deadline": null,
+      "link": "https://sam.gov/workspace/contract/opp/b21913c5f78b4c749b6376f76315f870/view",
+      "tldr": "This contract involves providing IT support for space science initiatives, focusing on data management and analysis.",
+      "why_relevant": "It connects to your interests in technology and modeling in the aerospace sector."
     }
   ]
 }
